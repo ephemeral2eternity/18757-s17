@@ -1,0 +1,1012 @@
+[
+  {
+    "AS": 13041,
+    "ISP": "Consorci de Serveis Universitaris de Catalunya",
+    "clients": [
+      "dplanet2.uoc.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 3356,
+    "ISP": "Level 3 Communications, Inc.",
+    "clients": [
+      "dplanet2.uoc.edu",
+      "mars.planetlab.haw-hamburg.de",
+      "merkur.planetlab.haw-hamburg.de",
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn",
+      "planet-lab-node2.netgroup.uniroma2.it",
+      "planetlab-1.sjtu.edu.cn",
+      "planetlab1.upm.ro",
+      "planetlab2.upm.ro",
+      "planetlab3.inf.ethz.ch",
+      "pluto.cs.brown.edu"
+    ],
+    "numberOfClients": 13
+  },
+  {
+    "AS": 766,
+    "ISP": "Entidad Publica Empresarial Red.es",
+    "clients": [
+      "dplanet2.uoc.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 16509,
+    "ISP": "Amazon.com, Inc.",
+    "clients": [
+      "dplanet2.uoc.edu",
+      "mars.planetlab.haw-hamburg.de",
+      "merkur.planetlab.haw-hamburg.de",
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl1.6test.edu.cn",
+      "pl1.eng.monash.edu.au",
+      "pl1.rcc.uottawa.ca",
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "pl2.6test.edu.cn",
+      "pl2.cs.montana.edu",
+      "pl2.eng.monash.edu.au",
+      "pl2.ucs.indiana.edu",
+      "planet-lab-node2.netgroup.uniroma2.it",
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar",
+      "planetlab-1.sjtu.edu.cn",
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab-js1.cert.org.cn",
+      "planetlab-js2.cert.org.cn",
+      "planetlab01.cs.washington.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab04.cs.washington.edu",
+      "planetlab1.cesnet.cz",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.okstate.edu",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.ifi.uio.no",
+      "planetlab1.koganei.itrc.net",
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab1.postel.org",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab1.upm.ro",
+      "planetlab1.ustc.edu.cn",
+      "planetlab1.virtues.fi",
+      "planetlab2.cesnet.cz",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.ubc.ca",
+      "planetlab2.cs.ucla.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab2.ecs.vuw.ac.nz",
+      "planetlab2.koganei.itrc.net",
+      "planetlab2.pop-mg.rnp.br",
+      "planetlab2.upm.ro",
+      "planetlab2.utdallas.edu",
+      "planetlab3.cesnet.cz",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.inf.ethz.ch",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab4.goto.info.waseda.ac.jp",
+      "planetlab4.mini.pw.edu.pl",
+      "planetlab4.postel.org",
+      "planetlab5.eecs.umich.edu",
+      "planetlab6.goto.info.waseda.ac.jp",
+      "planetlabone.ccs.neu.edu",
+      "plink.cs.uwaterloo.ca",
+      "plonk.cs.uwaterloo.ca",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 69
+  },
+  {
+    "AS": 12693,
+    "ISP": "BCIX e.V.",
+    "clients": [
+      "mars.planetlab.haw-hamburg.de",
+      "merkur.planetlab.haw-hamburg.de"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 12693,
+    "ISP": "unknown",
+    "clients": [
+      "mars.planetlab.haw-hamburg.de",
+      "merkur.planetlab.haw-hamburg.de"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 174,
+    "ISP": "Cogent Communications",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn",
+      "planetlab-1.sjtu.edu.cn"
+    ],
+    "numberOfClients": 5
+  },
+  {
+    "AS": 14618,
+    "ISP": "unknown",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl1.6test.edu.cn",
+      "pl1.eng.monash.edu.au",
+      "pl1.rcc.uottawa.ca",
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "pl2.6test.edu.cn",
+      "pl2.cs.montana.edu",
+      "pl2.eng.monash.edu.au",
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar",
+      "planetlab-1.sjtu.edu.cn",
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab01.cs.washington.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab04.cs.washington.edu",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.koganei.itrc.net",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ubc.ca",
+      "planetlab2.cs.ucla.edu",
+      "planetlab2.ecs.vuw.ac.nz",
+      "planetlab2.koganei.itrc.net",
+      "planetlab2.utdallas.edu",
+      "planetlab4.postel.org",
+      "plink.cs.uwaterloo.ca",
+      "plonk.cs.uwaterloo.ca"
+    ],
+    "numberOfClients": 27
+  },
+  {
+    "AS": 11537,
+    "ISP": "EP.NET, LLC.",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl2.ucs.indiana.edu",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab5.eecs.umich.edu",
+      "planetlabone.ccs.neu.edu",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 23
+  },
+  {
+    "AS": 11537,
+    "ISP": "unknown",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl2.ucs.indiana.edu",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab5.eecs.umich.edu",
+      "planetlabone.ccs.neu.edu",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 23
+  },
+  {
+    "AS": 4538,
+    "ISP": "China Education and Research Network Center",
+    "clients": [
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn",
+      "planetlab-1.scie.uestc.edu.cn",
+      "planetlab-1.sjtu.edu.cn",
+      "planetlab-2.scie.uestc.edu.cn"
+    ],
+    "numberOfClients": 5
+  },
+  {
+    "AS": 4837,
+    "ISP": "CNCGROUP China169 Backbone",
+    "clients": [
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn",
+      "planetlab-1.sjtu.edu.cn"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 6453,
+    "ISP": "TATA COMMUNICATIONS (AMERICA) INC",
+    "clients": [
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn",
+      "planetlab-1.sjtu.edu.cn"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 7575,
+    "ISP": "Australian Academic and Reasearch Network (AARNet)",
+    "clients": [
+      "pl1.eng.monash.edu.au",
+      "pl2.eng.monash.edu.au",
+      "planetlab2.ecs.vuw.ac.nz"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 2914,
+    "ISP": "NTT America, Inc.",
+    "clients": [
+      "pl1.eng.monash.edu.au",
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "pl2.eng.monash.edu.au",
+      "planetlab2.ecs.vuw.ac.nz",
+      "planetlab4.goto.info.waseda.ac.jp",
+      "planetlab6.goto.info.waseda.ac.jp"
+    ],
+    "numberOfClients": 6
+  },
+  {
+    "AS": 16509,
+    "ISP": "unknown",
+    "clients": [
+      "dplanet2.uoc.edu",
+      "mars.planetlab.haw-hamburg.de",
+      "merkur.planetlab.haw-hamburg.de",
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl1.6test.edu.cn",
+      "pl1.eng.monash.edu.au",
+      "pl1.rcc.uottawa.ca",
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "pl2.6test.edu.cn",
+      "pl2.cs.montana.edu",
+      "pl2.eng.monash.edu.au",
+      "pl2.ucs.indiana.edu",
+      "planet-lab-node2.netgroup.uniroma2.it",
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar",
+      "planetlab-1.sjtu.edu.cn",
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab-js1.cert.org.cn",
+      "planetlab-js2.cert.org.cn",
+      "planetlab01.cs.washington.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab04.cs.washington.edu",
+      "planetlab1.cesnet.cz",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.okstate.edu",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.ifi.uio.no",
+      "planetlab1.koganei.itrc.net",
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab1.postel.org",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab1.upm.ro",
+      "planetlab1.ustc.edu.cn",
+      "planetlab1.virtues.fi",
+      "planetlab2.cesnet.cz",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.ubc.ca",
+      "planetlab2.cs.ucla.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab2.ecs.vuw.ac.nz",
+      "planetlab2.koganei.itrc.net",
+      "planetlab2.pop-mg.rnp.br",
+      "planetlab2.upm.ro",
+      "planetlab2.utdallas.edu",
+      "planetlab3.cesnet.cz",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.inf.ethz.ch",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab4.goto.info.waseda.ac.jp",
+      "planetlab4.mini.pw.edu.pl",
+      "planetlab4.postel.org",
+      "planetlab5.eecs.umich.edu",
+      "planetlab6.goto.info.waseda.ac.jp",
+      "planetlabone.ccs.neu.edu",
+      "plink.cs.uwaterloo.ca",
+      "plonk.cs.uwaterloo.ca",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 69
+  },
+  {
+    "AS": 11670,
+    "ISP": "unknown",
+    "clients": [
+      "pl1.rcc.uottawa.ca",
+      "planetlab2.cs.ubc.ca",
+      "plink.cs.uwaterloo.ca",
+      "plonk.cs.uwaterloo.ca"
+    ],
+    "numberOfClients": 4
+  },
+  {
+    "AS": 26677,
+    "ISP": "ORANO",
+    "clients": [
+      "pl1.rcc.uottawa.ca",
+      "plink.cs.uwaterloo.ca",
+      "plonk.cs.uwaterloo.ca"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 2907,
+    "ISP": "Research Organization of Information and Systems, National Institute of Informatics",
+    "clients": [
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "planetlab4.goto.info.waseda.ac.jp",
+      "planetlab6.goto.info.waseda.ac.jp"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 7521,
+    "ISP": "INTERNET MULTIFEED CO.",
+    "clients": [
+      "pl1.sos.info.hiroshima-cu.ac.jp",
+      "planetlab4.goto.info.waseda.ac.jp",
+      "planetlab6.goto.info.waseda.ac.jp"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 101,
+    "ISP": "University of Washington",
+    "clients": [
+      "pl2.cs.montana.edu",
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab01.cs.washington.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab04.cs.washington.edu",
+      "planetlab1.postel.org",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 7
+  },
+  {
+    "AS": 226,
+    "ISP": "Los Nettos",
+    "clients": [
+      "pl2.cs.montana.edu",
+      "planetlab01.cs.washington.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab04.cs.washington.edu",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ubc.ca",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 7
+  },
+  {
+    "AS": 11537,
+    "ISP": "Internet2",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl2.ucs.indiana.edu",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab5.eecs.umich.edu",
+      "planetlabone.ccs.neu.edu",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 23
+  },
+  {
+    "AS": 19782,
+    "ISP": "Indiana University",
+    "clients": [
+      "pl2.ucs.indiana.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 2381,
+    "ISP": "WiscNet",
+    "clients": [
+      "pl2.ucs.indiana.edu",
+      "planetlab3.wail.wisc.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 137,
+    "ISP": "Consortium GARR",
+    "clients": [
+      "planet-lab-node2.netgroup.uniroma2.it"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 5392,
+    "ISP": "Milan Internet eXchange",
+    "clients": [
+      "planet-lab-node2.netgroup.uniroma2.it"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 701,
+    "ISP": "MCI Communications Services, Inc. d/b/a Verizon Business",
+    "clients": [
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 11058,
+    "ISP": "CABASE Camara Arg de Base de Datos y Serv en Linea",
+    "clients": [
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 262589,
+    "ISP": "INTERNEXA Brasil Operadora de Telecomunica\u00e7\u00f5es S.A",
+    "clients": [
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 262195,
+    "ISP": "Transamerican Telecomunication S.A.",
+    "clients": [
+      "planet-lab1.uba.ar",
+      "planet-lab3.uba.ar"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 14589,
+    "ISP": "Digital West Networks, Inc.",
+    "clients": [
+      "planetlab-2.calpoly-netlab.net"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 4436,
+    "ISP": "nLayer Communications, Inc.",
+    "clients": [
+      "planetlab-2.calpoly-netlab.net"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 32007,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ucla.edu",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 5
+  },
+  {
+    "AS": 2153,
+    "ISP": "California State University, Office of the Chancellor",
+    "clients": [
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab1.postel.org",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 11164,
+    "ISP": "Internet2",
+    "clients": [
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ucla.edu",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab4.postel.org",
+      "planetlabone.ccs.neu.edu"
+    ],
+    "numberOfClients": 10
+  },
+  {
+    "AS": 14877,
+    "ISP": "KINBER",
+    "clients": [
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 5050,
+    "ISP": "Pittsburgh Supercomputing Center",
+    "clients": [
+      "planetlab-2.cmcl.cs.cmu.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 1207,
+    "ISP": "Pittsburgh Supercomputing Center",
+    "clients": [
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 11834,
+    "ISP": "Drexel University",
+    "clients": [
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 600,
+    "ISP": "OARnet",
+    "clients": [
+      "planetlab-5.eecs.cwru.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 3112,
+    "ISP": "OARnet",
+    "clients": [
+      "planetlab-5.eecs.cwru.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 1299,
+    "ISP": "Telia Company AB",
+    "clients": [
+      "planetlab1.cesnet.cz",
+      "planetlab1.virtues.fi",
+      "planetlab2.cesnet.cz",
+      "planetlab3.cesnet.cz"
+    ],
+    "numberOfClients": 4
+  },
+  {
+    "AS": 6881,
+    "ISP": "NIX.CZ z.s.p.o.",
+    "clients": [
+      "planetlab1.cesnet.cz",
+      "planetlab2.cesnet.cz",
+      "planetlab3.cesnet.cz"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 2152,
+    "ISP": "California State University, Office of the Chancellor",
+    "clients": [
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ucla.edu",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 4
+  },
+  {
+    "AS": 32007,
+    "ISP": "Equinix, Inc.",
+    "clients": [
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.postel.org",
+      "planetlab2.cs.ucla.edu",
+      "planetlab4.postel.org"
+    ],
+    "numberOfClients": 5
+  },
+  {
+    "AS": 1968,
+    "ISP": "University of Massachusettes",
+    "clients": [
+      "planetlab1.cs.uml.edu",
+      "planetlab2.cs.uml.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 10578,
+    "ISP": "Harvard University",
+    "clients": [
+      "planetlab1.cs.uml.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlabone.ccs.neu.edu",
+      "pluto.cs.brown.edu"
+    ],
+    "numberOfClients": 4
+  },
+  {
+    "AS": 209,
+    "ISP": "Qwest Communications Company, LLC",
+    "clients": [
+      "planetlab1.cs.uml.edu",
+      "planetlab2.cs.uml.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 3
+  },
+  {
+    "AS": 81,
+    "ISP": "MCNC",
+    "clients": [
+      "planetlab1.cs.unc.edu",
+      "planetlab2.cs.unc.edu"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 11537,
+    "ISP": "EP.net LLC.",
+    "clients": [
+      "node1.planetlab.mathcs.emory.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "pl2.ucs.indiana.edu",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "planetlab1.cs.du.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.cs.unc.edu",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab1.temple.edu",
+      "planetlab1.unr.edu",
+      "planetlab2.cs.du.edu",
+      "planetlab2.cs.uml.edu",
+      "planetlab2.cs.unc.edu",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab3.eecs.umich.edu",
+      "planetlab3.wail.wisc.edu",
+      "planetlab4.cs.uoregon.edu",
+      "planetlab5.eecs.umich.edu",
+      "planetlabone.ccs.neu.edu",
+      "pluto.cs.brown.edu",
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 23
+  },
+  {
+    "AS": 224,
+    "ISP": "UNINETT AS",
+    "clients": [
+      "planetlab1.ifi.uio.no"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 2603,
+    "ISP": "NORDUnet",
+    "clients": [
+      "planetlab1.ifi.uio.no"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 47872,
+    "ISP": "Sofia Connect EOOD",
+    "clients": [
+      "planetlab1.ifi.uio.no"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 2516,
+    "ISP": "KDDI CORPORATION",
+    "clients": [
+      "planetlab1.koganei.itrc.net",
+      "planetlab2.koganei.itrc.net"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 2500,
+    "ISP": "WIDE Project",
+    "clients": [
+      "planetlab1.koganei.itrc.net",
+      "planetlab2.koganei.itrc.net"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 7527,
+    "ISP": "Japan Internet Exchange Co., Ltd.",
+    "clients": [
+      "planetlab1.koganei.itrc.net",
+      "planetlab2.koganei.itrc.net"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 6461,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab2.pop-mg.rnp.br"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 25933,
+    "ISP": "Nucleo de Inf. e Coord. do Ponto BR - Nic.br",
+    "clients": [
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab2.pop-mg.rnp.br"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 25933,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab2.pop-mg.rnp.br"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 10466,
+    "ISP": "MAGPI c/o University of Pennsylvania",
+    "clients": [
+      "planetlab1.temple.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 7922,
+    "ISP": "Comcast Cable Communications, LLC",
+    "clients": [
+      "planetlab1.temple.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 2614,
+    "ISP": "Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si Cercetare",
+    "clients": [
+      "planetlab1.upm.ro",
+      "planetlab2.upm.ro"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 39107,
+    "ISP": "Asociatia Interlan",
+    "clients": [
+      "planetlab1.upm.ro",
+      "planetlab2.upm.ro"
+    ],
+    "numberOfClients": 2
+  },
+  {
+    "AS": 60116,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab1.virtues.fi"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 6509,
+    "ISP": "Canarie Inc",
+    "clients": [
+      "planetlab2.cs.ubc.ca"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 53904,
+    "ISP": "Canarie Inc",
+    "clients": [
+      "planetlab2.cs.ubc.ca"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 271,
+    "ISP": "BCnet",
+    "clients": [
+      "planetlab2.cs.ubc.ca"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 33108,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab2.cs.ubc.ca"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 38022,
+    "ISP": "REANNZ National Research and Education Network",
+    "clients": [
+      "planetlab2.ecs.vuw.ac.nz"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 4768,
+    "ISP": "TelstraClear Ltd",
+    "clients": [
+      "planetlab2.ecs.vuw.ac.nz"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 22645,
+    "ISP": "North Texas GigaPOP",
+    "clients": [
+      "planetlab2.utdallas.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 8235,
+    "ISP": "unknown",
+    "clients": [
+      "planetlab3.inf.ethz.ch"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 3128,
+    "ISP": "University of Wisconsin System",
+    "clients": [
+      "planetlab3.wail.wisc.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 8501,
+    "ISP": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
+    "clients": [
+      "planetlab4.mini.pw.edu.pl"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 1887,
+    "ISP": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY",
+    "clients": [
+      "planetlab4.mini.pw.edu.pl"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 24748,
+    "ISP": "ATM S.A.",
+    "clients": [
+      "planetlab4.mini.pw.edu.pl"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 8308,
+    "ISP": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY",
+    "clients": [
+      "planetlab4.mini.pw.edu.pl"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 21320,
+    "ISP": "GEANT Limited",
+    "clients": [
+      "planetlab4.mini.pw.edu.pl"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 14464,
+    "ISP": "Rhode Island Network for Educ. Technology",
+    "clients": [
+      "pluto.cs.brown.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 14325,
+    "ISP": "OSHEAN, Inc.",
+    "clients": [
+      "pluto.cs.brown.edu"
+    ],
+    "numberOfClients": 1
+  },
+  {
+    "AS": 10886,
+    "ISP": "University of Maryland",
+    "clients": [
+      "salt.planetlab.cs.umd.edu"
+    ],
+    "numberOfClients": 1
+  }
+]

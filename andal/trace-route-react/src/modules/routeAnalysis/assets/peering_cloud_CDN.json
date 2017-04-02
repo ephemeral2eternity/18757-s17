@@ -1,0 +1,82 @@
+[
+  {
+    "neighborAS": 8075,
+    "AS": 13041,
+    "number": 3296
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 766,
+    "number": 312
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 12693,
+    "number": 4000
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 12693,
+    "number": 576
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 11537,
+    "number": 6384
+  },
+  {
+    "neighborAS": 16509,
+    "AS": 3356,
+    "number": 435
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 11537,
+    "number": 600
+  },
+  {
+    "neighborAS": 14618,
+    "AS": 16509,
+    "number": 545
+  },
+  {
+    "neighborAS": 6453,
+    "AS": 4538,
+    "number": 1632
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 6453,
+    "number": 3264
+  },
+  {
+    "neighborAS": 174,
+    "AS": 4538,
+    "number": 51
+  },
+  {
+    "neighborAS": 4837,
+    "AS": 4538,
+    "number": 153
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 4837,
+    "number": 306
+  },
+  {
+    "neighborAS": 16509,
+    "AS": 2914,
+    "number": 52
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 7575,
+    "number": 312
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 11670,
+    "number": 128
+  }
+]

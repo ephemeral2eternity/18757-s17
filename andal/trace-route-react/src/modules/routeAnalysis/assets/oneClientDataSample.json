@@ -1,0 +1,113 @@
+{
+  "routes": [
+    {
+      "transit": 5,
+      "ISPs": [
+        13041,
+        -1,
+        3356,
+        766,
+        16509
+      ],
+      "server": "aws-server"
+    },
+    {
+      "transit": 3,
+      "ISPs": [
+        13041,
+        15169,
+        766
+      ],
+      "server": "gserver-01"
+    },
+    {
+      "transit": 4,
+      "ISPs": [
+        13041,
+        -1,
+        766,
+        15169
+      ],
+      "server": "gserver-02"
+    },
+    {
+      "transit": 4,
+      "ISPs": [
+        13041,
+        -1,
+        766,
+        15169
+      ],
+      "server": "gserver-03"
+    },
+    {
+      "transit": 2,
+      "ISPs": [
+        13041,
+        8075
+      ],
+      "server": "server-01"
+    },
+    {
+      "transit": 2,
+      "ISPs": [
+        13041,
+        8075
+      ],
+      "server": "server-02"
+    },
+    {
+      "transit": 3,
+      "ISPs": [
+        13041,
+        -1,
+        8075
+      ],
+      "server": "server-03"
+    },
+    {
+      "transit": 2,
+      "ISPs": [
+        13041,
+        8075
+      ],
+      "server": "server-04"
+    },
+    {
+      "transit": 3,
+      "ISPs": [
+        13041,
+        -1,
+        8075
+      ],
+      "server": "server-05"
+    },
+    {
+      "transit": 2,
+      "ISPs": [
+        13041,
+        8075
+      ],
+      "server": "server-06"
+    },
+    {
+      "transit": 3,
+      "ISPs": [
+        13041,
+        -1,
+        8075
+      ],
+      "server": "server-07"
+    },
+    {
+      "transit": 3,
+      "ISPs": [
+        13041,
+        -1,
+        8075
+      ],
+      "server": "server-08"
+    }
+  ],
+  "client": "dplanet2.uoc.edu"
+}

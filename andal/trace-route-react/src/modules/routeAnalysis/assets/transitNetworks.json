@@ -1,0 +1,8830 @@
+[
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          13041,
+          -1,
+          3356,
+          766,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          13041,
+          15169,
+          766
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          13041,
+          -1,
+          766,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          13041,
+          -1,
+          766,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          13041,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          13041,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          13041,
+          -1,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          13041,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          13041,
+          -1,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          13041,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          13041,
+          -1,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          13041,
+          -1,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "dplanet2.uoc.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          3356,
+          680,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "mars.planetlab.haw-hamburg.de"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          3356,
+          680,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          12693,
+          680
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12693,
+          8075,
+          680
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "merkur.planetlab.haw-hamburg.de"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          174,
+          3512,
+          3356,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "node1.planetlab.mathcs.emory.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          174,
+          3512,
+          3356,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          11537,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          3512,
+          8075,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "node2.planetlab.mathcs.emory.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          4538,
+          16509,
+          23910,
+          3356,
+          14618,
+          174
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl1.6test.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          56132,
+          7575,
+          2914,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl1.eng.monash.edu.au"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          25826,
+          11670,
+          14618,
+          16509,
+          26677
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25826,
+          15169,
+          26677
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25826,
+          15169,
+          26677
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25826,
+          15169,
+          26677
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          25826,
+          11670,
+          8075,
+          26677
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl1.rcc.uottawa.ca"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          2914,
+          2506,
+          2907,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          7521,
+          2907,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          7521,
+          2907,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          7521,
+          2907,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2506,
+          8075,
+          7521,
+          2907
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl1.sos.info.hiroshima-cu.ac.jp"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          4538,
+          16509,
+          23910,
+          3356,
+          14618,
+          174
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          4538,
+          4837,
+          23910
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          23910
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl2.6test.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          13476,
+          101,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          13476,
+          101
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          13476,
+          101
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          13476,
+          101
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          226,
+          13476,
+          101,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl2.cs.montana.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          56132,
+          7575,
+          2914,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          15169,
+          7575
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          56132,
+          7575,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl2.eng.monash.edu.au"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          11537,
+          19782,
+          16509,
+          87
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2381,
+          15169,
+          87,
+          19782
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          87,
+          19782
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2381,
+          15169,
+          87,
+          19782
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          11537,
+          87,
+          19782
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pl2.ucs.indiana.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          3356,
+          137,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          137,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          137,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          137,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          5392,
+          8075,
+          137,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planet-lab-node2.netgroup.uniroma2.it"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          3449,
+          14618,
+          16509,
+          701
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planet-lab1.uba.ar"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          3449,
+          14618,
+          16509,
+          701
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11058,
+          -1,
+          3449,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          3449,
+          262589,
+          262195
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planet-lab3.uba.ar"
+  },
+  {
+    "routes": [
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-1.scie.uestc.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          4538,
+          16509,
+          3356,
+          -1,
+          14618,
+          174
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          4538,
+          4837
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          4538,
+          4837
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          4538,
+          4837
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          6453,
+          4538
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          6453,
+          4538,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-1.sjtu.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          14589,
+          4436,
+          46357,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          14589,
+          15169,
+          32007,
+          46357
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          14589,
+          15169,
+          32007,
+          46357
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          14589,
+          15169,
+          32007,
+          46357
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          46357,
+          101,
+          8075,
+          2153
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-2.calpoly-netlab.net"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11164,
+          14877,
+          5050,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-2.cmcl.cs.cmu.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4538
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-2.scie.uestc.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11164,
+          11834,
+          14877,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          15169,
+          14877,
+          1207
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          9,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          9,
+          11537,
+          11834,
+          8075,
+          14877
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-3.cmcl.cs.cmu.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          16509,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          32666,
+          -1,
+          600
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          32666,
+          -1,
+          600
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          32666,
+          -1,
+          600
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          600,
+          8075,
+          32666,
+          11537,
+          3112,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-5.eecs.cwru.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-js1.cert.org.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4134
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab-js2.cert.org.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab01.cs.washington.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab02.cs.washington.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          101,
+          73,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          226,
+          8075,
+          101,
+          73,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab04.cs.washington.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          1299,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cesnet.cz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          14041,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.du.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          5078
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          5078
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          5078
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          5078,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          5078
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          5078
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.okstate.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.otago.ac.nz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          16509,
+          11164,
+          52,
+          14618,
+          2152,
+          32007
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.ucla.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          16509,
+          11537,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          -1,
+          1968,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          209,
+          15169,
+          -1,
+          1968,
+          46905
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          -1,
+          1968,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          8075,
+          -1,
+          10578,
+          11537,
+          46905
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.uml.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          11537,
+          81,
+          36850,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.unc.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          3582,
+          11537,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11164,
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.cs.uoregon.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          224,
+          -1,
+          16509,
+          2603
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          15169,
+          224,
+          -1,
+          47872,
+          2603
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          224,
+          47872,
+          2603
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          15169,
+          224,
+          -1,
+          47872,
+          2603
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          -1,
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          224,
+          8075,
+          47872,
+          2603
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.ifi.uio.no"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          7660,
+          2516,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.koganei.itrc.net"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          6461,
+          16509,
+          1916
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.pop-mg.rnp.br"
+  },
+  {
+    "routes": [
+      {
+        "transit": 7,
+        "ISPs": [
+          16509,
+          11164,
+          4,
+          2152,
+          226,
+          32007,
+          14618
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          4
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          4
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          8075,
+          4
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.postel.org"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          3778,
+          11537,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3778,
+          7922
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3778,
+          7922
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3778,
+          7922
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          10466,
+          8075,
+          3778,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.temple.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          16509,
+          3851
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          11537,
+          3851
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          11537,
+          3851
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          11537,
+          3851
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          11537,
+          3851
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.unr.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          3356,
+          -1,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          15169,
+          39107,
+          -1
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2614,
+          15169,
+          39107
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2614,
+          15169,
+          39107
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          2614,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.upm.ro"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          4134,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4134,
+          -1
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4134,
+          -1
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4134,
+          -1
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          4134,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.ustc.edu.cn"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          1299,
+          16509,
+          47605
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          1299,
+          47605
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          1299,
+          47605
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          1299,
+          47605
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          47605,
+          8075,
+          60116
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab1.virtues.fi"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          1299,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cesnet.cz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          14041,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          14041
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          11537,
+          8075,
+          14041
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.du.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          38305
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.otago.ac.nz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 7,
+        "ISPs": [
+          393249,
+          11670,
+          6509,
+          53904,
+          16509,
+          271,
+          14618
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          15169,
+          33108,
+          6509,
+          271
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          226,
+          6509,
+          271,
+          15169
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          226,
+          6509,
+          271,
+          15169
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          271,
+          33108,
+          8075,
+          6509
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          226,
+          6509,
+          8075,
+          271
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          271,
+          33108,
+          8075,
+          6509
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          271,
+          33108,
+          8075,
+          6509
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          226,
+          6509,
+          8075,
+          271
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          226,
+          6509,
+          8075,
+          271
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          271,
+          33108,
+          8075,
+          6509
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          393249,
+          271,
+          33108,
+          8075,
+          6509
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.ubc.ca"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          16509,
+          11164,
+          52,
+          14618,
+          2152,
+          32007
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          2152,
+          52
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          32007,
+          8075,
+          2152,
+          52
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.ucla.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          16509,
+          -1
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          -1,
+          1968,
+          15169
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          209,
+          15169,
+          -1,
+          1968,
+          46905
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          209,
+          15169,
+          -1,
+          1968,
+          46905
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11537,
+          10578,
+          1968,
+          8075,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          1968,
+          11537,
+          8075,
+          10578,
+          -1,
+          46905
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.uml.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          11537,
+          81,
+          36850,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          81,
+          36850
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          81,
+          36850,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.cs.unc.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          7575,
+          23905,
+          16509,
+          14618,
+          38022,
+          2914
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7575,
+          38022,
+          23905
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7575,
+          38022,
+          23905
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7575,
+          38022,
+          23905
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          4768,
+          8075,
+          23905
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.ecs.vuw.ac.nz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          7660,
+          2516,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          15169,
+          2500
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          7660,
+          8075,
+          7527
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.koganei.itrc.net"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          6461,
+          16509,
+          1916
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          25933,
+          1916
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          25933,
+          8075,
+          1916
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.pop-mg.rnp.br"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          3356,
+          -1,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          15169,
+          39107,
+          -1
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          15169,
+          39107,
+          -1
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          15169,
+          39107,
+          -1
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          2614,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2614,
+          -1,
+          3356,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.upm.ro"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          20162,
+          14618,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          20162
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          20162
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          20162
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          20162,
+          8075,
+          22645
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          20162,
+          8075,
+          22645
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          20162,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab2.utdallas.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          1299,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          2852
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          2852,
+          8075,
+          6881
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.cesnet.cz"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          7472,
+          -1
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          -1
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 1,
+        "ISPs": [
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          -1,
+          7472,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          7472,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.comp.nus.edu.sg"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          3582,
+          11537,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11164,
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.cs.uoregon.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          11537,
+          16509,
+          36375
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.eecs.umich.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          3356,
+          559,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          559
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          559
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          15169,
+          559
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          559,
+          8075,
+          8235
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.inf.ethz.ch"
+  },
+  {
+    "routes": [
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          11537,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2381,
+          15169,
+          3128,
+          59
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2381,
+          15169,
+          3128,
+          59
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          2381,
+          15169,
+          3128,
+          59
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          59,
+          8075,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab3.wail.wisc.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          11164,
+          3582,
+          11537,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11164,
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11164,
+          15169,
+          3582,
+          11537
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          8075,
+          3582,
+          11537
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab4.cs.uoregon.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          2907,
+          2914,
+          17956,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab4.goto.info.waseda.ac.jp"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          12464,
+          8501,
+          1887,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          12464,
+          24748,
+          1887,
+          15169,
+          8308
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          12464,
+          24748,
+          1887,
+          15169,
+          8308
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          12464,
+          24748,
+          1887,
+          15169,
+          8308
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          12464,
+          8501,
+          1887,
+          8075,
+          21320
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          12464,
+          1887,
+          8075,
+          21320
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          12464,
+          8501,
+          1887,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12464,
+          1887,
+          8075
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          12464,
+          1887,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          12464,
+          1887,
+          8075,
+          21320
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 2,
+        "ISPs": [
+          12464,
+          8075
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          12464,
+          8501,
+          1887,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab4.mini.pw.edu.pl"
+  },
+  {
+    "routes": [
+      {
+        "transit": 7,
+        "ISPs": [
+          16509,
+          11164,
+          4,
+          2152,
+          226,
+          32007,
+          14618
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4,
+          226
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4,
+          226
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          4,
+          226
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          101,
+          8075,
+          4,
+          2153
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab4.postel.org"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          -1,
+          11537,
+          16509,
+          36375
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          36375
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          11537,
+          36375
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab5.eecs.umich.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 4,
+        "ISPs": [
+          2907,
+          2914,
+          17956,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          7521,
+          2907,
+          17956
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlab6.goto.info.waseda.ac.jp"
+  },
+  {
+    "routes": [
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          -1,
+          11537,
+          16509,
+          156
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11164,
+          -1,
+          15169,
+          10578,
+          156
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11164,
+          -1,
+          15169,
+          10578,
+          156
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11164,
+          -1,
+          15169,
+          10578,
+          156
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          -1,
+          10578,
+          156
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          10578,
+          8075,
+          11537,
+          -1,
+          156
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "planetlabone.ccs.neu.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          11670,
+          16509,
+          26677,
+          -1,
+          14618,
+          12093
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          26677,
+          12093
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          26677,
+          12093
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          26677,
+          12093
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "plink.cs.uwaterloo.ca"
+  },
+  {
+    "routes": [
+      {
+        "transit": 6,
+        "ISPs": [
+          11670,
+          16509,
+          26677,
+          -1,
+          14618,
+          12093
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          15169,
+          -1,
+          26677
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          26677,
+          12093
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          15169,
+          -1,
+          26677,
+          12093
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 5,
+        "ISPs": [
+          11670,
+          -1,
+          8075,
+          26677,
+          12093
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "plonk.cs.uwaterloo.ca"
+  },
+  {
+    "routes": [
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          16509,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          15169,
+          11078,
+          14464,
+          14325,
+          3356,
+          -1
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          15169,
+          11078,
+          14464,
+          14325,
+          3356,
+          -1
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 6,
+        "ISPs": [
+          15169,
+          11078,
+          14464,
+          14325,
+          3356,
+          -1
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 7,
+        "ISPs": [
+          11078,
+          8075,
+          11537,
+          14464,
+          14325,
+          10578,
+          -1
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "pluto.cs.brown.edu"
+  },
+  {
+    "routes": [
+      {
+        "transit": 2,
+        "ISPs": [
+          27,
+          16509
+        ],
+        "server": "aws-server"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          15169,
+          10886,
+          27
+        ],
+        "server": "gserver-01"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          15169,
+          10886,
+          27
+        ],
+        "server": "gserver-02"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          209,
+          15169,
+          10886,
+          27
+        ],
+        "server": "gserver-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          10886,
+          27,
+          11537
+        ],
+        "server": "server-01"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          10886,
+          27,
+          8075
+        ],
+        "server": "server-02"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          10886,
+          27,
+          8075
+        ],
+        "server": "server-03"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          10886,
+          27,
+          11537
+        ],
+        "server": "server-04"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          10886,
+          27,
+          8075
+        ],
+        "server": "server-05"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          10886,
+          27,
+          11537
+        ],
+        "server": "server-06"
+      },
+      {
+        "transit": 4,
+        "ISPs": [
+          8075,
+          10886,
+          27,
+          11537
+        ],
+        "server": "server-07"
+      },
+      {
+        "transit": 3,
+        "ISPs": [
+          10886,
+          27,
+          8075
+        ],
+        "server": "server-08"
+      }
+    ],
+    "client": "salt.planetlab.cs.umd.edu"
+  }
+]

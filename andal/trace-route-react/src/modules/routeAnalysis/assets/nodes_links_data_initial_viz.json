@@ -1,0 +1,1414 @@
+{
+  "nodes": [
+    {
+      "name": "China Education and Research Network Center",
+      "country": "CN",
+      "number": 11,
+      "AS": 4538,
+      "index": 12,
+      "lat": "39.92890",
+      "lon": "116.38830"
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "country": "US",
+      "number": 8,
+      "AS": 9,
+      "index": 153,
+      "lat": "40.44390",
+      "lon": "-79.95610"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 8,
+      "AS": 15133,
+      "index": 6,
+      "lat": "39.01800",
+      "lon": "-77.53900"
+    },
+    {
+      "name": "Internet2",
+      "country": "US",
+      "number": 8,
+      "AS": 11164,
+      "index": 87,
+      "lat": "42.27340",
+      "lon": "-83.71330"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 7,
+      "AS": 701,
+      "index": 141,
+      "lat": "39.95970",
+      "lon": "-75.19680"
+    },
+    {
+      "name": "Associação Rede Nacional de Ensino e Pesquisa",
+      "country": "BR",
+      "number": 7,
+      "AS": 1916,
+      "index": 135,
+      "lat": "-22.83050",
+      "lon": "-43.21920"
+    },
+    {
+      "name": "Telia Company AB",
+      "country": "",
+      "number": 7,
+      "AS": 1299,
+      "index": 128,
+      "lat": "47.00000",
+      "lon": "8.00000"
+    },
+    {
+      "name": "UNIVERSITY OF SOUTH FLORIDA",
+      "country": "US",
+      "number": 7,
+      "AS": 5661,
+      "index": 151,
+      "lat": "28.06310",
+      "lon": "-82.41280"
+    },
+    {
+      "name": "No.31,Jin-rong Street",
+      "country": "CN",
+      "number": 7,
+      "AS": 4134,
+      "index": 16,
+      "lat": "34.77250",
+      "lon": "113.72660"
+    },
+    {
+      "name": "University of Oregon",
+      "country": "US",
+      "number": 7,
+      "AS": 3582,
+      "index": 64,
+      "lat": "44.03640",
+      "lon": "-123.05470"
+    },
+    {
+      "name": "University of Wisconsin Madison",
+      "country": "US",
+      "number": 6,
+      "AS": 59,
+      "index": 89,
+      "lat": "43.07310",
+      "lon": "-89.40120"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 6,
+      "AS": 15133,
+      "index": 88,
+      "lat": "34.01190",
+      "lon": "-118.46820"
+    },
+    {
+      "name": "No.31,Jin-rong Street",
+      "country": "CN",
+      "number": 6,
+      "AS": 4134,
+      "index": 15,
+      "lat": "32.06170",
+      "lon": "118.77780"
+    },
+    {
+      "name": "University of California, Los Angeles",
+      "country": "United States",
+      "number": 6,
+      "AS": 52,
+      "index": 53,
+      "lat": "33.78660",
+      "lon": "-118.29870"
+    },
+    {
+      "name": "Emory University",
+      "country": "US",
+      "number": 6,
+      "AS": 3512,
+      "index": 126,
+      "lat": "33.79520",
+      "lon": "-84.32480"
+    },
+    {
+      "name": "Asia Pacific Advanced Network - Japan",
+      "country": "JP",
+      "number": 5,
+      "AS": 7660,
+      "index": 0,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "University of Washington",
+      "country": "US",
+      "number": 5,
+      "AS": 73,
+      "index": 41,
+      "lat": "47.66060",
+      "lon": "-122.29190"
+    },
+    {
+      "name": "Oklahoma Network for Education Enrichment and",
+      "country": "United States",
+      "number": 4,
+      "AS": 5078,
+      "index": 100,
+      "lat": "36.11560",
+      "lon": "-97.05840"
+    },
+    {
+      "name": "Purdue University",
+      "country": "US",
+      "number": 4,
+      "AS": 17,
+      "index": 93,
+      "lat": "40.42590",
+      "lon": "-86.90810"
+    },
+    {
+      "name": "Hiroshima City University",
+      "country": "Japan",
+      "number": 4,
+      "AS": 2506,
+      "index": 32,
+      "lat": "34.39630",
+      "lon": "132.45940"
+    },
+    {
+      "name": "Vocus Connect International Backbone",
+      "country": "AU",
+      "number": 4,
+      "AS": 4826,
+      "index": 22,
+      "lat": "-31.95220",
+      "lon": "115.86140"
+    },
+    {
+      "name": "Cogent Communications",
+      "country": "US",
+      "number": 4,
+      "AS": 174,
+      "index": 120,
+      "lat": "37.75100",
+      "lon": "-97.82200"
+    },
+    {
+      "name": "University of Michigan",
+      "country": "United States",
+      "number": 4,
+      "AS": 36375,
+      "index": 107,
+      "lat": "42.32410",
+      "lon": "-83.71130"
+    },
+    {
+      "name": "University of British Columbia",
+      "country": "CA",
+      "number": 4,
+      "AS": 393249,
+      "index": 59,
+      "lat": "49.46350",
+      "lon": "-122.82200"
+    },
+    {
+      "name": "Brown University",
+      "country": "US",
+      "number": 4,
+      "AS": 11078,
+      "index": 146,
+      "lat": "41.82670",
+      "lon": "-71.39770"
+    },
+    {
+      "name": "CESNET z.s.p.o.",
+      "country": "CZ",
+      "number": 4,
+      "AS": 2852,
+      "index": 77,
+      "lat": "50.76390",
+      "lon": "15.06530"
+    },
+    {
+      "name": "SWITCH",
+      "country": "CH",
+      "number": 4,
+      "AS": 559,
+      "index": 80,
+      "lat": "47.36670",
+      "lon": "8.55000"
+    },
+    {
+      "name": "University Corporation for Atmospheric Research",
+      "country": "US",
+      "number": 4,
+      "AS": 14041,
+      "index": 85,
+      "lat": "39.73920",
+      "lon": "-104.98470"
+    },
+    {
+      "name": "University of Wisconsin System",
+      "country": "US",
+      "number": 4,
+      "AS": 3128,
+      "index": 90,
+      "lat": "43.06110",
+      "lon": "-89.40670"
+    },
+    {
+      "name": "Beyond The Network America, Inc.",
+      "country": "GR",
+      "number": 4,
+      "AS": 3491,
+      "index": 17,
+      "lat": "37.98330",
+      "lon": "23.73330"
+    },
+    {
+      "name": "The University of Otago",
+      "country": "NZ",
+      "number": 4,
+      "AS": 38305,
+      "index": 18,
+      "lat": "-45.87140",
+      "lon": "170.51190"
+    },
+    {
+      "name": "University of Michigan",
+      "country": "United States",
+      "number": 3,
+      "AS": 36375,
+      "index": 106,
+      "lat": "42.29230",
+      "lon": "-83.71450"
+    },
+    {
+      "name": "China Education and Research Network Center",
+      "country": "CN",
+      "number": 3,
+      "AS": 4538,
+      "index": 24,
+      "lat": "30.66670",
+      "lon": "104.06670"
+    },
+    {
+      "name": "NTT America, Inc.",
+      "country": "US",
+      "number": 3,
+      "AS": 2914,
+      "index": 4,
+      "lat": "39.62370",
+      "lon": "-104.87380"
+    },
+    {
+      "name": "Indiana University",
+      "country": "United States",
+      "number": 3,
+      "AS": 19782,
+      "index": 95,
+      "lat": "39.24990",
+      "lon": "-86.45550"
+    },
+    {
+      "name": "Purdue University",
+      "country": "United States",
+      "number": 3,
+      "AS": 17,
+      "index": 94,
+      "lat": "40.36890",
+      "lon": "-86.87740"
+    },
+    {
+      "name": "Monash University,",
+      "country": "AU",
+      "number": 3,
+      "AS": 56132,
+      "index": 25,
+      "lat": "-37.91670",
+      "lon": "145.11670"
+    },
+    {
+      "name": "Rutgers University",
+      "country": "United States",
+      "number": 3,
+      "AS": 46,
+      "index": 139,
+      "lat": "40.50320",
+      "lon": "-74.42890"
+    },
+    {
+      "name": "NTT Communications Corporation",
+      "country": "JP",
+      "number": 3,
+      "AS": 4713,
+      "index": 2,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "University of Maryland",
+      "country": "US",
+      "number": 3,
+      "AS": 27,
+      "index": 129,
+      "lat": "38.98070",
+      "lon": "-76.93690"
+    },
+    {
+      "name": "University of Massachusetts - Lowell",
+      "country": "United States",
+      "number": 3,
+      "AS": 46905,
+      "index": 122,
+      "lat": "42.65230",
+      "lon": "-71.35060"
+    },
+    {
+      "name": "Research Organization of Information and Systems, National Institute of Informatics",
+      "country": "Japan",
+      "number": 3,
+      "AS": 2907,
+      "index": 34,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "University of Waterloo",
+      "country": "Canada",
+      "number": 3,
+      "AS": 12093,
+      "index": 142,
+      "lat": "43.47150",
+      "lon": "-80.54540"
+    },
+    {
+      "name": "Nevada System of Higher Education",
+      "country": "US",
+      "number": 3,
+      "AS": 3851,
+      "index": 57,
+      "lat": "39.52960",
+      "lon": "-119.81380"
+    },
+    {
+      "name": "KDDI CORPORATION",
+      "country": "JP",
+      "number": 3,
+      "AS": 2516,
+      "index": 1,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "REANNZ National Research and Education Network",
+      "country": "NZ",
+      "number": 2,
+      "AS": 38022,
+      "index": 19,
+      "lat": "-41.28810",
+      "lon": "173.33570"
+    },
+    {
+      "name": "Politechnika Warszawska",
+      "country": "PL",
+      "number": 2,
+      "AS": 12464,
+      "index": 70,
+      "lat": "52.23330",
+      "lon": "21.01670"
+    },
+    {
+      "name": "Politechnika Warszawska",
+      "country": "PL",
+      "number": 2,
+      "AS": 12464,
+      "index": 69,
+      "lat": "52.22980",
+      "lon": "21.01180"
+    },
+    {
+      "name": "Montana State University",
+      "country": "US",
+      "number": 2,
+      "AS": 13476,
+      "index": 67,
+      "lat": "45.67970",
+      "lon": "-111.03900"
+    },
+    {
+      "name": "University of Texas at Dallas",
+      "country": "US",
+      "number": 2,
+      "AS": 20162,
+      "index": 96,
+      "lat": "32.94820",
+      "lon": "-96.72970"
+    },
+    {
+      "name": "New Zealand Auckland Internet Exchange",
+      "country": "New Zealand",
+      "number": 2,
+      "AS": 18119,
+      "index": 20,
+      "lat": "-36.86670",
+      "lon": "174.76670"
+    },
+    {
+      "name": "Oklahoma Network for Education Enrichment and",
+      "country": "United States",
+      "number": 2,
+      "AS": 5078,
+      "index": 102,
+      "lat": "35.47620",
+      "lon": "-97.50330"
+    },
+    {
+      "name": "Indiana University",
+      "country": "US",
+      "number": 2,
+      "AS": 87,
+      "index": 104,
+      "lat": "39.07900",
+      "lon": "-86.61750"
+    },
+    {
+      "name": "Nevada System of Higher Education",
+      "country": "US",
+      "number": 2,
+      "AS": 3851,
+      "index": 58,
+      "lat": "40.54120",
+      "lon": "-119.58690"
+    },
+    {
+      "name": "Vocus Connect International Backbone",
+      "country": "AU",
+      "number": 2,
+      "AS": 4826,
+      "index": 21,
+      "lat": "-31.96740",
+      "lon": "115.86210"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "number": 2,
+      "AS": 7922,
+      "index": 109,
+      "lat": "40.44060",
+      "lon": "-79.99590"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "",
+      "number": 2,
+      "AS": 7922,
+      "index": 110,
+      "lat": "37.75100",
+      "lon": "-97.82200"
+    },
+    {
+      "name": "Northeastern University",
+      "country": "",
+      "number": 2,
+      "AS": 156,
+      "index": 115,
+      "lat": "42.34240",
+      "lon": "-71.08780"
+    },
+    {
+      "name": "University of Ottawa",
+      "country": "CA",
+      "number": 2,
+      "AS": 25826,
+      "index": 117,
+      "lat": "45.42890",
+      "lon": "-75.68440"
+    },
+    {
+      "name": "Digital West Networks, Inc.",
+      "country": "US",
+      "number": 2,
+      "AS": 14589,
+      "index": 51,
+      "lat": "35.25650",
+      "lon": "-120.62140"
+    },
+    {
+      "name": "University Corporation for Atmospheric Research",
+      "country": "US",
+      "number": 2,
+      "AS": 14041,
+      "index": 86,
+      "lat": "37.75100",
+      "lon": "-97.82200"
+    },
+    {
+      "name": "California Polytechnic State University",
+      "country": "US",
+      "number": 2,
+      "AS": 46357,
+      "index": 50,
+      "lat": "35.34710",
+      "lon": "-120.45530"
+    },
+    {
+      "name": "KDDI CORPORATION",
+      "country": "JP",
+      "number": 2,
+      "AS": 2516,
+      "index": 14,
+      "lat": "36.31670",
+      "lon": "139.58330"
+    },
+    {
+      "name": "Computer Centre",
+      "country": "SG",
+      "number": 2,
+      "AS": 7472,
+      "index": 8,
+      "lat": "1.29310",
+      "lon": "103.85580"
+    },
+    {
+      "name": "Hurricane Electric, Inc.",
+      "country": "US",
+      "number": 2,
+      "AS": 6939,
+      "index": 49,
+      "lat": "37.51550",
+      "lon": "-121.89620"
+    },
+    {
+      "name": "University of Maryland",
+      "country": "US",
+      "number": 2,
+      "AS": 27,
+      "index": 131,
+      "lat": "39.00120",
+      "lon": "-76.93170"
+    },
+    {
+      "name": "University of Maryland",
+      "country": "US",
+      "number": 2,
+      "AS": 10886,
+      "index": 132,
+      "lat": "39.00120",
+      "lon": "-76.93170"
+    },
+    {
+      "name": "NTT America, Inc.",
+      "country": "JP",
+      "number": 2,
+      "AS": 2914,
+      "index": 5,
+      "lat": "35.64270",
+      "lon": "139.76770"
+    },
+    {
+      "name": "University of Southern California",
+      "country": "United States",
+      "number": 2,
+      "AS": 4,
+      "index": 46,
+      "lat": "34.05220",
+      "lon": "-118.24370"
+    },
+    {
+      "name": "University of Washington",
+      "country": "US",
+      "number": 2,
+      "AS": 101,
+      "index": 42,
+      "lat": "47.63440",
+      "lon": "-122.34220"
+    },
+    {
+      "name": "Victoria University of Wellington",
+      "country": "NZ",
+      "number": 2,
+      "AS": 23905,
+      "index": 39,
+      "lat": "-41.29420",
+      "lon": "174.78310"
+    },
+    {
+      "name": "Case Western Reserve University",
+      "country": "US",
+      "number": 2,
+      "AS": 32666,
+      "index": 144,
+      "lat": "41.50740",
+      "lon": "-81.60530"
+    },
+    {
+      "name": "Vocus Connect International Backbone",
+      "country": "AU",
+      "number": 2,
+      "AS": 4826,
+      "index": 30,
+      "lat": "-37.81030",
+      "lon": "144.95440"
+    },
+    {
+      "name": "NTT America, Inc.",
+      "country": "",
+      "number": 2,
+      "AS": 2914,
+      "index": 3,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "FloridaNet",
+      "country": "US",
+      "number": 2,
+      "AS": 11096,
+      "index": 152,
+      "lat": "29.65160",
+      "lon": "-82.32480"
+    },
+    {
+      "name": "Telia Company AB",
+      "country": "DE",
+      "number": 2,
+      "AS": 1299,
+      "index": 121,
+      "lat": "51.29930",
+      "lon": "9.49100"
+    },
+    {
+      "name": "EdgeCast NetBlk",
+      "country": "United Kingdom",
+      "number": 1,
+      "AS": 15133,
+      "index": 76,
+      "lat": "51.50850",
+      "lon": "-0.12570"
+    },
+    {
+      "name": "Telstra Global",
+      "country": "Japan",
+      "number": 1,
+      "AS": 4637,
+      "index": 37,
+      "lat": "35.68950",
+      "lon": "139.69170"
+    },
+    {
+      "name": "Telstra Global",
+      "country": "Australia",
+      "number": 1,
+      "AS": 4637,
+      "index": 38,
+      "lat": "-33.76670",
+      "lon": "151.26670"
+    },
+    {
+      "name": "GEANT Limited",
+      "country": "Czech Republic",
+      "number": 1,
+      "AS": 21320,
+      "index": 79,
+      "lat": "50.08800",
+      "lon": "14.42080"
+    },
+    {
+      "name": "NUS Gigapop",
+      "country": "SG",
+      "number": 1,
+      "AS": 7610,
+      "index": 10,
+      "lat": "1.29310",
+      "lon": "103.85580"
+    },
+    {
+      "name": "Equinix (Switzerland) AG",
+      "country": "Switzerland",
+      "number": 1,
+      "AS": 8235,
+      "index": 81,
+      "lat": "47.14490",
+      "lon": "8.15510"
+    },
+    {
+      "name": "Deutsche Telekom AG",
+      "country": "DE",
+      "number": 1,
+      "AS": 3320,
+      "index": 82,
+      "lat": "51.29930",
+      "lon": "9.49100"
+    },
+    {
+      "name": "Deutsche Telekom AG",
+      "country": "Germany",
+      "number": 1,
+      "AS": 3320,
+      "index": 83,
+      "lat": "49.68330",
+      "lon": "10.53330"
+    },
+    {
+      "name": "DE-CIX Management GmbH",
+      "country": "Germany",
+      "number": 1,
+      "AS": 51531,
+      "index": 84,
+      "lat": "50.11670",
+      "lon": "8.68330"
+    },
+    {
+      "name": "ChinaNet Backbone Network",
+      "country": "China",
+      "number": 1,
+      "AS": 4134,
+      "index": 40,
+      "lat": "31.22220",
+      "lon": "121.45810"
+    },
+    {
+      "name": "Vocus Connect International Backbone",
+      "country": "AU",
+      "number": 1,
+      "AS": 4826,
+      "index": 23,
+      "lat": "-33.95000",
+      "lon": "151.03330"
+    },
+    {
+      "name": "NUS Gigapop",
+      "country": "SG",
+      "number": 1,
+      "AS": 7610,
+      "index": 11,
+      "lat": "1.28550",
+      "lon": "103.85650"
+    },
+    {
+      "name": "Seattle Internet Exchange Inc.",
+      "country": "United States",
+      "number": 1,
+      "AS": 33108,
+      "index": 43,
+      "lat": "47.61170",
+      "lon": "-123.33330"
+    },
+    {
+      "name": "Seattle Internet Exchange Inc.",
+      "country": "United States",
+      "number": 1,
+      "AS": 33108,
+      "index": 44,
+      "lat": "47.61170",
+      "lon": "-122.33330"
+    },
+    {
+      "name": "University of Southern California",
+      "country": "US",
+      "number": 1,
+      "AS": 4,
+      "index": 45,
+      "lat": "34.05440",
+      "lon": "-118.24400"
+    },
+    {
+      "name": "WiscNet",
+      "country": "US",
+      "number": 1,
+      "AS": 2381,
+      "index": 91,
+      "lat": "43.11840",
+      "lon": "-89.52070"
+    },
+    {
+      "name": "Equinix, Inc.",
+      "country": "United States",
+      "number": 1,
+      "AS": 32007,
+      "index": 92,
+      "lat": "41.85003",
+      "lon": "-87.65005"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "Singapore",
+      "number": 1,
+      "AS": 15133,
+      "index": 7,
+      "lat": "1.28970",
+      "lon": "103.85010"
+    },
+    {
+      "name": "University of Southern California",
+      "country": "United States",
+      "number": 1,
+      "AS": 4,
+      "index": 47,
+      "lat": "33.98030",
+      "lon": "-118.45170"
+    },
+    {
+      "name": "Los Nettos",
+      "country": "US",
+      "number": 1,
+      "AS": 226,
+      "index": 48,
+      "lat": "34.05220",
+      "lon": "-118.24370"
+    },
+    {
+      "name": "Monash University,",
+      "country": "AU",
+      "number": 1,
+      "AS": 56132,
+      "index": 26,
+      "lat": "-34.23330",
+      "lon": "140.56670"
+    },
+    {
+      "name": "North Texas GigaPOP",
+      "country": "US",
+      "number": 1,
+      "AS": 22645,
+      "index": 97,
+      "lat": "31.94600",
+      "lon": "-106.80820"
+    },
+    {
+      "name": "Hurricane Electric, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 6939,
+      "index": 98,
+      "lat": "43.89900",
+      "lon": "-92.79170"
+    },
+    {
+      "name": "Hurricane Electric, Inc.",
+      "country": "",
+      "number": 1,
+      "AS": 6939,
+      "index": 99,
+      "lat": "31.62860",
+      "lon": "-97.09890"
+    },
+    {
+      "name": "Australian Academic and Reasearch Network (AARNet)",
+      "country": "AU",
+      "number": 1,
+      "AS": 7575,
+      "index": 27,
+      "lat": "-37.91670",
+      "lon": "145.11670"
+    },
+    {
+      "name": "Oklahoma Network for Education Enrichment and",
+      "country": "United States",
+      "number": 1,
+      "AS": 5078,
+      "index": 101,
+      "lat": "35.39810",
+      "lon": "-96.93980"
+    },
+    {
+      "name": "Australian Academic and Reasearch Network (AARNet)",
+      "country": "AU",
+      "number": 1,
+      "AS": 7575,
+      "index": 28,
+      "lat": "-35.27600",
+      "lon": "149.13440"
+    },
+    {
+      "name": "WiscNet",
+      "country": "US",
+      "number": 1,
+      "AS": 2381,
+      "index": 103,
+      "lat": "44.90020",
+      "lon": "-90.01920"
+    },
+    {
+      "name": "Equinix, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 32007,
+      "index": 52,
+      "lat": "37.53310",
+      "lon": "-122.24710"
+    },
+    {
+      "name": "Indiana University",
+      "country": "US",
+      "number": 1,
+      "AS": 87,
+      "index": 105,
+      "lat": "39.78510",
+      "lon": "-86.16650"
+    },
+    {
+      "name": "Western Australian Internet Association",
+      "country": "Australia",
+      "number": 1,
+      "AS": 7606,
+      "index": 29,
+      "lat": "-37.81400",
+      "lon": "144.96330"
+    },
+    {
+      "name": "California State University, Office of the Chancellor",
+      "country": "United States",
+      "number": 1,
+      "AS": 2152,
+      "index": 54,
+      "lat": "33.81880",
+      "lon": "-118.03770"
+    },
+    {
+      "name": "Merit Network Inc.",
+      "country": "United States",
+      "number": 1,
+      "AS": 237,
+      "index": 108,
+      "lat": "42.27340",
+      "lon": "-83.71330"
+    },
+    {
+      "name": "California State University, Office of the Chancellor",
+      "country": "United States",
+      "number": 1,
+      "AS": 2152,
+      "index": 55,
+      "lat": "33.98030",
+      "lon": "-118.45170"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "United States",
+      "number": 1,
+      "AS": 15133,
+      "index": 56,
+      "lat": "37.33940",
+      "lon": "-121.89500"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "United States",
+      "number": 1,
+      "AS": 7922,
+      "index": 111,
+      "lat": "39.96830",
+      "lon": "-75.82670"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "number": 1,
+      "AS": 7922,
+      "index": 112,
+      "lat": "41.87810",
+      "lon": "-87.62980"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "number": 1,
+      "AS": 7922,
+      "index": 113,
+      "lat": "41.85290",
+      "lon": "-87.62310"
+    },
+    {
+      "name": "Comcast Cable Communications, LLC",
+      "country": "US",
+      "number": 1,
+      "AS": 7922,
+      "index": 114,
+      "lat": "39.04380",
+      "lon": "-77.48740"
+    },
+    {
+      "name": "Pacnet Global Ltd",
+      "country": "JP",
+      "number": 1,
+      "AS": 10026,
+      "index": 13,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "Harvard University",
+      "country": "US",
+      "number": 1,
+      "AS": 10578,
+      "index": 116,
+      "lat": "41.76860",
+      "lon": "-72.67450"
+    },
+    {
+      "name": "Vocus Connect International Backbone",
+      "country": "AU",
+      "number": 1,
+      "AS": 4826,
+      "index": 31,
+      "lat": "-37.81390",
+      "lon": "144.96340"
+    },
+    {
+      "name": "ORANO",
+      "country": "CA",
+      "number": 1,
+      "AS": 26677,
+      "index": 118,
+      "lat": "44.30000",
+      "lon": "-77.55000"
+    },
+    {
+      "name": "Cogent Communications",
+      "country": "CA",
+      "number": 1,
+      "AS": 174,
+      "index": 119,
+      "lat": "43.64040",
+      "lon": "-79.39950"
+    },
+    {
+      "name": "Pittsburgh Supercomputing Center",
+      "country": "",
+      "number": 1,
+      "AS": 5050,
+      "index": 155,
+      "lat": "40.44390",
+      "lon": "-79.95610"
+    },
+    {
+      "name": "BCnet",
+      "country": "CA",
+      "number": 1,
+      "AS": 271,
+      "index": 60,
+      "lat": "49.27880",
+      "lon": "-123.11390"
+    },
+    {
+      "name": "Hurricane Electric, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 6939,
+      "index": 61,
+      "lat": "37.54970",
+      "lon": "-121.96210"
+    },
+    {
+      "name": "University of Massachusettes",
+      "country": "United States",
+      "number": 1,
+      "AS": 1968,
+      "index": 123,
+      "lat": "42.28520",
+      "lon": "-71.72230"
+    },
+    {
+      "name": "Qwest Communications Company, LLC",
+      "country": "United States",
+      "number": 1,
+      "AS": 209,
+      "index": 124,
+      "lat": "42.35840",
+      "lon": "-71.05980"
+    },
+    {
+      "name": "Qwest Communications Company LLC",
+      "country": "United States",
+      "number": 1,
+      "AS": 209,
+      "index": 125,
+      "lat": "38.89510",
+      "lon": "-77.03640"
+    },
+    {
+      "name": "Hurricane Electric, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 6939,
+      "index": 62,
+      "lat": "37.54830",
+      "lon": "-121.98860"
+    },
+    {
+      "name": "Cogent Communications",
+      "country": "US",
+      "number": 1,
+      "AS": 174,
+      "index": 127,
+      "lat": "33.82740",
+      "lon": "-84.32440"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 1,
+      "AS": 15133,
+      "index": 63,
+      "lat": "47.60620",
+      "lon": "-122.33210"
+    },
+    {
+      "name": "NTT WEST CHUGOKU CORPORATION",
+      "country": "Japan",
+      "number": 1,
+      "AS": 2506,
+      "index": 33,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "University of Maryland",
+      "country": "US",
+      "number": 1,
+      "AS": 27,
+      "index": 130,
+      "lat": "38.98270",
+      "lon": "-77.00400"
+    },
+    {
+      "name": "EP.net LLC.",
+      "country": "United States",
+      "number": 1,
+      "AS": 11537,
+      "index": 65,
+      "lat": "44.56160",
+      "lon": "-123.26200"
+    },
+    {
+      "name": "EP.net LLC.",
+      "country": "United States",
+      "number": 1,
+      "AS": 11537,
+      "index": 66,
+      "lat": "44.56460",
+      "lon": "-123.26200"
+    },
+    {
+      "name": "Telia Company AB",
+      "country": "Sweden",
+      "number": 1,
+      "AS": 1299,
+      "index": 133,
+      "lat": "59.33260",
+      "lon": "18.06490"
+    },
+    {
+      "name": "Telia Company AB",
+      "country": "Sweden",
+      "number": 1,
+      "AS": 1299,
+      "index": 134,
+      "lat": "59.36250",
+      "lon": "17.99890"
+    },
+    {
+      "name": "Computer Centre",
+      "country": "SG",
+      "number": 1,
+      "AS": 7472,
+      "index": 9,
+      "lat": "1.36670",
+      "lon": "103.80000"
+    },
+    {
+      "name": "MCI Communications Services Inc. d/b/a Verizon Business",
+      "country": "United States",
+      "number": 1,
+      "AS": 15133,
+      "index": 136,
+      "lat": "39.03410",
+      "lon": "-77.48850"
+    },
+    {
+      "name": "Level 3 Communications, Inc.",
+      "country": "BR",
+      "number": 1,
+      "AS": 3549,
+      "index": 137,
+      "lat": "-22.83050",
+      "lon": "-43.21920"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 1,
+      "AS": 15133,
+      "index": 138,
+      "lat": "33.78660",
+      "lon": "-118.29870"
+    },
+    {
+      "name": "Montana State University",
+      "country": "US",
+      "number": 1,
+      "AS": 13476,
+      "index": 68,
+      "lat": "45.62800",
+      "lon": "-110.90130"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "United States",
+      "number": 1,
+      "AS": 701,
+      "index": 140,
+      "lat": "41.31200",
+      "lon": "-75.53950"
+    },
+    {
+      "name": "Japan Internet Exchange Co., Ltd.",
+      "country": "Japan",
+      "number": 1,
+      "AS": 7527,
+      "index": 35,
+      "lat": "35.69000",
+      "lon": "139.69000"
+    },
+    {
+      "name": "Telstra Global",
+      "country": "",
+      "number": 1,
+      "AS": 4637,
+      "index": 36,
+      "lat": "35.00000",
+      "lon": "105.00000"
+    },
+    {
+      "name": "Allstream Corp.",
+      "country": "Canada",
+      "number": 1,
+      "AS": 15290,
+      "index": 143,
+      "lat": "43.90000",
+      "lon": "-78.84950"
+    },
+    {
+      "name": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY",
+      "country": "PL",
+      "number": 1,
+      "AS": 1887,
+      "index": 71,
+      "lat": "52.24570",
+      "lon": "20.94900"
+    },
+    {
+      "name": "OARnet",
+      "country": "US",
+      "number": 1,
+      "AS": 600,
+      "index": 145,
+      "lat": "41.44850",
+      "lon": "-82.01860"
+    },
+    {
+      "name": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center",
+      "country": "PL",
+      "number": 1,
+      "AS": 8501,
+      "index": 72,
+      "lat": "52.25550",
+      "lon": "16.74240"
+    },
+    {
+      "name": "Rhode Island Network for Educ. Technology",
+      "country": "US",
+      "number": 1,
+      "AS": 14464,
+      "index": 147,
+      "lat": "41.58770",
+      "lon": "-71.46230"
+    },
+    {
+      "name": "OSHEAN, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 14325,
+      "index": 148,
+      "lat": "41.69700",
+      "lon": "-71.52540"
+    },
+    {
+      "name": "Level 3 Communications, Inc.",
+      "country": "US",
+      "number": 1,
+      "AS": 3356,
+      "index": 149,
+      "lat": "42.47300",
+      "lon": "-71.09820"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "US",
+      "number": 1,
+      "AS": 15133,
+      "index": 150,
+      "lat": "42.35840",
+      "lon": "-71.05980"
+    },
+    {
+      "name": "GEANT Limited",
+      "country": "GB",
+      "number": 1,
+      "AS": 21320,
+      "index": 73,
+      "lat": "51.49640",
+      "lon": "-0.12240"
+    },
+    {
+      "name": "GEANT Limited",
+      "country": "Germany",
+      "number": 1,
+      "AS": 20965,
+      "index": 74,
+      "lat": "50.11550",
+      "lon": "8.68420"
+    },
+    {
+      "name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+      "country": "Germany",
+      "number": 1,
+      "AS": 15133,
+      "index": 75,
+      "lat": "50.11670",
+      "lon": "8.68330"
+    },
+    {
+      "name": "KINBER",
+      "country": "",
+      "number": 1,
+      "AS": 14877,
+      "index": 154,
+      "lat": "40.31780",
+      "lon": "-79.71770"
+    },
+    {
+      "name": "CESNET z.s.p.o.",
+      "country": "Czech Republic",
+      "number": 1,
+      "AS": 2852,
+      "index": 78,
+      "lat": "50.08480",
+      "lon": "14.41120"
+    }
+  ],
+  "links": [{
+    "count": 1,
+    "source": 1,
+    "group": "inter",
+    "target": 0
+  }]
+}

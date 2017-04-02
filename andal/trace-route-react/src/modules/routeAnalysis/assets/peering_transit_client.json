@@ -1,0 +1,47 @@
+[
+  {
+    "neighborAS": 766,
+    "AS": 13041,
+    "number": 208
+  },
+  {
+    "neighborAS": 12693,
+    "AS": 680,
+    "number": 2288
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 680,
+    "number": 96
+  },
+  {
+    "neighborAS": 174,
+    "AS": 3512,
+    "number": 100
+  },
+  {
+    "neighborAS": 4538,
+    "AS": 23910,
+    "number": 1836
+  },
+  {
+    "neighborAS": 6453,
+    "AS": 4538,
+    "number": 1632
+  },
+  {
+    "neighborAS": 174,
+    "AS": 4538,
+    "number": 51
+  },
+  {
+    "neighborAS": 4837,
+    "AS": 4538,
+    "number": 153
+  },
+  {
+    "neighborAS": 26677,
+    "AS": 25826,
+    "number": 64
+  }
+]
