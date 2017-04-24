@@ -1,0 +1,98 @@
+[
+    {
+        "city": "Pittsburgh", 
+        "name": "POD-A-VL57.GW.CMU.NET", 
+        "ip": "128.2.56.1", 
+        "region": "Pennsylvania", 
+        "ISP": "Carnegie Mellon University", 
+        "longitude": "-79.95610", 
+        "AS": 9, 
+        "country": "US", 
+        "latitude": "40.44390", 
+        "type": "router"
+    }, 
+    {
+        "city": "Pittsburgh", 
+        "name": "CORE0-POD-A.GW.CMU.NET", 
+        "ip": "128.2.0.153", 
+        "region": "Pennsylvania", 
+        "ISP": "Carnegie Mellon University", 
+        "longitude": "-79.95610", 
+        "AS": 9, 
+        "country": "US", 
+        "latitude": "40.44390", 
+        "type": "router"
+    }, 
+    {
+        "city": "", 
+        "name": "pod-i-dcns-core0.gw.cmu.net", 
+        "ip": "128.2.0.194", 
+        "region": "", 
+        "ISP": "Carnegie Mellon University", 
+        "longitude": "-79.95610", 
+        "AS": 9, 
+        "country": "", 
+        "latitude": "40.44390", 
+        "type": "router"
+    }, 
+    {
+        "city": "Harrisburg", 
+        "name": "68.65.124.68", 
+        "ip": "68.65.124.68", 
+        "region": "Pennsylvania", 
+        "ISP": "KINBER", 
+        "longitude": "-76.79050", 
+        "AS": 14877, 
+        "country": "United States", 
+        "latitude": "40.32090", 
+        "type": "router"
+    }, 
+    {
+        "city": "Philadelphia", 
+        "name": "204.238.76.49", 
+        "ip": "204.238.76.49", 
+        "region": "Pennsylvania", 
+        "ISP": "Drexel University", 
+        "longitude": "-75.19680", 
+        "AS": 11834, 
+        "country": "United States", 
+        "latitude": "39.95970", 
+        "type": "router"
+    }, 
+    {
+        "city": "Philadelphia", 
+        "name": "204.238.76.235", 
+        "ip": "204.238.76.235", 
+        "region": "Pennsylvania", 
+        "ISP": "Drexel University", 
+        "longitude": "-75.19680", 
+        "AS": 11834, 
+        "country": "United States", 
+        "latitude": "39.95970", 
+        "type": "router"
+    }, 
+    {
+        "city": "Marina del Rey", 
+        "name": "core1.lga.edgecastcdn.net", 
+        "ip": "198.32.118.202", 
+        "region": "California", 
+        "ISP": "EP.net LLC.", 
+        "longitude": "-118.45170", 
+        "AS": 11537, 
+        "country": "US", 
+        "latitude": "33.98030", 
+        "type": "router"
+    }, 
+    {
+        "city": "Ashburn", 
+        "name": "72.21.81.200", 
+        "ip": "72.21.81.200", 
+        "region": "Virginia", 
+        "ISP": "MCI Communications Services, Inc. d/b/a Verizon Business", 
+        "longitude": "-77.53900", 
+        "AS": 15133, 
+        "country": "United States", 
+        "latitude": "39.01800", 
+        "type": "server"
+    }
+]
