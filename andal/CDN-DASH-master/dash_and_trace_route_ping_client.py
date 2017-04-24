@@ -90,16 +90,16 @@ def dash_client(srv_addr, video_name, method=None):
 
 	startTS = time.time()
 
-	# ## do traceroute and record
-	# route = get_route(srv_addr)
-	# client_info = {};
-	# client_info['name'] = getMyName();
-	# client_info['route'] = route
-    #
-	# cur_tr_time = time.strftime("%m%d%H%M")
-	# outJsonFileName = os.getcwd() + "/routeData/" + client_info['name'] + "-" + srv_addr + ".json"
-	# with open(outJsonFileName, 'wb') as f:
-	# 	json.dump(client_info, f)
+	## do traceroute and record
+	route = get_route(srv_addr)
+	client_info = {};
+	client_info['name'] = getMyName();
+	client_info['route'] = route
+    
+	cur_tr_time = time.strftime("%m%d%H%M")
+	outJsonFileName = os.getcwd() + "/routeData/" + client_info['name'] + "-" + srv_addr + ".json"
+	with open(outJsonFileName, 'wb') as f:
+	 	json.dump(client_info, f)
 
 	print "[" + client_ID + "] Start playing video at " + datetime.datetime.fromtimestamp(int(startTS)).strftime("%Y-%m-%d %H:%M:%S")
 	est_bw = vchunk_sz * 8 / (startTS - loadTS)
