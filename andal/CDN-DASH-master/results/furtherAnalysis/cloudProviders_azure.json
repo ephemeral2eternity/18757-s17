@@ -1,0 +1,48 @@
+{
+  "server": [
+    {
+      "name": "72.21.81.200",
+      "netID": 0,
+      "netsize": 1,
+      "lon": "-77.53900",
+      "QoE": 3.813237335528593,
+      "ChunksToServerNumber": 4920,
+      "lat": "39.01800",
+      "type": "server",
+      "asn": "AS 15133"
+    },
+    {
+      "name": "117.18.232.200",
+      "netID": 0,
+      "netsize": 1,
+      "lon": "103.85010",
+      "QoE": 2.7049835240648212,
+      "ChunksToServerNumber": 1560,
+      "lat": "1.28970",
+      "type": "server",
+      "asn": "AS 15133"
+    },
+    {
+      "name": "93.184.221.200",
+      "netID": 0,
+      "netsize": 1,
+      "lon": "-0.12570",
+      "QoE": 3.5560925831709658,
+      "ChunksToServerNumber": 600,
+      "lat": "51.50850",
+      "type": "server",
+      "asn": "AS 15133"
+    },
+    {
+      "name": "192.16.48.200",
+      "netID": 0,
+      "netsize": 1,
+      "lon": "-118.29870",
+      "QoE": 3.5295229410851827,
+      "ChunksToServerNumber": 360,
+      "lat": "33.78660",
+      "type": "server",
+      "asn": "AS 15133"
+    }
+  ]
+}

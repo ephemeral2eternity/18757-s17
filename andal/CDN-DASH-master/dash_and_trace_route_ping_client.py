@@ -3,7 +3,8 @@ from dash.utils import *
 from qoe.dash_chunk_qoe import *
 from utils.client_utils import *
 from multiprocessing import freeze_support
-
+from multiprocessing import Process
+from threading import Timer
 
 ## ==================================================================================================
 # define the simple client agent that only downloads videos from denoted server
@@ -11,6 +12,7 @@ from multiprocessing import freeze_support
 #		   video_name --- the string name of the requested video
 ## ==================================================================================================
 def dash_client(srv_addr, video_name, method=None):
+	procs = [];
 	## Define all parameters used in this client
 	#TODO - what is alpha used for?
 	alpha = 0.5
@@ -29,7 +31,7 @@ def dash_client(srv_addr, video_name, method=None):
 	if method is not None:
 		client_ID = client + "_" + cur_ts + "_" + method
 	else:
-		client_ID = client + "_" + cur_ts
+		client_ID = client + "_" + cur_ts + "_" + srv_addr
 
 	## ==================================================================================================
 	## Parse the mpd file for the streaming video
@@ -90,16 +92,14 @@ def dash_client(srv_addr, video_name, method=None):
 
 	startTS = time.time()
 
-	## do traceroute and record
-	route = get_route(srv_addr)
-	client_info = {};
-	client_info['name'] = getMyName();
-	client_info['route'] = route
-    
-	cur_tr_time = time.strftime("%m%d%H%M")
-	outJsonFileName = os.getcwd() + "/routeData/" + client_info['name'] + "-" + srv_addr + ".json"
-	with open(outJsonFileName, 'wb') as f:
-	 	json.dump(client_info, f)
+	#invoke separate process for trace route
+	for i in range(0, 23):
+		Timer(i*300, fork_cache_client_info1, (srv_addr,)).start()
+
+	for i in range(0, 119):
+		Timer(i*60, fork_ping_client, (srv_addr, 3)).start()
+	# tr_proc = fork_cache_client_info1(srv_addr);
+	# procs.append(tr_proc);
 
 	print "[" + client_ID + "] Start playing video at " + datetime.datetime.fromtimestamp(int(startTS)).strftime("%Y-%m-%d %H:%M:%S")
 	est_bw = vchunk_sz * 8 / (startTS - loadTS)
@@ -112,6 +112,11 @@ def dash_client(srv_addr, video_name, method=None):
 	# Start streaming the video
 	## ==================================================================================================
 	while (chunkNext * chunkLen < vidLength):
+		#doing traceroute half way through
+		if(chunkNext == 60):
+			tr_proc = fork_cache_client_info1(srv_addr);
+			procs.append(tr_proc);
+
 		nextRep = findRep(sortedVids, est_bw, curBuffer, minBuffer)
 		vidChunk = reps[nextRep]['name'].replace('$Number$', str(chunkNext))
 		loadTS = time.time()
@@ -168,7 +173,45 @@ def dash_client(srv_addr, video_name, method=None):
 	## Write out traces after finishing the streaming
 	writeTrace(client_ID, client_tr)
 	writeTrace(client_ID + "_httperr", http_errors)
+	for p in procs:
+		p.join(timeout=100)
 	return client_ID, CDN_SQS, uniq_srvs
+
+
+def cache_client_info1(srv_addr):
+	client_info = {};
+	client_info['name'] = getMyName();
+	client_info['timeStamp'] = time.time();
+	route = get_route(srv_addr)
+	client_info['route'] = route
+
+	outJsonFileName = os.getcwd() + "/routeData/" + client_info['name'] + "-" + srv_addr + "_"  + time.strftime("%m%d%H%M") + ".json"
+	with open(outJsonFileName, 'wb') as f:
+		json.dump(client_info, f)
+
+def ping_client_info1(ip, count):
+	client_info = {};
+	client_info['name'] = getMyName();
+	client_info['timeStamp'] = time.time();
+	rttList, srv_ip = ping(ip,count);
+	client_info['rttList'] = rttList;
+	client_info['serverIp'] = srv_ip;
+	client_info['serverName'] = ip;
+
+	outJsonFileName = os.getcwd() + "/pingData/" + client_info['name'] + "-" + srv_addr + "_" + time.strftime(
+		"%m%d%H%M") + ".json"
+	with open(outJsonFileName, 'wb') as f:
+		json.dump(client_info, f)
+
+def fork_cache_client_info1(srv_addr):
+    p = Process(target=cache_client_info1, args=(srv_addr,))
+    p.start()
+    return p
+
+def fork_ping_client(ip, count):
+	p = Process(target=ping_client_info1, args=(ip, count))
+	p.start();
+	return p
 
 
 if __name__ == '__main__':
@@ -188,4 +231,5 @@ if __name__ == '__main__':
 	method = None;
 	video_name = "/videos/BBB";
 
-	dash_client(srv_addr, video_name, method);
+	for i in range(num_runs):
+		dash_client(srv_addr, video_name, method);
