@@ -93,13 +93,17 @@ def dash_client(srv_addr, video_name, method=None):
 	startTS = time.time()
 
 	#invoke separate process for trace route
-	for i in range(0, 23):
-		Timer(i*300, fork_cache_client_info1, (srv_addr,)).start()
+	#for i in range(0, 23):
+	#	Timer(i*300, fork_cache_client_info1, (srv_addr,)).start()
 
-	for i in range(0, 119):
-		Timer(i*60, fork_ping_client, (srv_addr, 3)).start()
-	# tr_proc = fork_cache_client_info1(srv_addr);
-	# procs.append(tr_proc);
+	#for i in range(0, 119):
+	#	Timer(i*60, fork_ping_client, (srv_addr, 3)).start()
+
+	tr_proc = fork_cache_client_info1(srv_addr);
+	procs.append(tr_proc);
+
+	ping_proc = fork_ping_client(srv_addr, 3);
+	procs.append(ping_proc);
 
 	print "[" + client_ID + "] Start playing video at " + datetime.datetime.fromtimestamp(int(startTS)).strftime("%Y-%m-%d %H:%M:%S")
 	est_bw = vchunk_sz * 8 / (startTS - loadTS)
@@ -108,14 +112,31 @@ def dash_client(srv_addr, video_name, method=None):
 	chunk_download += 1
 	curBuffer += chunkLen
 
+	## trace route and ping timer
+	tr_time = time.time()
+	ping_time = time.time()
 	## ==================================================================================================
 	# Start streaming the video
 	## ==================================================================================================
 	while (chunkNext * chunkLen < vidLength):
 		#doing traceroute half way through
-		if(chunkNext == 60):
+		# if(chunkNext == 60):
+		# 	tr_proc = fork_cache_client_info1(srv_addr);
+		# 	procs.append(tr_proc);
+
+		measure_cur_time = time.time();
+		diff_tr_time = int(measure_cur_time - tr_time);
+		diff_ping_time = int(measure_cur_time - ping_time);
+
+		if(diff_tr_time > 300):
 			tr_proc = fork_cache_client_info1(srv_addr);
 			procs.append(tr_proc);
+			tr_time = time.time();
+
+		if(diff_ping_time > 60):
+			ping_proc = fork_ping_client(srv_addr, 3);
+			procs.append(ping_proc);
+			ping_time = time.time();
 
 		nextRep = findRep(sortedVids, est_bw, curBuffer, minBuffer)
 		vidChunk = reps[nextRep]['name'].replace('$Number$', str(chunkNext))

@@ -53,4 +53,11 @@ def print_some_times():
     #print time.time()
 
 if __name__ == '__main__':
-    print_some_times()
+	t0 = time.time()
+	print t0;
+	#print_some_times()
+	time.sleep(10);
+	t1 = time.time()
+	print t1;
+	diff = t1 - t0
+	print diff
