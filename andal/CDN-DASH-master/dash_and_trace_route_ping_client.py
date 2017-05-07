@@ -174,9 +174,9 @@ def dash_client(srv_addr, video_name, method=None):
 		# print "Chunk Size: ", vchunk_sz, "estimated throughput: ", est_bw, " current bitrate: ", curBW
 
 		print "|---", str(curTS), "---|---", str(chunkNext), "---|---", nextRep, "---|---", str(chunk_linear_QoE), "---|---", \
-			str(chunk_cascading_QoE), "---|---", str(curBuffer), "---|---", str(freezingTime), "---|---", chunk_srv_ip, "---|---", str(rsp_time), "---|"
+			str(chunk_cascading_QoE), "---|---", str(curBuffer), "---|---", str(curBW), "---|---", str(freezingTime), "---|---", chunk_srv_ip, "---|---", str(rsp_time), "---|"
 
-		client_tr[chunkNext] = dict(TS=curTS, Representation=nextRep, QoE1=chunk_linear_QoE, QoE2=chunk_cascading_QoE, Buffer=curBuffer, \
+		client_tr[chunkNext] = dict(TS=curTS, Representation=nextRep, curBitRate = curBW,  QoE1=chunk_linear_QoE, QoE2=chunk_cascading_QoE, Buffer=curBuffer, \
 									Freezing=freezingTime, Server=chunk_srv_ip, Response=rsp_time)
 
 		if chunk_srv_ip not in uniq_srvs:
@@ -236,21 +236,253 @@ def fork_ping_client(ip, count):
 
 
 if __name__ == '__main__':
+	current_sys_time = time.time();
 	if sys.platform == 'win32':
 		freeze_support()
 
-	if len(sys.argv) > 1:
-		num_runs = int(sys.argv[1])
-	# else:
+	# if len(sys.argv) > 1:
+	# 	num_runs = int(sys.argv[1])
+	# # else:
 	# 	num_runs = client_config.num_runs
 
-	if len(sys.argv) > 2:
-		srv_addr = sys.argv[2]
+	# if len(sys.argv) > 2:
+	# 	srv_addr = sys.argv[2]
 	# else:
 	# 	srv_addr = client_config.cdn_host
 
 	method = None;
 	video_name = "/videos/BBB";
 
-	for i in range(num_runs):
-		dash_client(srv_addr, video_name, method);
+	server_names = ["aws.cmu-agens.com", "az.cmu-agens.com", "gcdn.cmu-agens.com"];
+
+	while 1:
+		time_now = time.time();
+		diff_in_time = int(time_now - current_sys_time);
+		#hour 1
+		if (diff_in_time >= 0  and diff_in_time < 1800):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		#hour 2
+		elif (diff_in_time > 3600  and diff_in_time < 5400):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		#hour 3
+		elif (diff_in_time > 7200  and diff_in_time < 9000):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+
+		#hour 4
+		elif (diff_in_time > 10800  and diff_in_time < 12600):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		#hour 5
+		elif (diff_in_time > 14400  and diff_in_time < 16200):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		#hour 6
+		elif (diff_in_time > 18000  and diff_in_time < 19800):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		#hour 7
+		elif (diff_in_time > 21600  and diff_in_time < 23400):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+			#hour 8
+		elif (diff_in_time > 25200  and diff_in_time < 27000):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+			# hour 9
+		elif (diff_in_time > 28800 and diff_in_time < 30600):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 10
+		elif (diff_in_time > 32400 and diff_in_time < 34200):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 11
+		elif (diff_in_time > 36000 and diff_in_time < 37800):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 12
+		elif (diff_in_time > 39600 and diff_in_time < 41400):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		# hour 13
+		elif (diff_in_time > 43200 and diff_in_time < 45000):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		# hour 14
+		elif (diff_in_time > 46800 and diff_in_time < 48600):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 15
+		elif (diff_in_time > 50400 and diff_in_time < 52200):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 16
+		elif (diff_in_time > 54000 and diff_in_time < 55800):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		# hour 17
+		elif (diff_in_time > 57600 and diff_in_time < 59400):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 18
+		elif (diff_in_time > 61200 and diff_in_time < 63000):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 19
+		elif (diff_in_time > 64800 and diff_in_time < 66600):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 20
+		elif (diff_in_time > 68400 and diff_in_time < 70200):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		# hour 21
+		elif (diff_in_time > 72000 and diff_in_time < 73800):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 22
+		elif (diff_in_time > 75600 and diff_in_time < 77400):
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 23
+		elif (diff_in_time > 79200 and diff_in_time < 81000):
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+
+		# hour 24
+		elif (diff_in_time > 82800 and diff_in_time < 84600):
+			srv_addr = server_names[0];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[1];
+			dash_client(srv_addr, video_name, method);
+			srv_addr = server_names[2];
+			dash_client(srv_addr, video_name, method);
+
+
+		elif (diff_in_time > 84600):
+			exit(0);
+
+		else:
+			continue;
