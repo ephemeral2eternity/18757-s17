@@ -1,0 +1,71 @@
+{
+  "timeStamp": 1493946808.647772,
+  "route": {
+    "0": {
+      "ip": "128.8.126.111",
+      "name": "salt.planetlab.cs.umd.edu",
+      "time": 0.0
+    },
+    "1": {
+      "ip": "128.8.126.1",
+      "name": "router-126.cs.umd.edu",
+      "time": 1.434
+    },
+    "2": {
+      "ip": "128.8.239.69",
+      "name": "128.8.239.69",
+      "time": 3.829333333333333
+    },
+    "3": {
+      "ip": "129.2.0.113",
+      "name": "gi3-1.ptx-core-r1.net.umd.edu",
+      "time": 0.6156666666666667
+    },
+    "4": {
+      "ip": "129.2.0.82",
+      "name": "gi3-1.css-fw-r1.net.umd.edu",
+      "time": 0.674
+    },
+    "5": {
+      "ip": "128.8.0.226",
+      "name": "te0-1-0.css-max-r1.net.umd.edu",
+      "time": 1.3286666666666667
+    },
+    "6": {
+      "ip": "206.196.177.86",
+      "name": "xe-0-0-1-186.clpk-core.maxgigapop.net",
+      "time": 1.4110000000000003
+    },
+    "7": {
+      "ip": "206.196.178.80",
+      "name": "ae0.mcln-core.maxgigapop.net",
+      "time": 2.9023333333333334
+    },
+    "8": {
+      "ip": "213.248.84.144",
+      "name": "rest-b1-link.telia.net",
+      "time": 4.869
+    },
+    "9": {
+      "ip": "62.115.117.169",
+      "name": "ash-bb3-link.telia.net",
+      "time": 4.527
+    },
+    "10": {
+      "ip": "80.91.248.157",
+      "name": "ash-b1-link.telia.net",
+      "time": 5.247333333333333
+    },
+    "11": {
+      "ip": "195.12.254.70",
+      "name": "edgecast-ic-152713-ash-bb1.c.telia.net",
+      "time": 3.6446666666666663
+    },
+    "12": {
+      "ip": "72.21.81.200",
+      "name": "72.21.81.200",
+      "time": 3.8019999999999996
+    }
+  },
+  "name": "salt.planetlab.cs.umd.edu"
+}

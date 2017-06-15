@@ -1,4 +1,5 @@
 import urllib, json, os
+import numpy, math
 
 dir = './results/peerings/clients_QoE/';
 
@@ -25,7 +26,28 @@ for filename in os.listdir(dir):
 
 print series;
 
-dest = './results/peerings/clients_QoE/' + "series.json";
-with open(dest, 'w') as outfile:
-    json.dump(series, outfile);
-    print("Writing File Job Done! " + dest);
+
+def mean(data):
+    return sum(data) / len(data)
+
+
+def variance(data):
+    # Use the Computational Formula for Variance.
+    n = len(data)
+    ss = sum(x ** 2 for x in data) - (sum(data) ** 2) / n
+    return ss / (n - 1)
+
+
+def standard_deviation(data):
+    return math.sqrt(variance(data))
+
+
+print "Mean: ", numpy.mean(data);
+print "Median: ", numpy.median(data);
+print "Variance: ", variance(data);
+print "Std Deviation: ", standard_deviation(data);
+#
+# dest = './results/peerings/clients_QoE/' + "series.json";
+# with open(dest, 'w') as outfile:
+#     json.dump(series, outfile);
+#     print("Writing File Job Done! " + dest);

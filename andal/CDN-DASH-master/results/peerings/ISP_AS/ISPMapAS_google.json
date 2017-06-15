@@ -1,0 +1,470 @@
+[
+  {
+    "AS": 15169,
+    "ISP": "Google Inc."
+  },
+  {
+    "AS": 5078,
+    "ISP": "Oklahoma Network for Education Enrichment and"
+  },
+  {
+    "AS": 2381,
+    "ISP": "WiscNet"
+  },
+  {
+    "AS": 73,
+    "ISP": "University of Washington"
+  },
+  {
+    "AS": -1,
+    "ISP": "unknown"
+  },
+  {
+    "AS": 101,
+    "ISP": "University of Washington"
+  },
+  {
+    "AS": 7660,
+    "ISP": "Asia Pacific Advanced Network - Japan"
+  },
+  {
+    "AS": 2500,
+    "ISP": "WIDE Project"
+  },
+  {
+    "AS": 8,
+    "ISP": "Rice University"
+  },
+  {
+    "AS": 4557,
+    "ISP": "Rice University"
+  },
+  {
+    "AS": 87,
+    "ISP": "Indiana University"
+  },
+  {
+    "AS": 19782,
+    "ISP": "Indiana University"
+  },
+  {
+    "AS": 1916,
+    "ISP": "Associa\u00e7\u00e3o Rede Nacional de Ensino e Pesquisa"
+  },
+  {
+    "AS": 9,
+    "ISP": "Carnegie Mellon University"
+  },
+  {
+    "AS": 14877,
+    "ISP": "KINBER"
+  },
+  {
+    "AS": 1207,
+    "ISP": "Pittsburgh Supercomputing Center"
+  },
+  {
+    "AS": 25826,
+    "ISP": "University of Ottawa"
+  },
+  {
+    "AS": 26677,
+    "ISP": "ORANO"
+  },
+  {
+    "AS": 4837,
+    "ISP": "CNCGROUP China169 Backbone"
+  },
+  {
+    "AS": 23910,
+    "ISP": "China Next Generation Internet CERNET2"
+  },
+  {
+    "AS": 4538,
+    "ISP": "China Education and Research Network Center"
+  },
+  {
+    "AS": 3512,
+    "ISP": "Emory University"
+  },
+  {
+    "AS": 11537,
+    "ISP": "EP.NET, LLC."
+  },
+  {
+    "AS": 46905,
+    "ISP": "University of Massachusetts - Lowell"
+  },
+  {
+    "AS": 1968,
+    "ISP": "University of Massachusettes"
+  },
+  {
+    "AS": 209,
+    "ISP": "Qwest Communications Company, LLC"
+  },
+  {
+    "AS": 11537,
+    "ISP": "EP.net LLC.\t"
+  },
+  {
+    "AS": 7610,
+    "ISP": "NUS Gigapop"
+  },
+  {
+    "AS": 7472,
+    "ISP": "Computer Centre"
+  },
+  {
+    "AS": 393249,
+    "ISP": "University of British Columbia"
+  },
+  {
+    "AS": 271,
+    "ISP": "BCnet"
+  },
+  {
+    "AS": 6509,
+    "ISP": "Canarie Inc"
+  },
+  {
+    "AS": 33108,
+    "ISP": "Seattle Internet Exchange Inc."
+  },
+  {
+    "AS": 226,
+    "ISP": "Los Nettos"
+  },
+  {
+    "AS": 46,
+    "ISP": "Rutgers University"
+  },
+  {
+    "AS": 9304,
+    "ISP": "Hutchison Global Communications"
+  },
+  {
+    "AS": 4,
+    "ISP": "University of Southern California"
+  },
+  {
+    "AS": 2688,
+    "ISP": "AT&T Global Network Services, LLC"
+  },
+  {
+    "AS": 4134,
+    "ISP": "CHINANET-BACKBONE"
+  },
+  {
+    "AS": 4134,
+    "ISP": "No.31,Jin-rong Street"
+  },
+  {
+    "AS": 4134,
+    "ISP": "ChinaNet Backbone Network"
+  },
+  {
+    "AS": 3582,
+    "ISP": "University of Oregon"
+  },
+  {
+    "AS": 11537,
+    "ISP": "EP.net LLC."
+  },
+  {
+    "AS": 11164,
+    "ISP": "Internet2"
+  },
+  {
+    "AS": 12093,
+    "ISP": "University of Waterloo"
+  },
+  {
+    "AS": 680,
+    "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V."
+  },
+  {
+    "AS": 12693,
+    "ISP": "BCIX e.V."
+  },
+  {
+    "AS": 2852,
+    "ISP": "CESNET z.s.p.o."
+  },
+  {
+    "AS": 36375,
+    "ISP": "University of Michigan"
+  },
+  {
+    "AS": 182,
+    "ISP": "Merit Network Inc."
+  },
+  {
+    "AS": 7575,
+    "ISP": "Australian Academic and Reasearch Network (AARNet)"
+  },
+  {
+    "AS": 38305,
+    "ISP": "The University of Otago"
+  },
+  {
+    "AS": 38022,
+    "ISP": "REANNZ National Research and Education Network"
+  },
+  {
+    "AS": 59,
+    "ISP": "University of Wisconsin Madison"
+  },
+  {
+    "AS": 3128,
+    "ISP": "University of Wisconsin System"
+  },
+  {
+    "AS": 559,
+    "ISP": "Swiss Federal Institute of Technology Zurich"
+  },
+  {
+    "AS": 559,
+    "ISP": "SWITCH"
+  },
+  {
+    "AS": 32666,
+    "ISP": "Case Western Reserve University"
+  },
+  {
+    "AS": 600,
+    "ISP": "OARnet"
+  },
+  {
+    "AS": 13476,
+    "ISP": "Montana State University"
+  },
+  {
+    "AS": 17,
+    "ISP": "Purdue University"
+  },
+  {
+    "AS": 10326,
+    "ISP": "Worcester Polytechnic Institute"
+  },
+  {
+    "AS": 3,
+    "ISP": "Massachusetts Institute of Technology"
+  },
+  {
+    "AS": 16509,
+    "ISP": "Amazon.com, Inc."
+  },
+  {
+    "AS": 3778,
+    "ISP": "Temple University"
+  },
+  {
+    "AS": 7922,
+    "ISP": "Comcast Cable Communications, LLC"
+  },
+  {
+    "AS": 3356,
+    "ISP": "Level 3 Communications, Inc."
+  },
+  {
+    "AS": 11078,
+    "ISP": "Brown University"
+  },
+  {
+    "AS": 14464,
+    "ISP": "Rhode Island Network for Educ. Technology"
+  },
+  {
+    "AS": 14325,
+    "ISP": "OSHEAN, Inc."
+  },
+  {
+    "AS": 198096,
+    "ISP": "Junta de Andalucia"
+  },
+  {
+    "AS": 156,
+    "ISP": "Northeastern University"
+  },
+  {
+    "AS": 10578,
+    "ISP": "Harvard University"
+  },
+  {
+    "AS": 27,
+    "ISP": "University of Maryland"
+  },
+  {
+    "AS": 10886,
+    "ISP": "University of Maryland"
+  },
+  {
+    "AS": 2506,
+    "ISP": "Hiroshima City University"
+  },
+  {
+    "AS": 2506,
+    "ISP": "NTT WEST CHUGOKU CORPORATION"
+  },
+  {
+    "AS": 2907,
+    "ISP": "Research Organization of Information and Systems, National Institute of Informatics"
+  },
+  {
+    "AS": 7521,
+    "ISP": "INTERNET MULTIFEED CO."
+  },
+  {
+    "AS": 137,
+    "ISP": "Consortium GARR"
+  },
+  {
+    "AS": 56132,
+    "ISP": "Monash University,"
+  },
+  {
+    "AS": 12464,
+    "ISP": "Politechnika Warszawska"
+  },
+  {
+    "AS": 1887,
+    "ISP": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY"
+  },
+  {
+    "AS": 8501,
+    "ISP": "Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomputing and Networking Center"
+  },
+  {
+    "AS": 46357,
+    "ISP": "California Polytechnic State University"
+  },
+  {
+    "AS": 14589,
+    "ISP": "Digital West Networks, Inc."
+  },
+  {
+    "AS": 19996,
+    "ISP": "CoreSite"
+  },
+  {
+    "AS": 20162,
+    "ISP": "University of Texas at Dallas"
+  },
+  {
+    "AS": 22645,
+    "ISP": "North Texas GigaPOP"
+  },
+  {
+    "AS": 3851,
+    "ISP": "Nevada System of Higher Education"
+  },
+  {
+    "AS": 11537,
+    "ISP": "Internet2"
+  },
+  {
+    "AS": 13041,
+    "ISP": "Consorci de Serveis Universitaris de Catalunya"
+  },
+  {
+    "AS": 1930,
+    "ISP": "Fundacao para a Ciencia e a Tecnologia, I.P."
+  },
+  {
+    "AS": 88,
+    "ISP": "Princeton University"
+  },
+  {
+    "AS": 6939,
+    "ISP": "Hurricane Electric, Inc."
+  },
+  {
+    "AS": 2611,
+    "ISP": "BELNET"
+  },
+  {
+    "AS": 5408,
+    "ISP": "Greek Research and Technology Network S.A"
+  },
+  {
+    "AS": 21320,
+    "ISP": "GEANT Limited"
+  },
+  {
+    "AS": 5392,
+    "ISP": "Milan Internet eXchange"
+  },
+  {
+    "AS": 681,
+    "ISP": "The University of Waikato"
+  },
+  {
+    "AS": 553,
+    "ISP": "Universitaet Stuttgart"
+  },
+  {
+    "AS": 52,
+    "ISP": "University of California, Los Angeles"
+  },
+  {
+    "AS": 2152,
+    "ISP": "California State University, Office of the Chancellor"
+  },
+  {
+    "AS": 766,
+    "ISP": "Entidad Publica Empresarial Red.es"
+  },
+  {
+    "AS": 3449,
+    "ISP": "Universidad Nacional de Buenos Aires"
+  },
+  {
+    "AS": 11058,
+    "ISP": "CABASE Camara Arg de Base de Datos y Serv en Linea"
+  },
+  {
+    "AS": 2259,
+    "ISP": "OSIRIS - UNIVERSITE DE STRASBOURG"
+  },
+  {
+    "AS": 2200,
+    "ISP": "Renater"
+  },
+  {
+    "AS": 224,
+    "ISP": "UNINETT AS"
+  },
+  {
+    "AS": 36850,
+    "ISP": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "AS": 81,
+    "ISP": "MCNC"
+  },
+  {
+    "AS": 15557,
+    "ISP": "Societe Francaise du Radiotelephone S.A."
+  },
+  {
+    "AS": 1741,
+    "ISP": "CSC - Tieteen tietotekniikan keskus Oy"
+  },
+  {
+    "AS": 2603,
+    "ISP": "NORDUnet"
+  },
+  {
+    "AS": 47872,
+    "ISP": "Sofia Connect EOOD"
+  },
+  {
+    "AS": 47605,
+    "ISP": "FNE-Finland Ltd"
+  },
+  {
+    "AS": 2843,
+    "ISP": "Linkopings universitet"
+  }
+]
