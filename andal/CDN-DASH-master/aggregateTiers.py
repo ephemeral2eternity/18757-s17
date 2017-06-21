@@ -54,24 +54,28 @@ for filename in os.listdir(dir):
     #print peers
     cloud_peer_map = {}
     for elem in cloud_isps:
+        print isp_as_mapping[str(elem)];
         cloud_peer_map[elem] = {
             'ispName': isp_as_mapping[str(elem)],
             'peers': []
         }
+
         for i in peers[elem]:
             cloud_peer_map[elem]['peers'].append({
                 'AS': i,
                 'ispName': isp_as_mapping[str(i)],
             })
+            peer_count = len(cloud_peer_map[elem]['peers']);
 
+        print peer_count
     cloud_direct_peers_table.append({
         'ispName': filename,
         'cloud_peer_map': cloud_peer_map
     })
 
-print json.dumps(cloud_direct_peers_table);
+#print json.dumps(cloud_direct_peers_table);
 
-dest = './results/peerings/' + "cloud_direct_peers.json";
-with open(dest, 'w') as outfile:
-    json.dump(cloud_direct_peers_table, outfile);
-    print("Writing File Job Done! " + dest);
+# dest = './results/peerings/' + "cloud_direct_peers.json";
+# with open(dest, 'w') as outfile:
+#     json.dump(cloud_direct_peers_table, outfile);
+#     print("Writing File Job Done! " + dest);
