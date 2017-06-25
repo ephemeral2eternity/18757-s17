@@ -1,0 +1,236 @@
+{
+  "North America": {
+    "Central Daylight Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.8611515687196625
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.8632508552627436
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.8621863129083045
+      }
+    },
+    "Eastern Daylight Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 1.9011700963035392,
+        "peak_hours_qoe": 3.0543973629180163
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 1.8704705071138135,
+        "peak_hours_qoe": 3.026982008511822
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 1.8754404678170675,
+        "peak_hours_qoe": 3.023082312901107
+      }
+    },
+    "Pacific Daylight Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 2.921596366565411,
+        "peak_hours_qoe": 3.5887054540298733
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 2.9071639572763983,
+        "peak_hours_qoe": 3.5935174013133873
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 2.5636190808179617,
+        "peak_hours_qoe": 3.5708281769603265
+      }
+    },
+    "Mountain Daylight Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 4.939219414737485,
+        "peak_hours_qoe": 4.952007586719496
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 4.916861038644573,
+        "peak_hours_qoe": 4.940166722759333
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 4.939684305526032,
+        "peak_hours_qoe": 4.9357632848279405
+      }
+    }
+  },
+  "Europe": {
+    "Central European Summer Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0.6762766525371929,
+        "peak_hours_qoe": 0.8915893242205719
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0.6762766525371929,
+        "peak_hours_qoe": 0.8925603338145415
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0.6706901613360752,
+        "peak_hours_qoe": 0.8826904000163903
+      }
+    },
+    "Argentina Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      }
+    },
+    "Eastern European Summer Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      }
+    },
+    "Western European Summer Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      }
+    }
+  },
+  "South America": {
+    "Brasilia Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 4.1783709288312965,
+        "peak_hours_qoe": 4.48389183844686
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 4.292846180594495,
+        "peak_hours_qoe": 4.563303100355828
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 4.438513983188109,
+        "peak_hours_qoe": 4.505513590324704
+      }
+    },
+    "unknown": {
+      "AZURE": {
+        "non_peak_hours_qoe": 2.4725707474058356,
+        "peak_hours_qoe": 2.4723276505559157
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 2.4794370249791697,
+        "peak_hours_qoe": 2.4796810593030405
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 2.4615231000202744,
+        "peak_hours_qoe": 2.4631115517524447
+      }
+    }
+  },
+  "Australia": {
+    "Australian Eastern Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 2.473605380815639
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 2.4695078583377033
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 2.433618992430042
+      }
+    },
+    "New Zealand Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 4.7996251138026045
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 4.892790751947533
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 4.610338107526379
+      }
+    }
+  },
+  "Asia": {
+    "Moscow Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      }
+    },
+    "Singapore Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 0
+      }
+    },
+    "China Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.1973819175140261
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.1135943414916412
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 0,
+        "peak_hours_qoe": 1.1900090594472963
+      }
+    },
+    "Japan Standard Time": {
+      "AZURE": {
+        "non_peak_hours_qoe": 4.959278965131616,
+        "peak_hours_qoe": 4.959811026836944
+      },
+      "AMAZON": {
+        "non_peak_hours_qoe": 4.958059728659189,
+        "peak_hours_qoe": 4.955932172673587
+      },
+      "GOOGLE": {
+        "non_peak_hours_qoe": 4.932482636613354,
+        "peak_hours_qoe": 4.931790817866237
+      }
+    }
+  }
+}

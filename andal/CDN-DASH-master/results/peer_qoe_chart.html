@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; max-width: 800px; height: 400px; margin: 0 auto"></div>
+<script>
+const chart_data = {"peak":{"series":[{"name":"AMAZON","data":[1.86,3.03,3.59,4.94,0.89,4.56,2.48,2.47,4.89,1.11,4.96]},{"name":"AZURE","data":[1.86,3.05,3.59,4.95,0.89,4.48,2.47,2.47,4.8,1.2,4.96]},{"name":"GOOGLE","data":[1.86,3.02,3.57,4.94,0.88,4.51,2.46,2.43,4.61,1.19,4.93]}],"categories":["North America-Central Daylight Time","North America-Eastern Daylight Time","North America-Pacific Daylight Time","North America-Mountain Daylight Time","Europe-Central European Summer Time","South America-Brasilia Standard Time","South America-unknown","Australia-Australian Eastern Standard Time","Australia-New Zealand Standard Time","Asia-China Standard Time","Asia-Japan Standard Time"]},"nonPeak":{"series":[{"name":"AMAZON","data":[1.87,2.91,4.92,0.68,4.29,2.48,4.96],"color":"#424242"},{"name":"AZURE","data":[1.9,2.92,4.94,0.68,4.18,2.47,4.96],"color":"#9E9E9E"},{"name":"GOOGLE","data":[1.88,2.56,4.94,0.67,4.44,2.46,4.93],"color":"#EEEEEE"}],"categories":["North America-Eastern Daylight Time","North America-Pacific Daylight Time","North America-Mountain Daylight Time","Europe-Central European Summer Time","South America-Brasilia Standard Time","South America-unknown","Asia-Japan Standard Time"]}}
+
+//const data = chart_data.peak
+const data = chart_data.nonPeak
+
+Highcharts.chart('container', {
+    chart: {
+        type: 'bar'
+    },
+    title: {
+        text: 'Historic World Population by Region'
+    },
+    subtitle: {
+        text: 'Source: <a href="https://en.wikipedia.org/wiki/World_population">Wikipedia.org</a>'
+    },
+    xAxis: {
+        categories: data.categories,
+        title: {
+            text: null
+        }
+    },
+    yAxis: {
+        min: 0,
+        title: {
+            text: 'QoE',
+            align: 'high'
+        },
+        labels: {
+            overflow: 'justify'
+        }
+    },
+    plotOptions: {
+        bar: {
+            dataLabels: {
+                enabled: true
+            }
+        }
+    },
+    legend: {
+        layout: 'horizontal',
+        align: 'right',
+        verticalAlign: 'top',
+        x: -10,
+        y: 40,
+        floating: true,
+        borderWidth: 1,
+        backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+        shadow: true
+    },
+    credits: {
+        enabled: false
+    },
+    series: data.series
+});
+</script>
+</body>

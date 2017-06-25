@@ -1,0 +1,1762 @@
+{
+  "North America": {
+
+    "Central Daylight Time": [
+      {
+        "client_name": "ricepl-5.cs.rice.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.9511172346806225,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.954057288060013,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.tsuniv.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.tsuniv.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "ricepl-2.cs.rice.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.9511172346806225,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.957407223356374,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.utdallas.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0.027615961789974098,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0.027920486283705793,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0.026663873243967018,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab3.wail.wisc.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.okstate.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.okstate.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Eastern Daylight Time": [
+      {
+        "client_name": "planetlab-3.cmcl.cs.cmu.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.851268730836411,
+            "non_peak_hours_mean_QOE": 4.515040310522424
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.803586673726773,
+            "non_peak_hours_mean_QOE": 4.43559127986362
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.785254779979442,
+            "non_peak_hours_mean_QOE": 4.429256823962435
+          }
+        }
+      },
+      {
+        "client_name": "whitefall.planetlab.cs.umd.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.957011833989688,
+            "non_peak_hours_mean_QOE": 4.9560356966942045
+          }
+        }
+      },
+      {
+        "client_name": "pl2.ucs.indiana.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.958943774050874,
+            "non_peak_hours_mean_QOE": 4.947243196010228
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.955452328106667,
+            "non_peak_hours_mean_QOE": 4.939825865750463
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.954670370006785,
+            "non_peak_hours_mean_QOE": 4.944653202647141
+          }
+        }
+      },
+      {
+        "client_name": "planetlabone.ccs.neu.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.918369067897007,
+            "non_peak_hours_mean_QOE": 4.943647393259248
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.93512888778105,
+            "non_peak_hours_mean_QOE": 4.941703399296451
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.906582641178729,
+            "non_peak_hours_mean_QOE": 4.929415970949698
+          }
+        }
+      },
+      {
+        "client_name": "earth.cs.brown.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.952766211465713,
+            "non_peak_hours_mean_QOE": 4.952069313951158
+          }
+        }
+      },
+      {
+        "client_name": "planetlab5.eecs.umich.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.957407223356374
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.957011833989688
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.uml.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "plonk.cs.uwaterloo.ca",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.purdue.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 2.0164957315708314,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 1.7725166792942522,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 1.7791559336640324,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "pl1.ucs.indiana.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.944562732376068,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.933655849256972,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.935489160118754,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab3.rutgers.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.9560641650358965,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab5.williams.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.957987971285171,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.957897912662856,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.953287402052386,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab4.williams.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.958874049958339,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.954263539347869,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "plink.cs.uwaterloo.ca",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab3.eecs.umich.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.rutgers.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 2.13169234741544,
+            "non_peak_hours_mean_QOE": 2.1007570845570003
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 1.9846486801318433,
+            "non_peak_hours_mean_QOE": 1.782599074639675
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 2.042736348428229,
+            "non_peak_hours_mean_QOE": 1.7982307912353437
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-5.eecs.cwru.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.923607087507575,
+            "non_peak_hours_mean_QOE": 4.939696204053485
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.93034203944267,
+            "non_peak_hours_mean_QOE": 4.940030529972945
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.901744800306024,
+            "non_peak_hours_mean_QOE": 4.939610360857851
+          }
+        }
+      },
+      {
+        "client_name": "pl1.rcc.uottawa.ca",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.9511172346806225,
+            "non_peak_hours_mean_QOE": 4.950698890125415
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.9511172346806225,
+            "non_peak_hours_mean_QOE": 4.9511172346806225
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.951117234680622,
+            "non_peak_hours_mean_QOE": 4.951117234680622
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-2.cmcl.cs.cmu.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.936484123538399,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.950531552303332,
+            "non_peak_hours_mean_QOE": 4.951117234680622
+          }
+        }
+      },
+      {
+        "client_name": "node1.planetlab.mathcs.emory.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.964749017376446,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.951117234680622,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "salt.planetlab.cs.umd.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.purdue.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 2.223608045129992,
+            "non_peak_hours_mean_QOE": 2.054452563541122
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 1.9231307730261544,
+            "non_peak_hours_mean_QOE": 1.618333855086239
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 1.8890387297000213,
+            "non_peak_hours_mean_QOE": 1.7660431191862827
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.uml.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.9304454236650335,
+            "non_peak_hours_mean_QOE": 4.945733475255558
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.9283904692917835,
+            "non_peak_hours_mean_QOE": 4.928874770088831
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.8966909535201335,
+            "non_peak_hours_mean_QOE": 4.935421231426445
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.csee.usf.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-03.cs.princeton.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.unc.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "node2.planetlab.mathcs.emory.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.966095742069037,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.941796184499735,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.temple.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0.028010544207459704,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0.028097825796150732,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0.02762356766688949,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Pacific Daylight Time": [
+      {
+        "client_name": "planetlab4.postel.org",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.96878919145422,
+            "non_peak_hours_mean_QOE": 4.965677397513829
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.965646833838172,
+            "non_peak_hours_mean_QOE": 4.922472792404828
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.957713141820989,
+            "non_peak_hours_mean_QOE": 4.954415188250804
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-2.calpoly-netlab.net",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.952563933132821,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.955239676643351,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.956064165035897,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.ucla.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.ubc.ca",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.855463198484286,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.954415188250805,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab3.cs.uoregon.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.958184278045301,
+            "non_peak_hours_mean_QOE": 4.956090308990346
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.9501410973851385,
+            "non_peak_hours_mean_QOE": 4.954263539347868
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.940059689426044,
+            "non_peak_hours_mean_QOE": 4.941920169699398
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.postel.org",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.405694814447409,
+            "non_peak_hours_mean_QOE": 4.299322237823826
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.353331235956539,
+            "non_peak_hours_mean_QOE": 4.0135574699372105
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.074982724406375,
+            "non_peak_hours_mean_QOE": 3.8223949858650945
+          }
+        }
+      },
+      {
+        "client_name": "planetlab04.cs.washington.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.964749017376446,
+            "non_peak_hours_mean_QOE": 4.954419435652506
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.960933297414104,
+            "non_peak_hours_mean_QOE": 4.96329654922178
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.951594846711134,
+            "non_peak_hours_mean_QOE": 4.948552074896929
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.ucla.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.unr.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.944137362843305,
+            "non_peak_hours_mean_QOE": 4.840021400308934
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.945518714883124,
+            "non_peak_hours_mean_QOE": 4.948188822794171
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.933656407853805,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab01.cs.washington.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.963402292683854,
+            "non_peak_hours_mean_QOE": 4.95963494540807
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.960445228766362,
+            "non_peak_hours_mean_QOE": 4.954964259458926
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.952658141118936,
+            "non_peak_hours_mean_QOE": 4.9508979491965786
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cs.ubc.ca",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.uoregon.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.937921479569401,
+            "non_peak_hours_mean_QOE": 4.9468521034658695
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.94107189852656,
+            "non_peak_hours_mean_QOE": 4.950515594026079
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.948185678003684,
+            "non_peak_hours_mean_QOE": 4.945375171432589
+          }
+        }
+      },
+      {
+        "client_name": "planetlab02.cs.washington.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.952065468302784
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.957987971285171,
+            "non_peak_hours_mean_QOE": 4.954364414436071
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.952180529088423,
+            "non_peak_hours_mean_QOE": 4.945365336464012
+          }
+        }
+      },
+      {
+        "client_name": "planetlab03.cs.washington.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab4.cs.uoregon.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.920314123804977,
+            "non_peak_hours_mean_QOE": 4.949862201015001
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.953082946396216,
+            "non_peak_hours_mean_QOE": 4.945835917519038
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.940912142688802,
+            "non_peak_hours_mean_QOE": 4.945365336464012
+          }
+        }
+      }
+    ],
+    "Mountain Daylight Time": [
+      {
+        "client_name": "pl2.cs.montana.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.956090308990346,
+            "non_peak_hours_mean_QOE": 4.95154555765835
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.946326606825521,
+            "non_peak_hours_mean_QOE": 4.954966880117667
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.939792416158236,
+            "non_peak_hours_mean_QOE": 4.94970052313864
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.cs.du.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.947924864448647,
+            "non_peak_hours_mean_QOE": 4.92689327181662
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.934006838693144,
+            "non_peak_hours_mean_QOE": 4.878755197171478
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.931734153497646,
+            "non_peak_hours_mean_QOE": 4.929668087913424
+          }
+        }
+      }
+    ]
+  },
+  "Europe": {
+    "Central European Summer Time": [
+      {
+        "client_name": "planetlab1.cesnet.cz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.957987971285171,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.921096918760458,
+            "non_peak_hours_mean_QOE": 4.919333582047612
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.tlm.unavarra.es",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "pl2.prakinf.tu-ilmenau.de",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.di.unito.it",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "dannan.disy.inf.uni-konstanz.de",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab4.mini.pw.edu.pl",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.738133810699963,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.761079341365803,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.655313351734383,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "ple1.hpca.ual.es",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.tlm.unavarra.es",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "onelab4.info.ucl.ac.be",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.utt.fr",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetvs2.informatik.uni-stuttgart.de",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.urv.cat",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "chronos.disy.inf.uni-konstanz.de",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.ifi.uio.no",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-2.ing.unimo.it",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "dplanet2.uoc.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.cesnet.cz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.958107084940459,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.9588740499583395,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.919919264424903,
+            "non_peak_hours_mean_QOE": 4.9169908525384525
+          }
+        }
+      },
+      {
+        "client_name": "planetlab3.cesnet.cz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.958385981310598,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.92285926544084,
+            "non_peak_hours_mean_QOE": 4.918859114807589
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-1.ing.unimo.it",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-2.ida.liu.se",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "ple2.hpca.ual.es",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "dplanet1.uoc.edu",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Argentina Standard Time": [
+      {
+        "client_name": "planet-lab4.uba.ar",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Eastern European Summer Time": [
+      {
+        "client_name": "planetlab1.virtues.fi",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Western European Summer Time": [
+      {
+        "client_name": "planetlab2.fct.ualg.pt",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ]
+  },
+  "South America": {
+    "Brasilia Standard Time": [
+      {
+        "client_name": "planetlab2.pop-pa.rnp.br",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.484341302251652,
+            "non_peak_hours_mean_QOE": 4.179750880340257
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.565415213805332,
+            "non_peak_hours_mean_QOE": 4.2785820632892175
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.503136070281547,
+            "non_peak_hours_mean_QOE": 4.432789563825297
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.pop-pa.rnp.br",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.483442374642069,
+            "non_peak_hours_mean_QOE": 4.176990977322336
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.561190986906324,
+            "non_peak_hours_mean_QOE": 4.307110297899773
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.507891110367861,
+            "non_peak_hours_mean_QOE": 4.44423840255092
+          }
+        }
+      }
+    ],
+    "unknown": [
+      {
+        "client_name": "planetlab1.pop-mg.rnp.br",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.pop-mg.rnp.br",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.9446553011118315,
+            "non_peak_hours_mean_QOE": 4.945141494811671
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.9588740499583395
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.926223103504889,
+            "non_peak_hours_mean_QOE": 4.923046200040549
+          }
+        }
+      }
+    ]
+  },
+  "Australia": {
+    "Australian Eastern Standard Time": [
+      {
+        "client_name": "pl2.eng.monash.edu.au",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.942778618169807,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.951550399583475,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.8722259706296835,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-n2.wand.net.nz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "pl1.eng.monash.edu.au",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.95164290509275,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.926481033767337,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.862249999090486,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-n1.wand.net.nz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "New Zealand Standard Time": [
+      {
+        "client_name": "planetlab2.cs.otago.ac.nz",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.7996251138026045,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.892790751947533,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.610338107526379,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ]
+  },
+  "Asia": {
+    "Moscow Standard Time": [
+      {
+        "client_name": "plab3.cs.msu.ru",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Singapore Standard Time": [
+      {
+        "client_name": "planetlab3.comp.nus.edu.sg",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.comp.nus.edu.sg",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "China Standard Time": [
+      {
+        "client_name": "planetlab2.ustc.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-1.scie.uestc.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-2.sysu.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab1.ustc.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-js1.cert.org.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "planetlab-1.sysu.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 0,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "pl1.6test.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.781443911177087,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.457720330519749,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.779489321599063,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      },
+      {
+        "client_name": "pl2.6test.edu.cn",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.797611428935122,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.451034401413382,
+            "non_peak_hours_mean_QOE": 0
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.740583153979307,
+            "non_peak_hours_mean_QOE": 0
+          }
+        }
+      }
+    ],
+    "Japan Standard Time": [
+      {
+        "client_name": "planetlab1.koganei.itrc.net",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.960708843298671
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.954751607995608,
+            "non_peak_hours_mean_QOE": 4.9578979126628555
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.929241689028016,
+            "non_peak_hours_mean_QOE": 4.935607485683297
+          }
+        }
+      },
+      {
+        "client_name": "planetlab2.koganei.itrc.net",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.960708843298671,
+            "non_peak_hours_mean_QOE": 4.957765933490093
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.95368279141907,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.932064185325712,
+            "non_peak_hours_mean_QOE": 4.93382437724807
+          }
+        }
+      },
+      {
+        "client_name": "pl1.sos.info.hiroshima-cu.ac.jp",
+        "providers": {
+          "AZURE": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.959362118606081
+          },
+          "AMAZON": {
+            "peak_hours_mean_QOE": 4.959362118606081,
+            "non_peak_hours_mean_QOE": 4.956919154708632
+          },
+          "GOOGLE": {
+            "peak_hours_mean_QOE": 4.934066579244985,
+            "non_peak_hours_mean_QOE": 4.928016046908695
+          }
+        }
+      }
+    ]
+  }
+}

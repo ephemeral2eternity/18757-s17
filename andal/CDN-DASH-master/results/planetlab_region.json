@@ -1,0 +1,145 @@
+{
+  "North America": {
+    "Central Daylight Time": [
+      "ricepl-5.cs.rice.edu",
+      "planetlab1.tsuniv.edu",
+      "planetlab2.tsuniv.edu",
+      "ricepl-2.cs.rice.edu",
+      "planetlab2.utdallas.edu",
+      "planetlab3.wail.wisc.edu",
+      "planetlab2.cs.okstate.edu",
+      "planetlab1.cs.okstate.edu"
+    ],
+    "Eastern Daylight Time": [
+      "planetlab-3.cmcl.cs.cmu.edu",
+      "whitefall.planetlab.cs.umd.edu",
+      "pl2.ucs.indiana.edu",
+      "planetlabone.ccs.neu.edu",
+      "earth.cs.brown.edu",
+      "planetlab5.eecs.umich.edu",
+      "planetlab2.cs.uml.edu",
+      "plonk.cs.uwaterloo.ca",
+      "planetlab1.cs.purdue.edu",
+      "pl1.ucs.indiana.edu",
+      "planetlab3.rutgers.edu",
+      "planetlab5.williams.edu",
+      "planetlab4.williams.edu",
+      "plink.cs.uwaterloo.ca",
+      "planetlab3.eecs.umich.edu",
+      "planetlab1.rutgers.edu",
+      "planetlab-5.eecs.cwru.edu",
+      "pl1.rcc.uottawa.ca",
+      "planetlab-2.cmcl.cs.cmu.edu",
+      "node1.planetlab.mathcs.emory.edu",
+      "salt.planetlab.cs.umd.edu",
+      "planetlab2.cs.purdue.edu",
+      "planetlab1.cs.uml.edu",
+      "planetlab1.csee.usf.edu",
+      "planetlab-03.cs.princeton.edu",
+      "planetlab2.cs.unc.edu",
+      "node2.planetlab.mathcs.emory.edu",
+      "planetlab1.temple.edu"
+    ],
+    "Pacific Daylight Time": [
+      "planetlab4.postel.org",
+      "planetlab-2.calpoly-netlab.net",
+      "planetlab1.cs.ucla.edu",
+      "planetlab1.cs.ubc.ca",
+      "planetlab3.cs.uoregon.edu",
+      "planetlab1.postel.org",
+      "planetlab04.cs.washington.edu",
+      "planetlab2.cs.ucla.edu",
+      "planetlab1.unr.edu",
+      "planetlab01.cs.washington.edu",
+      "planetlab2.cs.ubc.ca",
+      "planetlab1.cs.uoregon.edu",
+      "planetlab02.cs.washington.edu",
+      "planetlab03.cs.washington.edu",
+      "planetlab4.cs.uoregon.edu"
+    ],
+    "Mountain Daylight Time": [
+      "pl2.cs.montana.edu",
+      "planetlab1.cs.du.edu"
+    ]
+  },
+  "Europe": {
+    "Central European Summer Time": [
+      "planetlab1.cesnet.cz",
+      "planetlab1.tlm.unavarra.es",
+      "pl2.prakinf.tu-ilmenau.de",
+      "planetlab2.di.unito.it",
+      "dannan.disy.inf.uni-konstanz.de",
+      "planetlab4.mini.pw.edu.pl",
+      "ple1.hpca.ual.es",
+      "planetlab2.tlm.unavarra.es",
+      "onelab4.info.ucl.ac.be",
+      "planetlab2.utt.fr",
+      "planetvs2.informatik.uni-stuttgart.de",
+      "planetlab2.urv.cat",
+      "chronos.disy.inf.uni-konstanz.de",
+      "planetlab1.ifi.uio.no",
+      "planetlab-2.ing.unimo.it",
+      "dplanet2.uoc.edu",
+      "planetlab2.cesnet.cz",
+      "planetlab3.cesnet.cz",
+      "planetlab-1.ing.unimo.it",
+      "planetlab-2.ida.liu.se",
+      "ple2.hpca.ual.es",
+      "dplanet1.uoc.edu"
+    ],
+    "Argentina Standard Time": [
+      "planet-lab4.uba.ar"
+    ],
+    "Eastern European Summer Time": [
+      "planetlab1.virtues.fi"
+    ],
+    "Western European Summer Time": [
+      "planetlab2.fct.ualg.pt"
+    ]
+  },
+  "South America": {
+    "Brasilia Standard Time": [
+      "planetlab2.pop-pa.rnp.br",
+      "planetlab1.pop-pa.rnp.br"
+    ],
+    "unknown": [
+      "planetlab1.pop-mg.rnp.br",
+      "planetlab2.pop-mg.rnp.br"
+    ]
+  },
+  "Australia": {
+    "Australian Eastern Standard Time": [
+      "pl2.eng.monash.edu.au",
+      "planetlab-n2.wand.net.nz",
+      "pl1.eng.monash.edu.au",
+      "planetlab-n1.wand.net.nz"
+    ],
+    "New Zealand Standard Time": [
+      "planetlab2.cs.otago.ac.nz"
+    ]
+  },
+  "Asia": {
+    "Moscow Standard Time": [
+      "plab3.cs.msu.ru"
+    ],
+    "Singapore Standard Time": [
+      "planetlab3.comp.nus.edu.sg",
+      "planetlab1.comp.nus.edu.sg"
+    ],
+    "China Standard Time": [
+      "planetlab2.ustc.edu.cn",
+      "planetlab-1.scie.uestc.edu.cn",
+      "planetlab-2.sysu.edu.cn",
+      "planetlab1.ustc.edu.cn",
+      "planetlab-js1.cert.org.cn",
+      "planetlab-1.sysu.edu.cn",
+      "pl1.6test.edu.cn",
+      "pl2.6test.edu.cn"
+    ],
+    "Japan Standard Time": [
+      "planetlab1.koganei.itrc.net",
+      "planetlab2.koganei.itrc.net",
+      "pl1.sos.info.hiroshima-cu.ac.jp"
+    ]
+  }
+}
