@@ -1,0 +1,280 @@
+{
+  "North America": {
+    "Central Daylight Time": {
+      "AZURE": {
+        "mean": 3.9229491455497723,
+        "std_deviation": 0.4618763589810318
+      },
+      "AMAZON": {
+        "mean": 3.899384824082443,
+        "std_deviation": 0.7835218891065807
+      },
+      "GOOGLE": {
+        "mean": 4.1346602210161985,
+        "std_deviation": 0.5795654181094443
+      },
+      "mean": 3.98112368252489,
+      "std_deviation": 0.640773220552573
+    },
+    "Eastern Daylight Time": {
+      "AZURE": {
+        "mean": 3.3216868322543656,
+        "std_deviation": 0.9765701715457549
+      },
+      "AMAZON": {
+        "mean": 3.2644113389547127,
+        "std_deviation": 0.9613994087638493
+      },
+      "GOOGLE": {
+        "mean": 3.3483529465806408,
+        "std_deviation": 0.9351870782063846
+      },
+      "mean": 3.311483705929907,
+      "std_deviation": 0.9585113886984999
+    },
+    "Pacific Daylight Time": {
+      "AZURE": {
+        "mean": 4.923030460660604,
+        "std_deviation": 0.06309853248003267
+      },
+      "AMAZON": {
+        "mean": 4.944787837881815,
+        "std_deviation": 0.0071195637097166775
+      },
+      "GOOGLE": {
+        "mean": 4.93711273560371,
+        "std_deviation": 0.007921660362528157
+      },
+      "mean": 4.934977011382042,
+      "std_deviation": 0.03802805718654436
+    },
+    "Mountain Daylight Time": {
+      "AZURE": {
+        "mean": 4.935749566468536,
+        "std_deviation": 0.031573635481474335
+      },
+      "AMAZON": {
+        "mean": 4.93961346383322,
+        "std_deviation": 0.019580036336876928
+      },
+      "GOOGLE": {
+        "mean": 4.941854744493841,
+        "std_deviation": 0.011269529526875507
+      },
+      "mean": 4.939072591598533,
+      "std_deviation": 0.022556225967932306
+    },
+    "mean": 4.360367912755735,
+    "std_deviation": 0.9309411162441757
+  },
+  "Europe": {
+    "Central European Summer Time": {
+      "AZURE": {
+        "mean": 4.92422435064958,
+        "std_deviation": 0.09295925244251795
+      },
+      "AMAZON": {
+        "mean": 4.938131296536691,
+        "std_deviation": 0.04208497074273159
+      },
+      "GOOGLE": {
+        "mean": 4.909527704963677,
+        "std_deviation": 0.015563404595328302
+      },
+      "mean": 4.9239611173833175,
+      "std_deviation": 0.060728833357126207
+    },
+    "Argentina Standard Time": {
+      "AZURE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "AMAZON": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "GOOGLE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "mean": null,
+      "std_deviation": null
+    },
+    "Eastern European Summer Time": {
+      "AZURE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "AMAZON": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "GOOGLE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "mean": null,
+      "std_deviation": null
+    },
+    "Western European Summer Time": {
+      "AZURE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "AMAZON": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "GOOGLE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "mean": null,
+      "std_deviation": null
+    },
+    "mean": 4.9239611173833175,
+    "std_deviation": 0.060728833357126207
+  },
+  "South America": {
+    "Brasilia Standard Time": {
+      "AZURE": {
+        "mean": 4.239846255799985,
+        "std_deviation": 0.19692510856650092
+      },
+      "AMAZON": {
+        "mean": 4.385459957628417,
+        "std_deviation": 0.13245562542232436
+      },
+      "GOOGLE": {
+        "mean": 4.334414334974215,
+        "std_deviation": 0.24477557397137906
+      },
+      "mean": 4.320885254066954,
+      "std_deviation": 0.20512898861263387
+    },
+    "unknown": {
+      "AZURE": {
+        "mean": 4.9007562975979635,
+        "std_deviation": 0.19595408111974483
+      },
+      "AMAZON": {
+        "mean": 4.956371926817181,
+        "std_deviation": 0.012575862628534372
+      },
+      "GOOGLE": {
+        "mean": 4.9290779533503315,
+        "std_deviation": 0.00588051574144923
+      },
+      "mean": 4.929147878173999,
+      "std_deviation": 0.11486102223685063
+    },
+    "mean": 4.62501656612047,
+    "std_deviation": 0.34659967277922216
+  },
+  "Australia": {
+    "Australian Eastern Standard Time": {
+      "AZURE": {
+        "mean": 4.80088553348583,
+        "std_deviation": 0.2358780334517711
+      },
+      "AMAZON": {
+        "mean": 4.924968573086121,
+        "std_deviation": 0.03555375003366572
+      },
+      "GOOGLE": {
+        "mean": 4.864555278609907,
+        "std_deviation": 0.009387468173483831
+      },
+      "mean": 4.866346618607106,
+      "std_deviation": 0.14761888261034117
+    },
+    "New Zealand Standard Time": {
+      "AZURE": {
+        "mean": 4.681399087027895,
+        "std_deviation": 0.3093278520687923
+      },
+      "AMAZON": {
+        "mean": 4.8273166599964,
+        "std_deviation": 0.10232830413441817
+      },
+      "GOOGLE": {
+        "mean": 4.612066321490737,
+        "std_deviation": 0.014793972001617217
+      },
+      "mean": 4.711742928324665,
+      "std_deviation": 0.20673900204239906
+    },
+    "mean": 4.78232287388839,
+    "std_deviation": 0.1977559651057082
+  },
+  "Asia": {
+    "Moscow Standard Time": {
+      "AZURE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "AMAZON": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "GOOGLE": {
+        "mean": null,
+        "std_deviation": null
+      },
+      "mean": null,
+      "std_deviation": null
+    },
+    "Singapore Standard Time": {
+      "AZURE": {
+        "mean": 1.6018849647016384,
+        "std_deviation": 0
+      },
+      "AMAZON": {
+        "mean": 1.434665011104879,
+        "std_deviation": 0
+      },
+      "GOOGLE": {
+        "mean": 1.6994440624412535,
+        "std_deviation": 0
+      },
+      "mean": 1.5786646794159236,
+      "std_deviation": 0.10933548598453013
+    },
+    "China Standard Time": {
+      "AZURE": {
+        "mean": 4.50224628492162,
+        "std_deviation": 0.46336181098465923
+      },
+      "AMAZON": {
+        "mean": 4.396715586932982,
+        "std_deviation": 0.474204214665671
+      },
+      "GOOGLE": {
+        "mean": 4.571715998176826,
+        "std_deviation": 0.23172469845575422
+      },
+      "mean": 4.484922913912177,
+      "std_deviation": 0.41811781463004183
+    },
+    "Japan Standard Time": {
+      "AZURE": {
+        "mean": 4.934769952904602,
+        "std_deviation": 0.08044294890119433
+      },
+      "AMAZON": {
+        "mean": 4.9572179366672495,
+        "std_deviation": 0.0032980592081580115
+      },
+      "GOOGLE": {
+        "mean": 4.930713951829074,
+        "std_deviation": 0.0038629762042819557
+      },
+      "mean": 4.940900613800309,
+      "std_deviation": 0.04797386760273387
+    },
+    "mean": 4.701529452853054,
+    "std_deviation": 0.6227631873889711
+  },
+  "mean": 4.583786431018662,
+  "std_deviation": 0.6916982883031345
+}

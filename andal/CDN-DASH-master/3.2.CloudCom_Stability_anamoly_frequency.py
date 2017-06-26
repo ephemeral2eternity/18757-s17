@@ -86,7 +86,8 @@ def get_hourly_qoe(session_file_paths):
         qoe_val = {
             'qoe': mean_qoe / 120,
             'ts': session_data['0']['TS'],
-            'hours': int(datetime.datetime.fromtimestamp(int(session_data['0']['TS'])).strftime('%H'))
+            'hours': int(datetime.datetime.fromtimestamp(int(session_data['0']['TS'])).strftime('%H')),
+            'anomaly': (mean_qoe / 120) < 2
         }
 
         qoe_values.append(qoe_val);
@@ -97,14 +98,19 @@ def get_hourly_qoe(session_file_paths):
             hour_qoe = filter(lambda e: e['hours'] == i, qoe_values)
 
             if(len(hour_qoe) > 0):
-                hour_qoe = reduce( lambda a, b: { 'hours': a['hours'], 'ts': a['ts'], 'qoe': (a['qoe'] + b['qoe'])/2}, hour_qoe)
+                hour_qoe = reduce( lambda a, b: {
+                    'hours': a['hours'],
+                    'ts': a['ts'],
+                    'anomaly': ((a['qoe'] + b['qoe'])/2) < 2,
+                    'qoe': (a['qoe'] + b['qoe'])/2
+                }, hour_qoe)
                 hourly_qoe_list.append(hour_qoe)
 
     return hourly_qoe_list
 
 def get_dataQoE_files_for_client(pl_client):
-    print "------------------------------------------------------"
-    print "Gathering session files for providers for ", pl_client
+    # print "------------------------------------------------------"
+    # print "Gathering session files for providers for ", pl_client
     provider_files_map = {};
     for provider in DATAQOE_FILE_PATHS:
         provider_files_map[provider] = [];
@@ -178,9 +184,9 @@ def init():
                     "providers": get_dataQoE_files_for_client(pl_client)
                 }
 
-    aggregate_qoe_across_time_zones_per_hour(planetlab_nodes);
+    # aggregate_qoe_across_time_zones_per_hour(planetlab_nodes);
 
-    dest = './results/stability/conclusions/' + "qoe_diurnal_24_hours.json";
+    dest = './results/stability/conclusions/' + "qoe_anomaly_freq_24_hours.json";
     with open(dest, 'w') as outfile:
         json.dump(planetlab_nodes, outfile);
         print("Writing File Job Done! " + dest);

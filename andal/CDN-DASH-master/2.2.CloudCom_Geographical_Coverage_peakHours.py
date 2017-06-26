@@ -148,9 +148,10 @@ def get_dataQoE_files_for_client(pl_client):
     return provider_files_map;
 
 def getMeanFromList(data):
-    if len(data) == 0:
+    non_zero_data = filter(lambda x: x > 0, data)
+    if len(non_zero_data) == 0:
         return 0
-    return sum(data) / len(data)
+    return sum(non_zero_data) / len(non_zero_data)
 
 def get_mean_qoe_for_provider(data, provider):
     providerQOEs = []
