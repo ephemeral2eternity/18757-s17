@@ -87,7 +87,7 @@ def get_hourly_qoe(session_file_paths):
             'qoe': mean_qoe / 120,
             'ts': session_data['0']['TS'],
             'hours': int(datetime.datetime.fromtimestamp(int(session_data['0']['TS'])).strftime('%H')),
-            'anomaly': (mean_qoe / 120) < 2
+            'anomaly': (mean_qoe/120) < 2
         }
 
         qoe_values.append(qoe_val);
@@ -101,7 +101,7 @@ def get_hourly_qoe(session_file_paths):
                 hour_qoe = reduce( lambda a, b: {
                     'hours': a['hours'],
                     'ts': a['ts'],
-                    'anomaly': ((a['qoe'] + b['qoe'])/2) < 2,
+                    'anomaly': ((a['anomaly'] or b['anomaly'])),
                     'qoe': (a['qoe'] + b['qoe'])/2
                 }, hour_qoe)
                 hourly_qoe_list.append(hour_qoe)
@@ -145,15 +145,22 @@ def get_mean_qoe_for_provider_per_hour(data, provider):
         return []
     providerQOEs = numpy.concatenate(providerQOEs)
     # print providerQOEs
+
     aggregated_qoe_list = []
     for i in range(0, 23):
         hour_qoe = filter(lambda e: e['hours'] == i, providerQOEs)
         if (len(hour_qoe) > 0):
-            hour_qoe = reduce(lambda a, b: {'ts': a['ts'],'hours': a['hours'], 'qoe': (a['qoe'] + b['qoe']) / 2}, hour_qoe)
+            hour_qoe = reduce(lambda a, b: {
+                'ts': a['ts'],
+                'hours': a['hours'],
+                'qoe': (a['qoe'] + b['qoe']) / 2,
+                'anomaly': a['anomaly'] or b['anomaly']
+            }, hour_qoe)
             aggregated_qoe_list.append(hour_qoe)
 
     # print aggregated_qoe_list
-
+    for qoe in  aggregated_qoe_list:
+        qoe['anomaly_count'] = len(filter(lambda x: x['hours'] == qoe['hours'] and x['anomaly'], providerQOEs))
     return aggregated_qoe_list
 
 def aggregate_qoe_across_time_zones_per_hour(planetlab_nodes):
@@ -184,7 +191,7 @@ def init():
                     "providers": get_dataQoE_files_for_client(pl_client)
                 }
 
-    # aggregate_qoe_across_time_zones_per_hour(planetlab_nodes);
+    aggregate_qoe_across_time_zones_per_hour(planetlab_nodes);
 
     dest = './results/stability/conclusions/' + "qoe_anomaly_freq_24_hours.json";
     with open(dest, 'w') as outfile:
