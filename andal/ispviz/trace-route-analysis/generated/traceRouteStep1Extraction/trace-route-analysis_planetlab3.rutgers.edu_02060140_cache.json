@@ -1,0 +1,1533 @@
+[
+  {
+    "id": "aws-server",
+    "name": "52.90.121.155",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.257
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.8053333333333335
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.5763333333333334
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.9273333333333333
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.4546666666666667
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.4143333333333333
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 0.9376666666666665
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 0.9066666666666667
+      },
+      {
+        "id": "198.32.160.64",
+        "addr": "*",
+        "time": 1.803
+      },
+      {
+        "id": "52.93.1.77",
+        "addr": "52.93.1.77",
+        "time": 5.189333333333334
+      },
+      {
+        "id": "52.93.1.44",
+        "addr": "52.93.1.44",
+        "time": 1.6463333333333334
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "54.239.110.205",
+        "addr": "54.239.110.205",
+        "time": 31.425
+      },
+      {
+        "id": "54.239.110.27",
+        "addr": "54.239.110.27",
+        "time": 9.188333333333334
+      },
+      {
+        "id": "52.93.24.154",
+        "addr": "52.93.24.154",
+        "time": 10.043666666666665
+      },
+      {
+        "id": "52.93.24.151",
+        "addr": "52.93.24.151",
+        "time": 7.525333333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      }
+    ],
+    "hops": 30,
+    "timeTaken": "*"
+  },
+  {
+    "id": "gserver-01",
+    "name": "146.148.82.83",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.5003333333333335
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 1.088
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 1.309
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 1.2966666666666666
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 1.2186666666666668
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.6093333333333334
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 1.296
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.4816666666666667
+      },
+      {
+        "id": "198.32.160.130",
+        "addr": "core1-0-2-0.lga.net.google.com",
+        "time": 1.5706666666666667
+      },
+      {
+        "id": "216.239.50.108",
+        "addr": "216.239.50.108",
+        "time": 2.163666666666667
+      },
+      {
+        "id": "216.239.40.231",
+        "addr": "216.239.40.231",
+        "time": 2.470666666666667
+      },
+      {
+        "id": "108.170.236.237",
+        "addr": "108.170.236.237",
+        "time": 19.604
+      },
+      {
+        "id": "209.85.143.103",
+        "addr": "209.85.143.103",
+        "time": 28.741333333333333
+      },
+      {
+        "id": "209.85.245.45",
+        "addr": "209.85.245.45",
+        "time": 28.598333333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "146.148.82.83",
+        "addr": "83.82.148.146.bc.googleusercontent.com",
+        "time": 28.615
+      }
+    ],
+    "hops": 23,
+    "timeTaken": 28.615
+  },
+  {
+    "id": "gserver-02",
+    "name": "104.196.218.56",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.0993333333333333
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.5993333333333334
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.7133333333333333
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.6186666666666667
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.47733333333333333
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 7.878
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 0.9796666666666667
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 0.9556666666666667
+      },
+      {
+        "id": "198.32.160.130",
+        "addr": "core1-0-2-0.lga.net.google.com",
+        "time": 1.5396666666666665
+      },
+      {
+        "id": "216.239.50.108",
+        "addr": "216.239.50.108",
+        "time": 1.819
+      },
+      {
+        "id": "216.239.40.231",
+        "addr": "216.239.40.231",
+        "time": 30.290333333333336
+      },
+      {
+        "id": "216.239.57.249",
+        "addr": "216.239.57.249",
+        "time": 16.49
+      },
+      {
+        "id": "216.239.40.20",
+        "addr": "216.239.40.20",
+        "time": 20.188666666666666
+      },
+      {
+        "id": "216.239.50.43",
+        "addr": "216.239.50.43",
+        "time": 18.97933333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "104.196.218.56",
+        "addr": "56.218.196.104.bc.googleusercontent.com",
+        "time": 25.77733333333333
+      }
+    ],
+    "hops": 16,
+    "timeTaken": 25.77733333333333
+  },
+  {
+    "id": "gserver-03",
+    "name": "104.198.11.151",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.2003333333333333
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.8163333333333332
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.7913333333333333
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.79
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.6453333333333333
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.48533333333333334
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 0.8976666666666667
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 0.9426666666666668
+      },
+      {
+        "id": "198.32.160.130",
+        "addr": "core1-0-2-0.lga.net.google.com",
+        "time": 1.5329999999999997
+      },
+      {
+        "id": "209.85.248.178",
+        "addr": "209.85.248.178",
+        "time": 2.423
+      },
+      {
+        "id": "108.170.236.123",
+        "addr": "108.170.236.123",
+        "time": 3.466666666666667
+      },
+      {
+        "id": "216.58.215.57",
+        "addr": "216.58.215.57",
+        "time": 20.057999999999996
+      },
+      {
+        "id": "72.14.234.9",
+        "addr": "72.14.234.9",
+        "time": 74.82466666666666
+      },
+      {
+        "id": "216.239.43.226",
+        "addr": "216.239.43.226",
+        "time": 37.865
+      },
+      {
+        "id": "209.85.242.81",
+        "addr": "209.85.242.81",
+        "time": 63.35833333333333
+      },
+      {
+        "id": "216.239.51.64",
+        "addr": "216.239.51.64",
+        "time": 61.92666666666667
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "104.198.11.151",
+        "addr": "151.11.198.104.bc.googleusercontent.com",
+        "time": 61.48
+      }
+    ],
+    "hops": 18,
+    "timeTaken": 61.48
+  },
+  {
+    "id": "server-01",
+    "name": "40.69.135.145",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.0866666666666667
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.9823333333333334
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.9263333333333333
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.92
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.7326666666666667
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.6643333333333333
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 1.0663333333333334
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.3056666666666668
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 2.233
+      },
+      {
+        "id": "104.44.8.112",
+        "addr": "be-61-0.ibr01.nyc04.ntwk.n.net",
+        "time": 40.975
+      },
+      {
+        "id": "104.44.4.34",
+        "addr": "be-3-0.ibr01.was02.ntwk.n.net",
+        "time": 41.583666666666666
+      },
+      {
+        "id": "104.44.4.33",
+        "addr": "be-4-0.ibr03.ch1.ntwk.n.net",
+        "time": 41.269
+      },
+      {
+        "id": "104.44.4.56",
+        "addr": "be-2-0.ibr02.ch1.ntwk.n.net",
+        "time": 41.351000000000006
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 41.953
+      },
+      {
+        "id": "104.44.4.180",
+        "addr": "be-2-0.ibr01.cnr02.dsm05.ntwk.n.net",
+        "time": 41.24066666666667
+      },
+      {
+        "id": "104.44.9.169",
+        "addr": "ae73-0.dsm05-96cbe-1c.ntwk.n.net",
+        "time": 39.541
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "40.69.135.145",
+        "addr": "40.69.135.145",
+        "time": 40.30733333333333
+      }
+    ],
+    "hops": 23,
+    "timeTaken": 40.30733333333333
+  },
+  {
+    "id": "server-02",
+    "name": "13.90.151.24",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 45.400666666666666
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 42.37966666666667
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 42.248333333333335
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 42.553666666666665
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 42.16433333333334
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 39.00733333333333
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 37.559333333333335
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 37.586999999999996
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 38.43766666666667
+      },
+      {
+        "id": "104.44.9.233",
+        "addr": "be-73-0.ibr02.nyc04.ntwk.n.net",
+        "time": 44.510999999999996
+      },
+      {
+        "id": "104.44.4.28",
+        "addr": "be-4-0.ibr02.was05.ntwk.n.net",
+        "time": 43.24333333333334
+      },
+      {
+        "id": "104.44.8.173",
+        "addr": "ae71-0.bl2-96c-1b.ntwk.n.net",
+        "time": 48.41933333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "13.90.151.24",
+        "addr": "13.90.151.24",
+        "time": 16.654666666666667
+      }
+    ],
+    "hops": 19,
+    "timeTaken": 16.654666666666667
+  },
+  {
+    "id": "server-03",
+    "name": "52.184.187.152",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.38
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.7403333333333334
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.6683333333333333
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.7463333333333333
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.551
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.578
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 0.949
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 0.961
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 1.6433333333333333
+      },
+      {
+        "id": "104.44.8.116",
+        "addr": "be-71-0.ibr02.nyc04.ntwk.n.net",
+        "time": 14.046333333333331
+      },
+      {
+        "id": "104.44.4.28",
+        "addr": "be-4-0.ibr02.was05.ntwk.n.net",
+        "time": 13.262
+      },
+      {
+        "id": "104.44.4.27",
+        "addr": "be-3-0.ibr02.bn1.ntwk.n.net",
+        "time": 12.389666666666665
+      },
+      {
+        "id": "104.44.4.165",
+        "addr": "be-5-0.ibr01.cnr01.bn6.ntwk.n.net",
+        "time": 14.200666666666665
+      },
+      {
+        "id": "104.44.9.93",
+        "addr": "ae61-0.bn6-96cbe-1a.ntwk.n.net",
+        "time": 11.789666666666667
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "52.184.187.152",
+        "addr": "52.184.187.152",
+        "time": 22.418000000000003
+      }
+    ],
+    "hops": 21,
+    "timeTaken": 22.418000000000003
+  },
+  {
+    "id": "server-04",
+    "name": "157.55.140.182",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.444
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.7523333333333332
+      },
+      {
+        "id": "172.28.10.38",
+        "addr": "gigabitethernet1-9-dr01-asb-bus.runet.rutgers.net",
+        "time": 0.6836666666666668
+      },
+      {
+        "id": "172.28.195.2",
+        "addr": "tengigabitethernet1-4-cr01-alex-nbp.runet.rutgers.net",
+        "time": 1.0753333333333333
+      },
+      {
+        "id": "172.28.193.93",
+        "addr": "xe-2-3-0-0-cr01-fsci-nbp.runet.rutgers.net",
+        "time": 0.8293333333333334
+      },
+      {
+        "id": "172.29.6.44",
+        "addr": "ae1-2000-cr10-fsci-nbp.runet.rutgers.net",
+        "time": 1.0026666666666666
+      },
+      {
+        "id": "172.29.6.68",
+        "addr": "172.29.6.68",
+        "time": 1.5833333333333333
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.675
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 1.787
+      },
+      {
+        "id": "104.44.9.231",
+        "addr": "be-63-0.ibr01.nyc04.ntwk.n.net",
+        "time": 28.395333333333337
+      },
+      {
+        "id": "104.44.4.34",
+        "addr": "be-3-0.ibr01.was02.ntwk.n.net",
+        "time": 28.176333333333332
+      },
+      {
+        "id": "104.44.4.33",
+        "addr": "be-4-0.ibr03.ch1.ntwk.n.net",
+        "time": 28.05633333333333
+      },
+      {
+        "id": "104.44.4.56",
+        "addr": "be-2-0.ibr02.ch1.ntwk.n.net",
+        "time": 27.79733333333333
+      },
+      {
+        "id": "104.44.9.49",
+        "addr": "ae75-0.ch3-96cbe-1a.ntwk.n.net",
+        "time": 26.435333333333332
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "157.55.140.182",
+        "addr": "157.55.140.182",
+        "time": 27.985
+      }
+    ],
+    "hops": 28,
+    "timeTaken": 27.985
+  },
+  {
+    "id": "server-05",
+    "name": "13.85.80.42",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.0996666666666666
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.9196666666666666
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.839
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 0.8363333333333333
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.6296666666666667
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.6613333333333333
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 1.3296666666666666
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.2179999999999997
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 1.6139999999999999
+      },
+      {
+        "id": "104.44.9.233",
+        "addr": "be-73-0.ibr02.nyc04.ntwk.n.net",
+        "time": 37.132000000000005
+      },
+      {
+        "id": "104.44.4.28",
+        "addr": "be-4-0.ibr02.was05.ntwk.n.net",
+        "time": 37.811
+      },
+      {
+        "id": "104.44.4.27",
+        "addr": "be-3-0.ibr02.bn1.ntwk.n.net",
+        "time": 37.89233333333333
+      },
+      {
+        "id": "104.44.4.62",
+        "addr": "be-1-0.ibr01.bn1.ntwk.n.net",
+        "time": 38.961999999999996
+      },
+      {
+        "id": "104.44.4.48",
+        "addr": "be-3-0.ibr02.atb.ntwk.n.net",
+        "time": 38.67866666666667
+      },
+      {
+        "id": "104.44.4.38",
+        "addr": "be-1-0.ibr01.atb.ntwk.n.net",
+        "time": 38.132
+      },
+      {
+        "id": "104.44.4.47",
+        "addr": "be-6-0.ibr02.sn4.ntwk.n.net",
+        "time": 38.08466666666667
+      },
+      {
+        "id": "104.44.9.91",
+        "addr": "ae82-0.sn4-96cbe-1b.ntwk.n.net",
+        "time": 36.41433333333334
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "13.85.80.42",
+        "addr": "13.85.80.42",
+        "time": 38.144666666666666
+      }
+    ],
+    "hops": 29,
+    "timeTaken": 38.144666666666666
+  },
+  {
+    "id": "server-06",
+    "name": "13.78.236.216",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.6316666666666666
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 1.11
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 1.04
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 1.0473333333333332
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.769
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 61.02033333333333
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 1.1113333333333333
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.2306666666666668
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 1.7963333333333331
+      },
+      {
+        "id": "104.44.9.231",
+        "addr": "be-63-0.ibr01.nyc04.ntwk.n.net",
+        "time": 55.916333333333334
+      },
+      {
+        "id": "104.44.4.34",
+        "addr": "be-3-0.ibr01.was02.ntwk.n.net",
+        "time": 54.63833333333333
+      },
+      {
+        "id": "104.44.4.33",
+        "addr": "be-4-0.ibr03.ch1.ntwk.n.net",
+        "time": 55.70366666666666
+      },
+      {
+        "id": "104.44.4.56",
+        "addr": "be-2-0.ibr02.ch1.ntwk.n.net",
+        "time": 55.874
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 55.773
+      },
+      {
+        "id": "104.44.4.74",
+        "addr": "be-3-0.ibr01.dm3.ntwk.n.net",
+        "time": 55.678999999999995
+      },
+      {
+        "id": "104.44.4.97",
+        "addr": "be-4-0.ibr02.den07.ntwk.n.net",
+        "time": 55.38466666666667
+      },
+      {
+        "id": "104.44.4.58",
+        "addr": "be-1-0.ibr01.den07.ntwk.n.net",
+        "time": 56.44166666666666
+      },
+      {
+        "id": "104.44.4.112",
+        "addr": "be-3-0.ibr01.cys01.ntwk.n.net",
+        "time": 56.054
+      },
+      {
+        "id": "104.44.4.195",
+        "addr": "be-2-0.ibr01.cnr02.cys04.ntwk.n.net",
+        "time": 55.836000000000006
+      },
+      {
+        "id": "104.44.9.213",
+        "addr": "ae74-0.cys04-96cbe-1d.ntwk.n.net",
+        "time": 53.833
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "13.78.236.216",
+        "addr": "13.78.236.216",
+        "time": 53.8625
+      }
+    ],
+    "hops": 26,
+    "timeTaken": 53.8625
+  },
+  {
+    "id": "server-07",
+    "name": "104.210.44.221",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.9706666666666666
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 1.2623333333333333
+      },
+      {
+        "id": "172.28.10.38",
+        "addr": "gigabitethernet1-9-dr01-asb-bus.runet.rutgers.net",
+        "time": 1.3923333333333332
+      },
+      {
+        "id": "172.28.195.2",
+        "addr": "tengigabitethernet1-4-cr01-alex-nbp.runet.rutgers.net",
+        "time": 1.4403333333333332
+      },
+      {
+        "id": "172.28.193.93",
+        "addr": "xe-2-3-0-0-cr01-fsci-nbp.runet.rutgers.net",
+        "time": 1.3923333333333332
+      },
+      {
+        "id": "172.29.6.44",
+        "addr": "ae1-2000-cr10-fsci-nbp.runet.rutgers.net",
+        "time": 0.9516666666666667
+      },
+      {
+        "id": "172.29.6.68",
+        "addr": "172.29.6.68",
+        "time": 1.3336666666666666
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 1.747
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 2.2769999999999997
+      },
+      {
+        "id": "104.44.8.116",
+        "addr": "be-71-0.ibr02.nyc04.ntwk.n.net",
+        "time": 69.449
+      },
+      {
+        "id": "104.44.4.28",
+        "addr": "be-4-0.ibr02.was05.ntwk.n.net",
+        "time": 68.67766666666667
+      },
+      {
+        "id": "104.44.4.203",
+        "addr": "be-5-0.ibr01.by2.ntwk.n.net",
+        "time": 68.72500000000001
+      },
+      {
+        "id": "104.44.8.191",
+        "addr": "ae86-0.by2-96c-1b.ntwk.n.net",
+        "time": 67.62833333333334
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "104.210.44.221",
+        "addr": "104.210.44.221",
+        "time": 67.53366666666666
+      }
+    ],
+    "hops": 24,
+    "timeTaken": 67.53366666666666
+  },
+  {
+    "id": "server-08",
+    "name": "52.183.56.41",
+    "routes": [
+      {
+        "id": "165.230.49.113",
+        "addr": "*",
+        "time": 1.1513333333333333
+      },
+      {
+        "id": "172.28.1.33",
+        "addr": "vlan104-ar01-cor-hill.runet.rutgers.net",
+        "time": 0.9943333333333334
+      },
+      {
+        "id": "172.28.6.38",
+        "addr": "gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net",
+        "time": 0.9676666666666667
+      },
+      {
+        "id": "172.28.194.2",
+        "addr": "tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net",
+        "time": 1.0146666666666666
+      },
+      {
+        "id": "172.28.193.194",
+        "addr": "xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net",
+        "time": 0.7416666666666667
+      },
+      {
+        "id": "172.29.6.42",
+        "addr": "ae1-2000-cr10-hill-nbp.runet.rutgers.net",
+        "time": 0.6429999999999999
+      },
+      {
+        "id": "172.29.6.55",
+        "addr": "ae5-2000-cr02-halsey-nwk.runet.rutgers.net",
+        "time": 0.9223333333333334
+      },
+      {
+        "id": "172.29.8.6",
+        "addr": "ae2-0-er02-halsey-ext.runet.rutgers.net",
+        "time": 0.961
+      },
+      {
+        "id": "198.32.160.199",
+        "addr": "nyiix.as8075.n.net",
+        "time": 2.622
+      },
+      {
+        "id": "104.44.9.231",
+        "addr": "be-63-0.ibr01.nyc04.ntwk.n.net",
+        "time": 78.02266666666667
+      },
+      {
+        "id": "104.44.4.34",
+        "addr": "be-3-0.ibr01.was02.ntwk.n.net",
+        "time": 76.44566666666667
+      },
+      {
+        "id": "104.44.4.33",
+        "addr": "be-4-0.ibr03.ch1.ntwk.n.net",
+        "time": 76.122
+      },
+      {
+        "id": "104.44.4.56",
+        "addr": "be-2-0.ibr02.ch1.ntwk.n.net",
+        "time": 76.00233333333334
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 75.46833333333333
+      },
+      {
+        "id": "104.44.4.74",
+        "addr": "be-3-0.ibr01.dm3.ntwk.n.net",
+        "time": 76.78933333333333
+      },
+      {
+        "id": "104.44.4.97",
+        "addr": "be-4-0.ibr02.den07.ntwk.n.net",
+        "time": 76.88233333333334
+      },
+      {
+        "id": "104.44.4.58",
+        "addr": "be-1-0.ibr01.den07.ntwk.n.net",
+        "time": 77.05133333333333
+      },
+      {
+        "id": "104.44.4.112",
+        "addr": "be-3-0.ibr01.cys01.ntwk.n.net",
+        "time": 76.16566666666667
+      },
+      {
+        "id": "104.44.4.98",
+        "addr": "be-1-0.ibr02.cys01.ntwk.n.net",
+        "time": 77.70766666666667
+      },
+      {
+        "id": "104.44.4.122",
+        "addr": "be-3-0.ibr01.co2.ntwk.n.net",
+        "time": 75.93066666666667
+      },
+      {
+        "id": "104.44.4.155",
+        "addr": "be-5-0.ibr01.cnr02.mwh01.ntwk.n.net",
+        "time": 76.635
+      },
+      {
+        "id": "104.44.9.117",
+        "addr": "ae61-0.mwh01-96cbe-1a.ntwk.n.net",
+        "time": 74.95366666666666
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      }
+    ],
+    "hops": 30,
+    "timeTaken": "*"
+  }
+]

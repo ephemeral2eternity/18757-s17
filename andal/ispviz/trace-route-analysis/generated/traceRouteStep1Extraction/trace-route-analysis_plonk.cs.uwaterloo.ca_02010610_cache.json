@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "server-01",
+    "name": "40.69.135.145",
+    "routes": [
+      {
+        "id": "129.97.74.1",
+        "addr": "*",
+        "time": 3.579
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.6696666666666667
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.5535
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.2140000000000002
+      },
+      {
+        "id": "172.16.31.117",
+        "addr": "te2-16-cn-rt-mc.ns.uwaterloo.ca",
+        "time": 1.0406666666666666
+      },
+      {
+        "id": "172.16.32.149",
+        "addr": "te4-13-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 0.9533333333333335
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 2.1053333333333337
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.316666666666666
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.350666666666666
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.4736666666666665
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 33.937999999999995
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 33.06066666666666
+      },
+      {
+        "id": "104.44.4.53",
+        "addr": "be-1-0.ibr02.ch1.ntwk.n.net",
+        "time": 32.70433333333334
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 32.69566666666667
+      },
+      {
+        "id": "104.44.4.180",
+        "addr": "be-2-0.ibr01.cnr02.dsm05.ntwk.n.net",
+        "time": 33.273666666666664
+      },
+      {
+        "id": "104.44.9.171",
+        "addr": "ae74-0.dsm05-96cbe-1d.ntwk.n.net",
+        "time": 31.285
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "40.69.135.145",
+        "addr": "40.69.135.145",
+        "time": 31.522333333333332
+      }
+    ],
+    "hops": 22,
+    "timeTaken": 31.522333333333332
+  },
+  {
+    "id": "server-02",
+    "name": "13.90.151.24",
+    "routes": [
+      {
+        "id": "129.97.74.1",
+        "addr": "*",
+        "time": 4.925
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 1.173
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.6415
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.3110000000000002
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 1.1280000000000001
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 1.0353333333333332
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.798
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.395666666666666
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.521333333333334
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.428333333333334
+      },
+      {
+        "id": "104.44.9.222",
+        "addr": "be-61-0.ibr01.yto02.ntwk.n.net",
+        "time": 30.441999999999997
+      },
+      {
+        "id": "104.44.4.67",
+        "addr": "be-2-0.ibr01.nyc04.ntwk.n.net",
+        "time": 30.173999999999996
+      },
+      {
+        "id": "104.44.4.34",
+        "addr": "be-3-0.ibr01.was02.ntwk.n.net",
+        "time": 30.32166666666667
+      },
+      {
+        "id": "104.44.8.75",
+        "addr": "ae62-0.sn1-96cb-1b.ntwk.n.net",
+        "time": 29.579666666666668
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "13.90.151.24",
+        "addr": "13.90.151.24",
+        "time": 29.726
+      }
+    ],
+    "hops": 20,
+    "timeTaken": 29.726
+  },
+  {
+    "id": "server-03",
+    "name": "52.184.187.152",
+    "routes": [
+      {
+        "id": "129.97.74.1",
+        "addr": "*",
+        "time": 4.323
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.8476666666666667
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.77
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.3566666666666667
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 1.023
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 0.9546666666666667
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.8596666666666666
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.267333333333334
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.395333333333333
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.47
+      },
+      {
+        "id": "104.44.9.222",
+        "addr": "be-61-0.ibr01.yto02.ntwk.n.net",
+        "time": 34.20533333333333
+      },
+      {
+        "id": "104.44.4.67",
+        "addr": "be-2-0.ibr01.nyc04.ntwk.n.net",
+        "time": 35.08166666666667
+      },
+      {
+        "id": "104.44.4.51",
+        "addr": "be-1-0.ibr02.nyc04.ntwk.n.net",
+        "time": 34.05766666666666
+      },
+      {
+        "id": "104.44.4.28",
+        "addr": "be-4-0.ibr02.was05.ntwk.n.net",
+        "time": 35.183
+      },
+      {
+        "id": "104.44.4.27",
+        "addr": "be-3-0.ibr02.bn1.ntwk.n.net",
+        "time": 34.772999999999996
+      },
+      {
+        "id": "104.44.4.165",
+        "addr": "be-5-0.ibr01.cnr01.bn6.ntwk.n.net",
+        "time": 35.876666666666665
+      },
+      {
+        "id": "104.44.9.99",
+        "addr": "ae64-0.bn6-96cbe-1d.ntwk.n.net",
+        "time": 33.431666666666665
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "52.184.187.152",
+        "addr": "52.184.187.152",
+        "time": 33.77666666666667
+      }
+    ],
+    "hops": 22,
+    "timeTaken": 33.77666666666667
+  },
+  {
+    "id": "server-04",
+    "name": "157.55.140.182",
+    "routes": [
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.5873333333333334
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.622
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.1906666666666668
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 0.9636666666666667
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 1.0803333333333334
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.7916666666666667
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.173666666666667
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.785666666666667
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.440666666666666
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 19.626333333333335
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 18.706
+      },
+      {
+        "id": "104.44.9.45",
+        "addr": "ae65-0.ch3-96cbe-1a.ntwk.n.net",
+        "time": 18.052333333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "157.55.140.182",
+        "addr": "157.55.140.182",
+        "time": 18.846333333333334
+      }
+    ],
+    "hops": 29,
+    "timeTaken": 18.846333333333334
+  },
+  {
+    "id": "server-05",
+    "name": "13.85.80.42",
+    "routes": [
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.6266666666666667
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.537
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.1103333333333334
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 119.95066666666666
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 1.0356666666666667
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.8840000000000001
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.477666666666667
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.346333333333333
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.434333333333334
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 55.95466666666667
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 55.23333333333334
+      },
+      {
+        "id": "104.44.4.53",
+        "addr": "be-1-0.ibr02.ch1.ntwk.n.net",
+        "time": 55.032000000000004
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 55.21533333333334
+      },
+      {
+        "id": "104.44.4.82",
+        "addr": "be-1-0.ibr02.dm2.ntwk.n.net",
+        "time": 54.660666666666664
+      },
+      {
+        "id": "104.44.4.10",
+        "addr": "be-4-0.ibr01.dfw05.ntwk.n.net",
+        "time": 55.757666666666665
+      },
+      {
+        "id": "104.44.4.7",
+        "addr": "be-1-0.ibr02.dfw05.ntwk.n.net",
+        "time": 54.69233333333333
+      },
+      {
+        "id": "104.44.4.88",
+        "addr": "be-3-0.ibr02.sn4.ntwk.n.net",
+        "time": 54.63833333333334
+      },
+      {
+        "id": "104.44.9.77",
+        "addr": "ae85-0.sn2-96cb-1a.ntwk.n.net",
+        "time": 53.67433333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      }
+    ],
+    "hops": 30,
+    "timeTaken": "*"
+  },
+  {
+    "id": "server-06",
+    "name": "13.78.236.216",
+    "routes": [
+      {
+        "id": "129.97.74.1",
+        "addr": "*",
+        "time": 4.539
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.7703333333333333
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.5793333333333333
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 0.9740000000000001
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 1.0106666666666666
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 2.061666666666667
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.2909999999999995
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.428333333333334
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.447
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 64.934
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 63.57566666666667
+      },
+      {
+        "id": "104.44.4.53",
+        "addr": "be-1-0.ibr02.ch1.ntwk.n.net",
+        "time": 62.22666666666667
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 65.36633333333333
+      },
+      {
+        "id": "104.44.4.74",
+        "addr": "be-3-0.ibr01.dm3.ntwk.n.net",
+        "time": 63.635333333333335
+      },
+      {
+        "id": "104.44.4.97",
+        "addr": "be-4-0.ibr02.den07.ntwk.n.net",
+        "time": 63.167
+      },
+      {
+        "id": "104.44.4.58",
+        "addr": "be-1-0.ibr01.den07.ntwk.n.net",
+        "time": 64.23433333333334
+      },
+      {
+        "id": "104.44.4.112",
+        "addr": "be-3-0.ibr01.cys01.ntwk.n.net",
+        "time": 63.492999999999995
+      },
+      {
+        "id": "104.44.4.195",
+        "addr": "be-2-0.ibr01.cnr02.cys04.ntwk.n.net",
+        "time": 63.48166666666666
+      },
+      {
+        "id": "104.44.9.211",
+        "addr": "ae73-0.cys04-96cbe-1c.ntwk.n.net",
+        "time": 61.50566666666666
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "13.78.236.216",
+        "addr": "13.78.236.216",
+        "time": 63.31133333333333
+      }
+    ],
+    "hops": 30,
+    "timeTaken": 63.31133333333333
+  },
+  {
+    "id": "server-07",
+    "name": "104.210.44.221",
+    "routes": [
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.7783333333333333
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.578
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.6306666666666665
+      },
+      {
+        "id": "172.16.31.117",
+        "addr": "te2-16-cn-rt-mc.ns.uwaterloo.ca",
+        "time": 0.8463333333333334
+      },
+      {
+        "id": "172.16.32.149",
+        "addr": "te4-13-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 0.9673333333333334
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.6173333333333335
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 5.151666666666666
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.178666666666667
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.423
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 71.877
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 71.845
+      },
+      {
+        "id": "104.44.4.53",
+        "addr": "be-1-0.ibr02.ch1.ntwk.n.net",
+        "time": 71.41799999999999
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 72.08433333333333
+      },
+      {
+        "id": "104.44.4.74",
+        "addr": "be-3-0.ibr01.dm3.ntwk.n.net",
+        "time": 71.45100000000001
+      },
+      {
+        "id": "104.44.4.97",
+        "addr": "be-4-0.ibr02.den07.ntwk.n.net",
+        "time": 71.15033333333332
+      },
+      {
+        "id": "104.44.4.111",
+        "addr": "be-2-0.ibr02.dna.ntwk.n.net",
+        "time": 73.052
+      },
+      {
+        "id": "104.44.4.68",
+        "addr": "be-1-0.ibr01.dna.ntwk.n.net",
+        "time": 72.14
+      },
+      {
+        "id": "104.44.4.120",
+        "addr": "be-5-0.ibr02.bay.ntwk.n.net",
+        "time": 71.865
+      },
+      {
+        "id": "104.44.10.34",
+        "addr": "104.44.10.34",
+        "time": 69.10633333333332
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      }
+    ],
+    "hops": 30,
+    "timeTaken": "*"
+  },
+  {
+    "id": "server-08",
+    "name": "52.183.56.41",
+    "routes": [
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "172.16.3.5",
+        "addr": "te2-7-dist-rt-phy.ns.uwaterloo.ca",
+        "time": 0.6866666666666666
+      },
+      {
+        "id": "172.31.0.149",
+        "addr": "xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca",
+        "time": 0.5816666666666667
+      },
+      {
+        "id": "172.31.0.161",
+        "addr": "te2-12-dist-rt-mc-global.ns.uwaterloo.ca",
+        "time": 1.3383333333333336
+      },
+      {
+        "id": "172.16.31.113",
+        "addr": "te2-16-cn-rt-rac.ns.uwaterloo.ca",
+        "time": 1.0123333333333333
+      },
+      {
+        "id": "172.16.31.229",
+        "addr": "te4-9-ext-rt-mc.ns.uwaterloo.ca",
+        "time": 0.992
+      },
+      {
+        "id": "66.97.28.65",
+        "addr": "66.97.28.65",
+        "time": 1.9496666666666667
+      },
+      {
+        "id": "66.97.16.109",
+        "addr": "be119.p01-york.orion.on.ca",
+        "time": 4.896999999999999
+      },
+      {
+        "id": "66.97.16.26",
+        "addr": "be202.gw01-toro.orion.on.ca",
+        "time": 5.4110000000000005
+      },
+      {
+        "id": "206.108.34.160",
+        "addr": "microsoft.ip4.torontointernetxchange.net",
+        "time": 4.466666666666667
+      },
+      {
+        "id": "104.44.9.227",
+        "addr": "be-71-0.ibr02.yto02.ntwk.n.net",
+        "time": 65.18333333333332
+      },
+      {
+        "id": "104.44.4.64",
+        "addr": "be-2-0.ibr01.ch1.ntwk.n.net",
+        "time": 63.373333333333335
+      },
+      {
+        "id": "104.44.4.53",
+        "addr": "be-1-0.ibr02.ch1.ntwk.n.net",
+        "time": 63.476333333333336
+      },
+      {
+        "id": "104.44.4.76",
+        "addr": "be-5-0.ibr01.dm2.ntwk.n.net",
+        "time": 64.33766666666666
+      },
+      {
+        "id": "104.44.4.74",
+        "addr": "be-3-0.ibr01.dm3.ntwk.n.net",
+        "time": 63.10766666666667
+      },
+      {
+        "id": "104.44.4.97",
+        "addr": "be-4-0.ibr02.den07.ntwk.n.net",
+        "time": 63.85466666666665
+      },
+      {
+        "id": "104.44.4.58",
+        "addr": "be-1-0.ibr01.den07.ntwk.n.net",
+        "time": 64.46166666666667
+      },
+      {
+        "id": "104.44.4.112",
+        "addr": "be-3-0.ibr01.cys01.ntwk.n.net",
+        "time": 63.00866666666667
+      },
+      {
+        "id": "104.44.4.98",
+        "addr": "be-1-0.ibr02.cys01.ntwk.n.net",
+        "time": 62.326666666666675
+      },
+      {
+        "id": "104.44.4.122",
+        "addr": "be-3-0.ibr01.co2.ntwk.n.net",
+        "time": 62.852000000000004
+      },
+      {
+        "id": "104.44.4.151",
+        "addr": "be-4-0.ibr01.cnr03.mwh01.ntwk.n.net",
+        "time": 65.08366666666666
+      },
+      {
+        "id": "104.44.9.129",
+        "addr": "ae73-0.mwh01-96cbe-1c.ntwk.n.net",
+        "time": 61.41766666666666
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      },
+      {
+        "id": "*",
+        "addr": "*",
+        "time": "*"
+      }
+    ],
+    "hops": 30,
+    "timeTaken": "*"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "neighborAS": 8075,
+    "AS": 13041,
+    "number": 3296
+  },
+  {
+    "neighborAS": 766,
+    "AS": 13041,
+    "number": 208
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 766,
+    "number": 52
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 766,
+    "number": 312
+  },
+  {
+    "neighborAS": 12693,
+    "AS": 680,
+    "number": 2288
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 12693,
+    "number": 4000
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 680,
+    "number": 96
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 12693,
+    "number": 576
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 11537,
+    "number": 6384
+  },
+  {
+    "neighborAS": 174,
+    "AS": 3512,
+    "number": 100
+  },
+  {
+    "neighborAS": 16509,
+    "AS": 3356,
+    "number": 435
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 11537,
+    "number": 600
+  },
+  {
+    "neighborAS": 14618,
+    "AS": 16509,
+    "number": 545
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 174,
+    "number": 151
+  },
+  {
+    "neighborAS": 4538,
+    "AS": 23910,
+    "number": 1836
+  },
+  {
+    "neighborAS": 6453,
+    "AS": 4538,
+    "number": 1632
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 6453,
+    "number": 3264
+  },
+  {
+    "neighborAS": 174,
+    "AS": 4538,
+    "number": 51
+  },
+  {
+    "neighborAS": 4837,
+    "AS": 4538,
+    "number": 153
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 4837,
+    "number": 306
+  },
+  {
+    "neighborAS": 2914,
+    "AS": 7575,
+    "number": 52
+  },
+  {
+    "neighborAS": 16509,
+    "AS": 2914,
+    "number": 52
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 7575,
+    "number": 312
+  },
+  {
+    "neighborAS": 26677,
+    "AS": 25826,
+    "number": 64
+  },
+  {
+    "neighborAS": 11670,
+    "AS": 26677,
+    "number": 64
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 11670,
+    "number": 128
+  }
+]

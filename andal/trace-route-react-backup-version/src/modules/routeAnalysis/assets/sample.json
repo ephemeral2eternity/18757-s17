@@ -1,0 +1,82 @@
+[
+  {
+    "neighborAS": 8075,
+    "AS": 13041
+  },
+  {
+    "neighborAS": 766,
+    "AS": 13041
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 766
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 766
+  },
+  {
+    "neighborAS": 12693,
+    "AS": 680
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 12693
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 680
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 12693
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 11537
+  },
+  {
+    "neighborAS": 174,
+    "AS": 3512
+  },
+  {
+    "neighborAS": 16509,
+    "AS": 3356
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 11537
+  },
+  {
+    "neighborAS": 14618,
+    "AS": 16509
+  },
+  {
+    "neighborAS": 3356,
+    "AS": 174
+  },
+  {
+    "neighborAS": 4538,
+    "AS": 23910
+  },
+  {
+    "neighborAS": 6453,
+    "AS": 4538
+  },
+  {
+    "neighborAS": 8075,
+    "AS": 6453
+  },
+  {
+    "neighborAS": 174,
+    "AS": 4538
+  },
+  {
+    "neighborAS": 4837,
+    "AS": 4538
+  },
+  {
+    "neighborAS": 15169,
+    "AS": 4837
+  }
+]

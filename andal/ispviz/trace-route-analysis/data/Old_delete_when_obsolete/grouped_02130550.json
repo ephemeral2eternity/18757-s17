@@ -1,0 +1,865 @@
+[
+  {
+    "hops": 16,
+    "ip": "54.159.103.224",
+    "routes": {
+      "14618": [
+        {
+          "ip": "54.159.103.224",
+          "AS": 14618,
+          "ISP": "Amazon.com, Inc.",
+          "time": 4.390666666666666
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.4270000000000003
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.8616666666666667
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6256666666666667
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6966666666666667
+        },
+        {
+          "ip": "129.2.0.246",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.9969999999999999
+        },
+        {
+          "ip": "128.8.7.185",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 3.237666666666667
+        }
+      ],
+      "16509": [
+        {
+          "ip": "52.95.51.54",
+          "AS": 16509,
+          "ISP": "Amazon.com, Inc.",
+          "time": 3.376333333333333
+        },
+        {
+          "ip": "54.239.110.145",
+          "AS": 16509,
+          "ISP": "Amazon.com, Inc.",
+          "time": 13.062666666666667
+        },
+        {
+          "ip": "54.239.111.17",
+          "AS": 16509,
+          "ISP": "Amazon.com, Inc.",
+          "time": 4.406666666666667
+        }
+      ]
+    },
+    "name": "aws-server",
+    "timeTaken": 4.390666666666666
+  },
+  {
+    "hops": 20,
+    "ip": "104.197.165.32",
+    "routes": {
+      "209": [
+        {
+          "ip": "65.114.128.133",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 1.8723333333333334
+        },
+        {
+          "ip": "65.121.136.198",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 108.973
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.4363333333333335
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 3.2423333333333333
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.5736666666666667
+        },
+        {
+          "ip": "129.2.0.82",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6576666666666667
+        },
+        {
+          "ip": "128.8.0.226",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.0586666666666666
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.86",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 1.204
+        }
+      ],
+      "15169": [
+        {
+          "ip": "108.170.240.98",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 108.84499999999998
+        },
+        {
+          "ip": "216.239.48.95",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 109.77433333333333
+        },
+        {
+          "ip": "209.85.252.46",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 133.86033333333333
+        },
+        {
+          "ip": "209.85.247.5",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 41.124
+        },
+        {
+          "ip": "216.239.59.143",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 29.778666666666666
+        },
+        {
+          "ip": "104.197.165.32",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 133.23266666666666
+        }
+      ]
+    },
+    "name": "gserver-01",
+    "timeTaken": 133.23266666666666
+  },
+  {
+    "hops": 22,
+    "ip": "104.196.11.109",
+    "routes": {
+      "209": [
+        {
+          "ip": "65.114.128.133",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 70.41766666666666
+        },
+        {
+          "ip": "65.121.136.198",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 105.61966666666667
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 6.117333333333334
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.976
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.377
+        },
+        {
+          "ip": "129.2.0.82",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.5716666666666668
+        },
+        {
+          "ip": "128.8.0.226",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.0376666666666667
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.86",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 1.3103333333333333
+        }
+      ],
+      "15169": [
+        {
+          "ip": "108.170.246.35",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 105.26433333333334
+        },
+        {
+          "ip": "216.239.50.97",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 71.58533333333332
+        },
+        {
+          "ip": "209.85.255.146",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 15.768333333333333
+        },
+        {
+          "ip": "74.125.37.189",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 16.554666666666666
+        },
+        {
+          "ip": "104.196.11.109",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 16.156333333333333
+        }
+      ]
+    },
+    "name": "gserver-02",
+    "timeTaken": 16.156333333333333
+  },
+  {
+    "hops": 18,
+    "ip": "104.199.127.170",
+    "routes": {
+      "209": [
+        {
+          "ip": "65.114.128.133",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 2.1936666666666667
+        },
+        {
+          "ip": "65.121.136.198",
+          "AS": 209,
+          "ISP": "Qwest Communications Company, LLC",
+          "time": 38.01766666666667
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.466
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 13.150666666666666
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6120000000000001
+        },
+        {
+          "ip": "129.2.0.82",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.7543333333333333
+        },
+        {
+          "ip": "128.8.0.226",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.0983333333333334
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.86",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 1.2073333333333334
+        }
+      ],
+      "15169": [
+        {
+          "ip": "108.170.246.34",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 108.90333333333335
+        },
+        {
+          "ip": "108.170.235.157",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 108.21133333333334
+        },
+        {
+          "ip": "209.85.250.8",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 125.48933333333333
+        },
+        {
+          "ip": "72.14.234.9",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 30.567999999999998
+        },
+        {
+          "ip": "104.199.127.170",
+          "AS": 15169,
+          "ISP": "Google Inc.",
+          "time": 69.24866666666667
+        }
+      ]
+    },
+    "name": "gserver-03",
+    "timeTaken": 69.24866666666667
+  },
+  {
+    "hops": 22,
+    "ip": "40.69.135.145",
+    "routes": {
+      "11537": [
+        {
+          "ip": "198.71.45.181",
+          "AS": 11537,
+          "ISP": "Internet2",
+          "time": 4.078666666666667
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.4456666666666667
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.9566666666666667
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6166666666666666
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6693333333333333
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.1849999999999998
+        }
+      ],
+      "8075": [
+        {
+          "ip": "104.44.9.36",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 44.446666666666665
+        },
+        {
+          "ip": "104.44.4.33",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 45.592999999999996
+        },
+        {
+          "ip": "104.44.4.56",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 79.18599999999999
+        },
+        {
+          "ip": "104.44.4.76",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 44.791
+        },
+        {
+          "ip": "104.44.4.177",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 45.21133333333333
+        },
+        {
+          "ip": "104.44.9.173",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 43.34833333333333
+        },
+        {
+          "ip": "40.69.135.145",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 44.117
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.148",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 2.121
+        },
+        {
+          "ip": "206.196.178.81",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 3.718666666666666
+        },
+        {
+          "ip": "206.196.177.3",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 3.8000000000000003
+        }
+      ]
+    },
+    "name": "server-01",
+    "timeTaken": 44.117
+  },
+  {
+    "hops": 18,
+    "ip": "13.90.151.24",
+    "routes": {
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 92.88866666666667
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 93.20866666666666
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 92.22633333333334
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 92.35766666666666
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 92.90899999999999
+        }
+      ],
+      "8075": [
+        {
+          "ip": "198.200.130.74",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 108.54700000000001
+        },
+        {
+          "ip": "104.44.9.42",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 110.844
+        },
+        {
+          "ip": "104.44.10.55",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 72.40333333333334
+        },
+        {
+          "ip": "13.90.151.24",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 148.831
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.148",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 102.02633333333334
+        },
+        {
+          "ip": "206.196.178.81",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 107.81099999999999
+        },
+        {
+          "ip": "206.196.177.3",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 121.646
+        }
+      ]
+    },
+    "name": "server-02",
+    "timeTaken": 148.831
+  },
+  {
+    "hops": 20,
+    "ip": "52.184.187.152",
+    "routes": {
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.245
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6830000000000002
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.49433333333333335
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 0.6706666666666666
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 1.3686666666666667
+        }
+      ],
+      "8075": [
+        {
+          "ip": "198.200.130.74",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 3.8706666666666667
+        },
+        {
+          "ip": "104.44.9.42",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 11.045333333333334
+        },
+        {
+          "ip": "104.44.4.27",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 9.469666666666667
+        },
+        {
+          "ip": "104.44.4.165",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 10.78433333333333
+        },
+        {
+          "ip": "104.44.9.97",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 8.650999999999998
+        },
+        {
+          "ip": "52.184.187.152",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 9.651
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.148",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 2.5189999999999997
+        },
+        {
+          "ip": "206.196.178.81",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 3.0396666666666667
+        },
+        {
+          "ip": "206.196.177.3",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 3.711
+        }
+      ]
+    },
+    "name": "server-03",
+    "timeTaken": 9.651
+  },
+  {
+    "hops": 25,
+    "ip": "157.55.140.182",
+    "routes": {
+      "11537": [
+        {
+          "ip": "198.71.45.181",
+          "AS": 11537,
+          "ISP": "Internet2",
+          "time": 74.64066666666668
+        }
+      ],
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 61.19533333333334
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 162.83033333333333
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 162.88700000000003
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 162.708
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 163.34266666666664
+        }
+      ],
+      "8075": [
+        {
+          "ip": "104.44.10.36",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 30.988666666666663
+        },
+        {
+          "ip": "104.44.4.33",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 30.577333333333332
+        },
+        {
+          "ip": "104.44.4.54",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 31.685666666666666
+        },
+        {
+          "ip": "104.44.9.47",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 132.02833333333334
+        },
+        {
+          "ip": "157.55.140.182",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 41.79666666666666
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.148",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 56.550999999999995
+        },
+        {
+          "ip": "206.196.178.81",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 9.915333333333333
+        },
+        {
+          "ip": "206.196.177.3",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 3.9043333333333337
+        }
+      ]
+    },
+    "name": "server-04",
+    "timeTaken": 41.79666666666666
+  },
+  {
+    "hops": 28,
+    "ip": "13.85.80.42",
+    "routes": {
+      "8075": [
+        {
+          "ip": "13.85.80.42",
+          "AS": 8075,
+          "ISP": "Microsoft Corporation",
+          "time": 447.404
+        }
+      ]
+    },
+    "name": "server-05",
+    "timeTaken": 447.404
+  },
+  {
+    "hops": 30,
+    "ip": "13.78.236.216",
+    "routes": {
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 988.979
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 988.6936666666667
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 988.6349999999999
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 989.305
+        }
+      ]
+    },
+    "name": "server-06",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 30,
+    "ip": "104.210.44.221",
+    "routes": {},
+    "name": "server-07",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 30,
+    "ip": "52.183.56.41",
+    "routes": {
+      "27": [
+        {
+          "ip": "128.8.126.1",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 33.70466666666667
+        },
+        {
+          "ip": "128.8.239.69",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 33.146
+        },
+        {
+          "ip": "129.2.0.113",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 32.85733333333334
+        },
+        {
+          "ip": "129.2.0.86",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 33.035333333333334
+        },
+        {
+          "ip": "129.2.0.230",
+          "AS": 27,
+          "ISP": "University of Maryland",
+          "time": 33.631
+        }
+      ],
+      "10886": [
+        {
+          "ip": "206.196.177.148",
+          "AS": 10886,
+          "ISP": "University of Maryland",
+          "time": 34.756
+        }
+      ]
+    },
+    "name": "server-08",
+    "timeTaken": "*"
+  }
+]

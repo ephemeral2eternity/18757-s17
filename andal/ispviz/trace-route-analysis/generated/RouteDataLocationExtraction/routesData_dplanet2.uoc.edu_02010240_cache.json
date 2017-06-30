@@ -1,0 +1,1206 @@
+[
+  {
+    "hops": 27,
+    "ip": "40.69.135.145",
+    "routes": [
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 4.6000000000000005
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 4.240666666666666
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.8150000000000002
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.7699999999999998
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.74
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.942666666666666
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.027
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 20.526333333333334
+      },
+      {
+        "ip": "104.44.226.47",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.218
+      },
+      {
+        "ip": "104.44.5.30",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.45966666666668
+      },
+      {
+        "ip": "104.44.4.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.48933333333332
+      },
+      {
+        "ip": "104.44.4.53",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.26866666666666
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.911
+      },
+      {
+        "ip": "104.44.4.177",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.26733333333334
+      },
+      {
+        "ip": "104.44.9.179",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 125.12766666666668
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "40.69.135.145",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 125.77933333333333
+      }
+    ],
+    "name": "server-01",
+    "timeTaken": 125.77933333333333
+  },
+  {
+    "hops": 21,
+    "ip": "13.90.151.24",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.03233333333333333
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.6306666666666665
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 8.496
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.7843333333333333
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.7306666666666668
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 9.014333333333335
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.988
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.014
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.310333333333332
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 26.552000000000003
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 101.062
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 100.94100000000002
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 100.795
+      },
+      {
+        "ip": "104.44.9.25",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 98.89966666666668
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "13.90.151.24",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 99.161
+      }
+    ],
+    "name": "server-02",
+    "timeTaken": 99.161
+  },
+  {
+    "hops": 21,
+    "ip": "52.184.187.152",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.037
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 5.359999999999999
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 5.782
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.788
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.8156666666666668
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.803333333333333
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.982999999999999
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.094
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.370333333333335
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 26.396
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 104.35200000000002
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 104.504
+      },
+      {
+        "ip": "104.44.4.27",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 105.36166666666668
+      },
+      {
+        "ip": "104.44.4.165",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 105.22866666666665
+      },
+      {
+        "ip": "104.44.9.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 104.09066666666666
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "52.184.187.152",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 103.574
+      }
+    ],
+    "name": "server-03",
+    "timeTaken": 103.574
+  },
+  {
+    "hops": 30,
+    "ip": "157.55.140.182",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.0295
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 2.8943333333333334
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 5.489
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.6936666666666664
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.7756666666666667
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.830333333333334
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.910333333333334
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 18.907
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.439333333333334
+      },
+      {
+        "ip": "104.44.226.47",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.258666666666667
+      },
+      {
+        "ip": "104.44.5.30",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.02633333333334
+      },
+      {
+        "ip": "104.44.4.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.03666666666668
+      },
+      {
+        "ip": "104.44.9.45",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 112.97233333333332
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "157.55.140.182",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 112.97033333333333
+      }
+    ],
+    "name": "server-04",
+    "timeTaken": 112.97033333333333
+  },
+  {
+    "hops": 30,
+    "ip": "13.85.80.42",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.036
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 4.933666666666666
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 5.1883333333333335
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.7243333333333333
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.7923333333333333
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.801333333333334
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.927333333333335
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 18.894000000000002
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.245
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 26.23466666666667
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.79433333333333
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.64066666666668
+      },
+      {
+        "ip": "104.44.4.27",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.89966666666666
+      },
+      {
+        "ip": "104.44.4.62",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.63566666666668
+      },
+      {
+        "ip": "104.44.4.48",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.961
+      },
+      {
+        "ip": "104.44.4.38",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 130.516
+      },
+      {
+        "ip": "104.44.4.47",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.93866666666668
+      },
+      {
+        "ip": "104.44.9.77",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.88466666666666
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-05",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 30,
+    "ip": "13.78.236.216",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.028
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 3.9459999999999997
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 3.1063333333333336
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.918
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.7693333333333332
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.868666666666666
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 11.618
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.204666666666665
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.362666666666666
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 26.492666666666665
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.09400000000002
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.032
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.38433333333333
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.49033333333333
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.51933333333332
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.81166666666664
+      },
+      {
+        "ip": "104.44.4.74",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.91899999999998
+      },
+      {
+        "ip": "104.44.4.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.29366666666667
+      },
+      {
+        "ip": "104.44.4.58",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.79366666666667
+      },
+      {
+        "ip": "104.44.4.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.50733333333332
+      },
+      {
+        "ip": "104.44.4.191",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 145.00633333333334
+      },
+      {
+        "ip": "104.44.9.199",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 142.45166666666668
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-06",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 26,
+    "ip": "104.210.44.221",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.032
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 75.86833333333333
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 76.96666666666665
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 77.17233333333333
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 77.581
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 95.93733333333334
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 101.519
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 111.896
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 112.60000000000001
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 145.08633333333333
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 335.3806666666667
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 343.2283333333333
+      },
+      {
+        "ip": "104.44.4.203",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 348.23900000000003
+      },
+      {
+        "ip": "104.44.224.150",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 356.25866666666667
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "104.210.44.221",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 158.88666666666666
+      }
+    ],
+    "name": "server-07",
+    "timeTaken": 158.88666666666666
+  },
+  {
+    "hops": 30,
+    "ip": "52.183.56.41",
+    "routes": [
+      {
+        "ip": "192.168.124.1",
+        "AS": -1,
+        "ISP": "unknown",
+        "time": 0.03333333333333333
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "84.88.23.165",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 5.068333333333333
+      },
+      {
+        "ip": "84.88.15.53",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 2.3593333333333333
+      },
+      {
+        "ip": "193.242.98.152",
+        "AS": 13041,
+        "ISP": "Consorci de Serveis Universitaris de Catalunya",
+        "time": 1.8246666666666667
+      },
+      {
+        "ip": "104.44.226.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 1.8326666666666667
+      },
+      {
+        "ip": "104.44.226.37",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 8.792333333333334
+      },
+      {
+        "ip": "104.44.227.12",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 9.35
+      },
+      {
+        "ip": "104.44.227.5",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 19.057333333333332
+      },
+      {
+        "ip": "204.152.141.244",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 21.033666666666665
+      },
+      {
+        "ip": "104.44.227.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 26.385
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 167.10833333333335
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 184.27200000000002
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 178.572
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 171.53066666666666
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 169.66866666666667
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 167.85333333333332
+      },
+      {
+        "ip": "104.44.4.74",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 168.28133333333335
+      },
+      {
+        "ip": "104.44.4.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 168.35666666666668
+      },
+      {
+        "ip": "104.44.4.58",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 175.499
+      },
+      {
+        "ip": "104.44.4.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 167.74066666666667
+      },
+      {
+        "ip": "104.44.4.98",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 168.5616666666667
+      },
+      {
+        "ip": "104.44.4.122",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 168.41466666666665
+      },
+      {
+        "ip": "104.44.4.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 168.05100000000002
+      },
+      {
+        "ip": "104.44.9.131",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 166.15333333333334
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-08",
+    "timeTaken": "*"
+  }
+]

@@ -1,0 +1,1238 @@
+[
+  {
+    "hops": 26,
+    "ip": "40.69.135.145",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.3953333333333333
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.38599999999999995
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.8460000000000001
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6853333333333333
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.183
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 4.974
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.650333333333332
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 130.18233333333333
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 132.653
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.368000000000006
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.219333333333335
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.24566666666666
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.61033333333333
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.99233333333333
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 130.06266666666667
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 130.0566666666667
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.62866666666665
+      },
+      {
+        "ip": "104.44.4.180",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.00333333333333
+      },
+      {
+        "ip": "104.44.9.171",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.94000000000001
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "40.69.135.145",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 128.50566666666668
+      }
+    ],
+    "name": "server-01",
+    "timeTaken": 128.50566666666668
+  },
+  {
+    "hops": 21,
+    "ip": "13.90.151.24",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.5293333333333333
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.39466666666666667
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6336666666666667
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.8546666666666667
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.005333333333333
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 4.996666666666667
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 17.527666666666665
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 97.32566666666666
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 97.694
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.177666666666667
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.87566666666667
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 102.05399999999999
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 97.60133333333333
+      },
+      {
+        "ip": "104.44.9.31",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 98.053
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "13.90.151.24",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 96.19366666666667
+      }
+    ],
+    "name": "server-02",
+    "timeTaken": 96.19366666666667
+  },
+  {
+    "hops": 23,
+    "ip": "52.184.187.152",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.547
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.387
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 11.202666666666666
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.5973333333333334
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.2909999999999995
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 9.190666666666667
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.648
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 101.64466666666665
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 101.78699999999999
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.273666666666667
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.086000000000002
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 102.70933333333333
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 102.40366666666667
+      },
+      {
+        "ip": "104.44.4.27",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 101.956
+      },
+      {
+        "ip": "104.44.4.165",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 102.79233333333333
+      },
+      {
+        "ip": "104.44.9.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 100.29
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "52.184.187.152",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 100.543
+      }
+    ],
+    "name": "server-03",
+    "timeTaken": 100.543
+  },
+  {
+    "hops": 30,
+    "ip": "157.55.140.182",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.5596666666666668
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.4626666666666666
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6393333333333334
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6143333333333333
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.223333333333334
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 4.974
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.709
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.58066666666667
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.03000000000002
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.263
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.385333333333335
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.43599999999999
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.51233333333334
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.57366666666667
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 115.14166666666667
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 114.71433333333334
+      },
+      {
+        "ip": "104.44.9.51",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 112.93333333333334
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-04",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 30,
+    "ip": "13.85.80.42",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.472
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.39366666666666666
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 2.3586666666666667
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.9119999999999999
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.203666666666667
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 4.941
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.632
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.952
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.54
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.129666666666665
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.562
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.246
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.984
+      },
+      {
+        "ip": "104.44.4.27",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.45933333333333
+      },
+      {
+        "ip": "104.44.4.62",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 126.877
+      },
+      {
+        "ip": "104.44.4.48",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 128.39700000000002
+      },
+      {
+        "ip": "104.44.4.38",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 128.99833333333333
+      },
+      {
+        "ip": "104.44.4.47",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 129.33366666666666
+      },
+      {
+        "ip": "104.44.9.89",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 127.06933333333335
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-05",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 30,
+    "ip": "13.78.236.216",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.42333333333333334
+      },
+      {
+        "ip": "141.22.4.148",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.45333333333333337
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 1.631
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6723333333333333
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 4.954
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 5.237333333333333
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.662000000000003
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.64633333333333
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.806
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.209666666666664
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.217666666666663
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 146.00066666666666
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.34
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.5773333333333
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.92133333333334
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.63899999999998
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.00166666666667
+      },
+      {
+        "ip": "104.44.4.74",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.697
+      },
+      {
+        "ip": "104.44.4.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.73166666666668
+      },
+      {
+        "ip": "104.44.4.58",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 143.81
+      },
+      {
+        "ip": "104.44.4.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 146.458
+      },
+      {
+        "ip": "104.44.4.195",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 144.09466666666665
+      },
+      {
+        "ip": "104.44.9.211",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 142.2
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-06",
+    "timeTaken": "*"
+  },
+  {
+    "hops": 27,
+    "ip": "104.210.44.221",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.48633333333333334
+      },
+      {
+        "ip": "141.22.4.148",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.3406666666666666
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6913333333333332
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6926666666666667
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.065333333333334
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 4.949000000000001
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.699333333333332
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 156.31566666666666
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 156.27433333333335
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 25.355
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.425
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 157.36300000000003
+      },
+      {
+        "ip": "104.44.4.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 156.24066666666667
+      },
+      {
+        "ip": "104.44.4.203",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 156.943
+      },
+      {
+        "ip": "104.44.224.176",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 155.78066666666666
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "104.210.44.221",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 156.649
+      }
+    ],
+    "name": "server-07",
+    "timeTaken": 156.649
+  },
+  {
+    "hops": 30,
+    "ip": "52.183.56.41",
+    "routes": [
+      {
+        "ip": "141.22.213.33",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.4413333333333333
+      },
+      {
+        "ip": "141.22.4.124",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.35766666666666663
+      },
+      {
+        "ip": "188.1.231.165",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6343333333333333
+      },
+      {
+        "ip": "188.1.144.214",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 0.6133333333333333
+      },
+      {
+        "ip": "188.1.144.58",
+        "AS": 680,
+        "ISP": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "time": 5.0393333333333326
+      },
+      {
+        "ip": "193.178.185.84",
+        "AS": 12693,
+        "ISP": "BCIX e.V.",
+        "time": 5.145333333333333
+      },
+      {
+        "ip": "104.44.224.99",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 16.647666666666666
+      },
+      {
+        "ip": "104.44.9.134",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 165.119
+      },
+      {
+        "ip": "104.44.4.233",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.338
+      },
+      {
+        "ip": "104.44.9.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 22.191999999999997
+      },
+      {
+        "ip": "104.44.225.174",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 23.106666666666666
+      },
+      {
+        "ip": "104.44.5.28",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.165
+      },
+      {
+        "ip": "104.44.4.50",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 165.40400000000002
+      },
+      {
+        "ip": "104.44.4.34",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 165.162
+      },
+      {
+        "ip": "104.44.4.33",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 165.22733333333335
+      },
+      {
+        "ip": "104.44.4.56",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.89499999999998
+      },
+      {
+        "ip": "104.44.4.76",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 165.008
+      },
+      {
+        "ip": "104.44.4.74",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.44566666666665
+      },
+      {
+        "ip": "104.44.4.97",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.9176666666667
+      },
+      {
+        "ip": "104.44.4.58",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.47633333333332
+      },
+      {
+        "ip": "104.44.4.112",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.53866666666667
+      },
+      {
+        "ip": "104.44.4.98",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.55033333333333
+      },
+      {
+        "ip": "104.44.4.122",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.971
+      },
+      {
+        "ip": "104.44.4.151",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 164.757
+      },
+      {
+        "ip": "104.44.9.125",
+        "AS": 8075,
+        "ISP": "Microsoft Corporation",
+        "time": 163.967
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      },
+      {
+        "ip": "*",
+        "time": "*"
+      }
+    ],
+    "name": "server-08",
+    "timeTaken": "*"
+  }
+]
