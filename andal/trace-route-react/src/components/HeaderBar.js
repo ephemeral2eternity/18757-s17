@@ -20,17 +20,23 @@ export class AppMenu extends Component {
   render() {
     return (
       <div>
-        <FlatButton style={styles.button}>
-          <Link style={{color: Palette.white}} to="/stats">Stats</Link>
-        </FlatButton>
+        {/*<FlatButton style={styles.button}>*/}
+          {/*<Link style={{color: Palette.white}} to="/stats">Stats</Link>*/}
+        {/*</FlatButton>*/}
         <FlatButton style={styles.button}>
           <Link style={{color: Palette.white}} to="/map">Map</Link>
+        </FlatButton>
+        <FlatButton style={styles.button}>
+          <Link style={{color: Palette.white}} to="/cloud-providers">CPs</Link>
         </FlatButton>
         <FlatButton style={styles.button}>
           <Link style={{color: Palette.white}} to="/route-analysis">Route Analysis</Link>
         </FlatButton>
         <FlatButton style={styles.button}>
           <Link style={{color: Palette.white}} to="/peering-visualization">Peering Viz</Link>
+        </FlatButton>
+        <FlatButton style={styles.button}>
+          <Link style={{color: Palette.white}} to="/isp-peers">ISP Peers</Link>
         </FlatButton>
       </div>
     )

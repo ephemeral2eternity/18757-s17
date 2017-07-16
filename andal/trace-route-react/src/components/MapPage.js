@@ -5,9 +5,10 @@ import HighCharts from 'highcharts/highmaps'
 import ReactHighmaps from 'react-highcharts/ReactHighmaps.src'
 import maps from './mapData/world'
 import Palette from 'google-material-color-palette-json'
-import dataSet from '../modules/routeAnalysis/assets/nodes_links_data_initial_viz'
-import darkTheme from 'highcharts/themes/dark-unica'
-darkTheme(HighCharts)
+//import dataSet from '../modules/routeAnalysis/assets/nodes_links_data_initial_viz'
+import dataSet from '../modules/routeAnalysis/assets/demoPurposeData'
+// import theme from 'highcharts/themes/grid-light'
+// theme(HighCharts)
 
 // Add series with state capital bubbles
 const impNodes = []
@@ -17,7 +18,15 @@ dataSet.nodes.forEach(function (e) {
   e.z = e.number
   if (e.number > 6) {
     //e.color = '#' + Math.floor(Math.random() * 16777215).toString(16);
-    e.color = Palette.deepOrange.shade_500
+    if(e.name == "Amazon Web Services") {
+      e.color = Palette.pink.shade_200
+    } else if(e.name == "Google Cloud Platform") {
+      e.color = Palette.deepOrange.shade_500
+    } else if(e.name == "Microsoft Azure") {
+      e.color = Palette.yellow.shade_200
+    } else {
+      e.color = Palette.deepOrange.shade_500
+    }
     //e.legend = e.name;
     impNodes.push(e)
   } else {
@@ -26,7 +35,7 @@ dataSet.nodes.forEach(function (e) {
 })
 
 const tmpSeries = []
-dataSet.links.forEach(function (el) {
+/*dataSet.links.forEach(function (el) {
   const cur_data = [data[el.source], data[el.target]]
   const cur_series_point = {        // Specify points using lat/lon
     type: 'mappoint',
@@ -40,7 +49,7 @@ dataSet.links.forEach(function (el) {
     data: cur_data
   }
   tmpSeries.push(cur_series_point)
-})
+}) */
 
 const config2 = {
   chart: {
@@ -48,7 +57,7 @@ const config2 = {
   },
 
   title: {
-    text: 'ISP-s around the World!'
+    text: 'Cloud Providers Across the World!'
   },
 
   legend: {
@@ -125,27 +134,37 @@ const config2 = {
     enableMouseTracking: false,
     showInLegend: false
   }, {
-
     type: 'mapbubble',
     dataLabels: {
       enabled: true,
       format: '{point.AS}'
     },
-    name: 'ISPs',
+    name: 'Google Cloud Platform',
     data: impNodes,
     maxSize: '12%',
-    color: HighCharts.getOptions().colors[0]
-    //color: data.color
+    //color: HighCharts.getOptions().colors[0]
+    color: Palette.deepOrange.shade_500
   }, {
-    type: 'mappoint',
+    type: 'mapbubble',
     dataLabels: {
       enabled: true,
       format: '{point.AS}'
     },
-    name: 'ISPs',
+    name: 'Microsoft Azure',
+    data: impNodes,
+    maxSize: '12%',
+    //color: HighCharts.getOptions().colors[0]
+    color: Palette.pink.shade_200
+  }, {
+    type: 'mapbubble',
+    dataLabels: {
+      enabled: true,
+      format: '{point.AS}'
+    },
+    name: 'Amazon Web Services',
     data: data,
     maxSize: '12%',
-    color: Palette.green.shade_500
+    color: Palette.teal.shade_500
   }].concat(tmpSeries)
 }
 

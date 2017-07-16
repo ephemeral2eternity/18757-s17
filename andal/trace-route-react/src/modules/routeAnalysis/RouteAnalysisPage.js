@@ -13,7 +13,18 @@ import cloud_peer from './assets/peering_cloud_CDN'
 import client_peer from './assets/peering_transit_client'
 import transit_peer from './assets/peering_transit_transit'
 
+import pathLength_azure from './assets/peering/pathLength_azure.json'
+
 const alternateChartBgColor = Palette.blueGrey.shade_50
+
+const pathLengthSeries_1 = []
+pathLength_azure.forEach(function (el) {
+  const cur_data = {}
+  cur_data.name = el.id
+  cur_data.y = el.pathLength
+  cur_data.drilldown = el.id
+  pathLengthSeries_1.push(cur_data)
+})
 
 const tmpSeries = []
 sampleClientdata.routes.forEach(function (el) {
@@ -94,6 +105,49 @@ transit_peer.forEach(function (el) {
 TransitPeeringvsNumber.sort(function(a,b) { return parseFloat(b.y) - parseFloat(a.y) } )
 
 // Create the chart
+const config = {
+  chart: {
+    type: 'column'
+  },
+  title: {
+    text: 'Path Length per session - Azure '
+  },
+  subtitle: {
+    text: 'May 5th 2017'
+  },
+  xAxis: {
+    type: 'category'
+  },
+  yAxis: {
+    title: {
+      text: 'Path Length per session'
+    }
+
+  },
+  legend: {
+    enabled: true
+  },
+  plotOptions: {
+    series: {
+      borderWidth: 0,
+      dataLabels: {
+        enabled: true,
+        format: '{point.y}'
+      }
+    }
+  },
+
+  tooltip: {
+    headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+    pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y}%</b> of total<br/>'
+  },
+
+  series: [{
+    name: 'Path length of Sessions',
+    colorByPoint: true,
+    data: pathLengthSeries_1
+  }]
+}
 const config0 = {
   chart: {
     type: 'column'
@@ -484,7 +538,7 @@ const config8 = {
 
 export default class RouteAnalysisPage extends Component {
   render() {
-    const configs = [config0, config6, config7, config8, config1, config2, config3, config4, config5]
+    const configs = [config, config0, config6, config7, config8, config1, config2, config3, config4, config5]
     return (
       <div>
         <h1>Route Analysis Page</h1>
